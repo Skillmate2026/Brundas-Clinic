@@ -1,0 +1,34 @@
+# Healthcare Expertise Declaration
+site: https://www.brundaspecialistclinic.com/
+
+expertise_fields:
+ Orthopaedics
+ ENT (Ear Nose Throat)
+ Sports Injury Management
+ ACL Ligament Treatment
+ Shoulder Replacement Surgery
+ Sinus and Allergy Treatment
+
+content_review:
+ medical_reviewed: true
+ specialist_verified: true
+
+clinical_accuracy_policy:
+ All medical information published is intended for patient education
+ and reviewed by qualified medical professionals when possible.
+
+experience:
+ years_of_clinical_practice: Specialist-level consultation
+ treatment_focus:
+  - joint pain
+  - ligament injuries
+  - sports injuries
+  - sinus infections
+  - throat disorders
+  - ear infections
+
+patient_focus:
+ evidence-based treatment
+ clear patient communication
+ safe medical guidance
+

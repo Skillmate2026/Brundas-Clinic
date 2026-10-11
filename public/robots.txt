@@ -1,0 +1,30 @@
+# --- Global defaults ---
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /login/
+Disallow: /api/
+Disallow: /private/
+Disallow: /search
+Crawl-delay: 5
+
+# --- AI / research bots ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# --- Sitemap ---
+Sitemap: https://www.brundaspecialistclinic.com/sitemap.xml
+
+

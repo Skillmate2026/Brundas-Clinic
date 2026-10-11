@@ -1,0 +1,237 @@
+.hero {
+  background: linear-gradient(115deg, #e8f1ff 0%, #f7fbff 40%, #e7efff 100%);
+  padding-top: 60px;
+  padding-bottom: 10px;
+}
+
+.heroCard {
+  background: #ffffff;
+  border: 1px solid rgba(35, 91, 165, 0.12);
+  border-radius: 18px;
+  padding: 28px;
+  box-shadow: 0 20px 60px rgba(0, 30, 87, 0.08);
+  max-width: 760px;
+}
+
+.heroStats {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  color: #235ba5;
+  font-weight: 600;
+}
+
+.switcher {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.switcherBtn {
+  border: 1px solid rgba(35, 91, 165, 0.25);
+  background: #ffffff;
+  color: #235ba5;
+  padding: 12px 18px;
+  border-radius: 50px;
+  font-weight: 600;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1.2;
+  gap: 4px;
+  transition: all 0.2s ease;
+}
+
+.switcherBtnActive {
+  background: linear-gradient(135deg, #235ba5, #2d7efb);
+  color: #ffffff;
+  box-shadow: 0 10px 30px rgba(35, 91, 165, 0.3);
+  border-color: transparent;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  display: block;
+  background: #ffffff;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid rgba(35, 91, 165, 0.15);
+  box-shadow: 0 12px 35px rgba(0, 30, 87, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cardButton {
+  border: none;
+  padding: 0;
+  width: 100%;
+  text-align: inherit;
+  background: transparent;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 45px rgba(0, 30, 87, 0.12);
+}
+
+.videoSection {
+  margin-top: 40px;
+}
+
+.videoGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.videoCard {
+  padding: 0;
+}
+
+.videoMedia {
+  position: relative;
+  background: #0d1630;
+  aspect-ratio: 16 / 9;
+}
+
+.video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border: none;
+  outline: none;
+}
+
+.media {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  background: #f5f7fb;
+}
+
+.image {
+  object-fit: cover;
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 14px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: rgba(35, 91, 165, 0.1);
+  color: #235ba5;
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.caption {
+  color: #3a3f52;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: right;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  z-index: 4000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.lightboxContent {
+  position: relative;
+  max-width: 1100px;
+  width: 100%;
+  background: #0d1630;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 20px 80px rgba(0, 0, 0, 0.35);
+}
+
+.lightboxClose {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 999px;
+  width: 34px;
+  height: 34px;
+  font-size: 20px;
+  cursor: pointer;
+  color: #0d1630;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  z-index: 9999;
+}
+
+.lightboxArrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.92);
+  border: none;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #0d1630;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  z-index: 2;
+}
+
+.lightboxArrowLeft {
+  left: 12px;
+}
+
+.lightboxArrowRight {
+  right: 12px;
+}
+
+.lightboxMedia {
+  position: relative;
+  padding-bottom: 65%;
+  background: #0d1630;
+}
+
+.lightboxImage {
+  object-fit: contain;
+}
+
+@media (max-width: 767px) {
+  .hero {
+    padding-top: 40px;
+  }
+  .heroCard {
+    padding: 20px;
+  }
+}
