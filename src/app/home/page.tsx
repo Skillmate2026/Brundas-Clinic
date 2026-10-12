@@ -38,133 +38,22 @@ function HomePage() {
     <>
       <Header />
       <main className="page-content">
-        <div
-          id="carouselExampleControls"
-          className="carousel slide"
-          data-bs-ride="carousel"
-          style={{ maxWidth: "1800px", margin: "0 auto" }}
-        >
-          <div className="carousel-inner">
-            <div className="carousel-item active">
-              <div>
-                <div className="desk-view">
-                  <img
-                    src="/assets/banners/Brunda-DB-1.webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-                <div className="mobile-view">
-                  <img
-                    src="/assets/banners/Brunda-MB-1.webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-              </div>
-            </div>
-
-            <div className="carousel-item">
-              <div>
-                <div className="desk-view">
-                  <img
-                    src="/assets/banners/Brunda-DB-2 (2).webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-                <div className="mobile-view">
-                  <img
-                    src="/assets/banners/Brunda-MB-2 (1).webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-              </div>
-            </div>
-
-            <div className="carousel-item">
-              <div>
-                <div className="desk-view">
-                  <img
-                    src="/assets/banners/Brunda-DB-4 (1).webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-                <div className="mobile-view">
-                  <img
-                    src="/assets/banners/Brunda-MB-4 (1).webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-              </div>
-            </div>
-            <div className="carousel-item">
-              <div>
-                <div className="desk-view">
-                  <img
-                    src="/assets/banners/Brunda-DB-3.webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-                <div className="mobile-view">
-                  <img
-                    src="/assets/banners/Brunda-MB-3.webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-              </div>
-            </div>
-            <div className="carousel-item">
-              <div>
-                <div className="desk-view">
-                  <img
-                    src="/assets/banners/Brunda-DB-5.webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-                <div className="mobile-view">
-                  <img
-                    src="/assets/banners/Brunda-MB-5.webp"
-                    className="d-block w-100 "
-                    alt="..."
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
-          <button
-            className="carousel-control-prev"
-            style={{ backgroundColor: "transparent", border: "0px" }}
-            type="button"
-            data-bs-target="#carouselExampleControls"
-            data-bs-slide="prev"
+        
+        {/* Auto-Playing Video Hero Section */}
+        <div style={{ maxWidth: "1800px", margin: "0 auto", width: "100%" }}>
+          <video 
+            autoPlay 
+            loop 
+            muted 
+            playsInline
+            /* Removed minHeight and backgroundColor to fix mobile black bars */
+            style={{ width: "100%", height: "auto", display: "block" }}
           >
-            <span
-              className="carousel-control-prev-icon"
-              aria-hidden="true"
-            ></span>
-            <span className="visually-hidden">Previous</span>
-          </button>
-          <button
-            className="carousel-control-next"
-            type="button"
-            style={{ backgroundColor: "transparent", border: "0px" }}
-            data-bs-target="#carouselExampleControls"
-            data-bs-slide="next"
-          >
-            <span
-              className="carousel-control-next-icon "
-              aria-hidden="true"
-            ></span>
-            <span className="visually-hidden">Next</span>
-          </button>
+            <source src="/Brunda-Website.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
         </div>
+
         {/* <section
             className="content-inner desk-view"
             style={{
