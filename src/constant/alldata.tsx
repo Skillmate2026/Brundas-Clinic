@@ -544,7 +544,7 @@ export const empolydata = [
   {
     id: 2,
     delay: "0.2s",
-    image: "/assets/doctors-image/Dr-Nagaraj-M1.JPG",
+    image: "/assets/doctors-image/",
     title: "Dr. Nagaraj M",
     position: "Orthopedic Surgeon",
   },
