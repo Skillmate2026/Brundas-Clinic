@@ -36,8 +36,8 @@ const galleryFiles: Record<Category, string[]> = {
     "WhatsApp Image 2026-01-04 at 12.11.19.jpeg",
   ],
   ortho: [
-    "IMG_3823.JPG",
-    "c8.JPG",
+    "IMG_3823.jpg",
+    "c8.jpg",
     "WhatsApp Image 2026-01-05 at .jpeg",
     "WhatsApp Image 2026-01-05 at 15.06..jpeg",
     "WhatsApp Image 2026-01-05 at 15.06.07.jpeg",
