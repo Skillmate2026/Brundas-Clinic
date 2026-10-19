@@ -50,7 +50,7 @@ function Doctor() {
                 <div className="row flex-grow-1">
                   <div className="dz-media">
                     <Image
-                      src="/assets/doctors-image/Dr-Meghana-Janardhan1.jpg"
+                      src="/assets/doctors-image/Dr-Meghana-Janardhan1.JPG"
                       alt="Best ENT and Orthopedic Clinic in Vijayanagar"
                       width={100}
                       height={100}
