@@ -131,12 +131,12 @@ const clinicPhotos = [
   "c1.JPG",
   "c2.JPG",
   "c4.JPG",
-  "c5.JPG", 
+  "c5.jpg", 
   "c7.JPG",
-  "c8.JPG",
+  "c8.jpg",
   "c10.JPG",
   "c11.JPG",
-  "IMG_3869.JPG",
+  "IMG_3869.jpg",
 ];
 
 const getReadableName = (file: string) =>
