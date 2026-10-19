@@ -50,7 +50,7 @@ function Doctor() {
                 <div className="row flex-grow-1">
                   <div className="dz-media">
                     <Image
-                      src="/assets/doctors-image/Dr-Meghana-Janardhan1.JPG"
+                      src="/assets/doctors-image/Dr-Meghana-Janardhan1.jpg"
                       alt="Best ENT and Orthopedic Clinic in Vijayanagar"
                       width={100}
                       height={100}
@@ -131,7 +131,7 @@ function Doctor() {
                 <div className="row flex-grow-1">
                   <div className="dz-media">
                     <Image
-                      src="/assets/doctors-image/"
+                      src="/assets/doctors-image/Dr-Nagaraj-M1.jpg"
                       alt="Best ENT and Orthopedic Clinic in Vijayanagar"
                       width={100}
                       height={100}

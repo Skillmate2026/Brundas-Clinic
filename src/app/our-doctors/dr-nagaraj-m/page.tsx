@@ -30,7 +30,7 @@ function TeamDetail() {
                     <div className="dz-team style-5">
                       <div className="dz-media">
                         <Image
-                          src="/assets/doctors-image/"
+                          src="/assets/doctors-image/Dr-Nagaraj-M1.jpg"
                           width={200}
                           height={200}
                           alt="Dr. Nagaraj M"

@@ -323,7 +323,7 @@ const doctorInfo = {
     qualification: "MS Orthopaedics (AIIMS)",
     specialization: "Orthopaedic Surgeon",
     experience: "Expert in Joint Replacement & Trauma Care",
-    image: "/assets/doctors-image/",
+    image: "/assets/doctors-image/Dr-Nagaraj-M1.jpg",
     link: "/our-doctors/dr-nagaraj-m",
   },
 };
