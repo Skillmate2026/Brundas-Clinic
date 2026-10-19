@@ -252,7 +252,7 @@ const EntSpecialisationTabs: React.FC = () => {
           <a href="https://www.brundaspecialistclinic.com">
             ENT Specialist Doctor in Vijayanagar
           </a>
-          , Dr Meghana Janardhan at Brunda Specialist Clinic provides expert
+          , Dr Meghana Janardhan at Brunda Advanced Orthopaedics & ENT Centre provides expert
           diagnosis and treatment for a wide range of ear, nose, and throat
           conditions. Patients commonly visit for sinus infections, ear pain,
           hearing problems, throat infections, allergies, and voice disorders.

@@ -3153,7 +3153,7 @@ export const sitemapData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
@@ -8266,7 +8266,7 @@ export const sitemapData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
@@ -11671,7 +11671,7 @@ export const sitemapData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -15889,7 +15889,7 @@ export const sitemapData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
@@ -19296,7 +19296,7 @@ export const sitemapData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:

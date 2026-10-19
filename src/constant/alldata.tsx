@@ -537,14 +537,14 @@ export const empolydata = [
   {
     id: 1,
     delay: "0.2s",
-    image: "/assets/doctors-image/Dr-Meghana-Janardhan.png",
+    image: "/assets/doctors-image/Dr-Meghana-Janardhan1.JPG",
     title: "Dr. Meghana Janardhan",
     position: "ENT Surgeon",
   },
   {
     id: 2,
     delay: "0.2s",
-    image: "/assets/doctors-image/WhatsApp Image 2026-03-28 at 13.13.59.jpeg",
+    image: "/assets/doctors-image/Dr-Nagaraj-M1.JPG",
     title: "Dr. Nagaraj M",
     position: "Orthopedic Surgeon",
   },
@@ -638,7 +638,7 @@ export const accordiondata = [
     key: "0",
     title: "Who is the Best ENT Specialist in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic is recognized for providing expert ENT care in Vijayanagar, offering diagnosis and treatment for ear, nose, and throat conditions with personalized patient care.",
+      "Brunda Advanced Orthopaedics & ENT Centre is recognized for providing expert ENT care in Vijayanagar, offering diagnosis and treatment for ear, nose, and throat conditions with personalized patient care.",
     link: "/",
   },
   {
@@ -671,7 +671,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment with the Best ENT Specialist in Vijayanagar?",
     content:
-      "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar, Bengaluru during consultation hours.",
+      "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru during consultation hours.",
     link: "/",
   },
   {
@@ -679,7 +679,7 @@ export const accordiondata = [
     key: "0",
     title: "Which is the Best Orthopaedic Clinic in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic is considered one of the best orthopaedic clinics in Vijayanagar, offering expert care for joint pain, sports injuries, ACL tears, and shoulder conditions with accurate diagnosis and treatment.",
+      "Brunda Advanced Orthopaedics & ENT Centre is considered one of the best orthopaedic clinics in Vijayanagar, offering expert care for joint pain, sports injuries, ACL tears, and shoulder conditions with accurate diagnosis and treatment.",
     link: "/about-us",
   },
   {
@@ -696,7 +696,7 @@ export const accordiondata = [
     key: "2",
     title: "When can I visit the Best Orthopaedic Clinic in Vijayanagar?",
     content:
-      "Patients can visit Brunda Specialist Clinic from Monday to Saturday between 6:00 PM and 9:00 PM for orthopaedic consultation and treatment.",
+      "Patients can visit Brunda Advanced Orthopaedics & ENT Centre from Monday to Saturday between 6:00 PM and 9:00 PM for orthopaedic consultation and treatment.",
     link: "/about-us",
   },
   {
@@ -713,7 +713,7 @@ export const accordiondata = [
     title:
       "How do I book an appointment at the Best Orthopaedic Clinic in Vijayanagar?",
     content:
-      "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar, Bengaluru.",
+      "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru.",
     link: "/about-us",
   },
 
@@ -722,7 +722,7 @@ export const accordiondata = [
     key: "1",
     title: "Who is the Best ENT Specialist Doctor in Vijayanagar?",
     content:
-      "Dr Meghana Janardhan at Brunda Specialist Clinic is considered one of the best ENT specialist doctors in Vijayanagar, providing expert treatment for ear, nose, and throat conditions.",
+      "Dr Meghana Janardhan at Brunda Advanced Orthopaedics & ENT Centre is considered one of the best ENT specialist doctors in Vijayanagar, providing expert treatment for ear, nose, and throat conditions.",
     link: "/our-doctors/dr-meghana-janardhan",
   },
   {
@@ -747,7 +747,7 @@ export const accordiondata = [
     key: "4",
     title: "Where is the Best ENT Specialist Doctor in Vijayanagar located?",
     content:
-      "Dr Meghana Janardhan practices at Brunda Specialist Clinic in Vijayanagar, Bengaluru, serving patients from Govindaraj Nagar, Maruthi Mandir, and surrounding areas.",
+      "Dr Meghana Janardhan practices at Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru, serving patients from Govindaraj Nagar, Maruthi Mandir, and surrounding areas.",
     link: "/our-doctors/dr-meghana-janardhan",
   },
   {
@@ -755,7 +755,7 @@ export const accordiondata = [
     key: "5",
     title: "How can I book an appointment with the ENT specialist?",
     content:
-      "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar during consultation hours.",
+      "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar during consultation hours.",
     link: "/our-doctors/dr-meghana-janardhan",
   },
 
@@ -765,7 +765,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get Pediatric deformity treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers expert Pediatric deformity treatment in Vijayanagar with advanced orthopedic care for children experiencing bone, joint, or limb deformities.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers expert Pediatric deformity treatment in Vijayanagar with advanced orthopedic care for children experiencing bone, joint, or limb deformities.",
     link: "/our-services/orthopaedic-services/pediatric-deformity-surgeries",
   },
   {
@@ -805,7 +805,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I find the best Spine Surgery Doctor in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic provides expert consultation with an experienced Spine Surgery Doctor in Vijayanagar, offering advanced diagnosis and treatment for spine disorders, back pain, and disc problems.",
+      "Brunda Advanced Orthopaedics & ENT Centre provides expert consultation with an experienced Spine Surgery Doctor in Vijayanagar, offering advanced diagnosis and treatment for spine disorders, back pain, and disc problems.",
     link: "/our-services/orthopaedic-services/spine-surgeries",
   },
   {
@@ -838,7 +838,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment with a Spine Surgery Doctor in Vijayanagar?",
     content:
-      "You can book an appointment with the Spine Surgery Doctor in Vijayanagar at Brunda Specialist Clinic by calling +91 96323 71211 or visiting the clinic for a consultation.",
+      "You can book an appointment with the Spine Surgery Doctor in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre by calling +91 96323 71211 or visiting the clinic for a consultation.",
     link: "/our-services/orthopaedic-services/spine-surgeries",
   },
   {
@@ -846,7 +846,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get Rheumatoid Arthritis Treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic provides advanced Rheumatoid Arthritis Treatment in Vijayanagar with expert diagnosis, joint pain management, and personalized care plans for arthritis patients.",
+      "Brunda Advanced Orthopaedics & ENT Centre provides advanced Rheumatoid Arthritis Treatment in Vijayanagar with expert diagnosis, joint pain management, and personalized care plans for arthritis patients.",
     link: "/our-services/orthopaedic-services/rheumatoid-arthritis",
   },
   {
@@ -886,7 +886,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get the best Tennis Elbow Treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic provides advanced Tennis Elbow Treatment in Vijayanagar with expert orthopaedic care, accurate diagnosis, and personalized treatment plans for effective pain relief.",
+      "Brunda Advanced Orthopaedics & ENT Centre provides advanced Tennis Elbow Treatment in Vijayanagar with expert orthopaedic care, accurate diagnosis, and personalized treatment plans for effective pain relief.",
     link: "/our-services/orthopaedic-services/tennis-elbow-treatment",
   },
   {
@@ -927,7 +927,7 @@ export const accordiondata = [
     title:
       "Where can I get the best Plantar Fasciitis Treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic provides advanced Plantar Fasciitis Treatment in Vijayanagar with expert orthopaedic care, accurate diagnosis, and effective treatment options for heel pain relief.",
+      "Brunda Advanced Orthopaedics & ENT Centre provides advanced Plantar Fasciitis Treatment in Vijayanagar with expert orthopaedic care, accurate diagnosis, and effective treatment options for heel pain relief.",
     link: "/our-services/orthopaedic-services/plantar-fasciitis-treatment",
   },
   {
@@ -968,7 +968,7 @@ export const accordiondata = [
     title:
       "Where can I find the Best Clinic for Arthroplasty surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers expert Arthroplasty surgery in Vijayanagar, including knee, hip, and shoulder replacements, with personalized care and advanced techniques.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers expert Arthroplasty surgery in Vijayanagar, including knee, hip, and shoulder replacements, with personalized care and advanced techniques.",
     link: "/our-services/orthopaedic-services/arthroplasty",
   },
   {
@@ -1001,7 +1001,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment for Arthroplasty surgery in Vijayanagar?",
     content:
-      "Appointments can be booked by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar to consult with our experienced orthopaedic surgeons.",
+      "Appointments can be booked by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar to consult with our experienced orthopaedic surgeons.",
     link: "/our-services/orthopaedic-services/arthroplasty",
   },
   {
@@ -1009,7 +1009,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get the Best Knee Replacement Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic is renowned for advanced Knee Replacement Surgery in Vijayanagar, offering expert surgeons, modern techniques, and complete post-surgery care.",
+      "Brunda Advanced Orthopaedics & ENT Centre is renowned for advanced Knee Replacement Surgery in Vijayanagar, offering expert surgeons, modern techniques, and complete post-surgery care.",
     link: "/our-services/orthopaedic-services/arthroplasty/knee-replacement",
   },
   {
@@ -1041,7 +1041,7 @@ export const accordiondata = [
     key: "4",
     title: "How can I book an appointment for Knee Replacement Surgery?",
     content:
-      "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for a consultation with our orthopaedic experts.",
+      "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for a consultation with our orthopaedic experts.",
     link: "/our-services/orthopaedic-services/arthroplasty/knee-replacement",
   },
   {
@@ -1049,7 +1049,7 @@ export const accordiondata = [
     key: "0",
     title: "Who is the best Robotic Knee Replacement Surgeon in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced robotic knee replacement surgery in Vijayanagar with experienced orthopaedic surgeons providing precise and effective treatment for severe knee arthritis and joint damage.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced robotic knee replacement surgery in Vijayanagar with experienced orthopaedic surgeons providing precise and effective treatment for severe knee arthritis and joint damage.",
     link: "/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
   },
   {
@@ -1082,7 +1082,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment for robotic knee replacement in Vijayanagar?",
     content:
-      "You can book an appointment with the robotic knee replacement surgeon at Brunda Specialist Clinic in Vijayanagar by calling +91 96323 71211 for expert orthopaedic consultation.",
+      "You can book an appointment with the robotic knee replacement surgeon at Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar by calling +91 96323 71211 for expert orthopaedic consultation.",
     link: "/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
   },
   {
@@ -1091,7 +1091,7 @@ export const accordiondata = [
     title:
       "Where can I get computer-assisted total knee replacement in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers computer-assisted total knee replacement in Vijayanagar with advanced navigation-guided planning, accurate implant alignment, and structured rehabilitation support.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers computer-assisted total knee replacement in Vijayanagar with advanced navigation-guided planning, accurate implant alignment, and structured rehabilitation support.",
     link: "/our-services/orthopaedic-services/arthroplasty/computer-assisted-total-knee-replacement",
   },
   {
@@ -1125,7 +1125,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment for computer-assisted total knee replacement in Vijayanagar?",
     content:
-      "You can book an appointment at Brunda Specialist Clinic in Vijayanagar by calling +91 96323 71211 for expert orthopaedic consultation and assessment.",
+      "You can book an appointment at Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar by calling +91 96323 71211 for expert orthopaedic consultation and assessment.",
     link: "/our-services/orthopaedic-services/arthroplasty/computer-assisted-total-knee-replacement",
   },
   {
@@ -1133,7 +1133,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get Hip Replacement Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Hip Replacement Surgery in Vijayanagar with experienced orthopaedic surgeons, modern surgical techniques, and personalized recovery care.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Hip Replacement Surgery in Vijayanagar with experienced orthopaedic surgeons, modern surgical techniques, and personalized recovery care.",
     link: "/our-services/orthopaedic-services/arthroplasty/hip-replacement",
   },
   {
@@ -1173,7 +1173,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get robotic hip replacement in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers robotic hip replacement in Vijayanagar with precision-guided planning, accurate implant positioning, and personalized arthroplasty care.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers robotic hip replacement in Vijayanagar with precision-guided planning, accurate implant positioning, and personalized arthroplasty care.",
     link: "/our-services/orthopaedic-services/arthroplasty/robotic-hip-replacement",
   },
   {
@@ -1206,7 +1206,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment for robotic hip replacement in Vijayanagar?",
     content:
-      "You can call +91 96323 71211 to schedule a robotic hip replacement consultation at Brunda Specialist Clinic in Vijayanagar.",
+      "You can call +91 96323 71211 to schedule a robotic hip replacement consultation at Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar.",
     link: "/our-services/orthopaedic-services/arthroplasty/robotic-hip-replacement",
   },
   {
@@ -1214,7 +1214,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get computer-assisted hip replacement in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic provides computer-assisted hip replacement in Vijayanagar with navigation-guided planning, accurate implant orientation, and recovery-focused orthopaedic care.",
+      "Brunda Advanced Orthopaedics & ENT Centre provides computer-assisted hip replacement in Vijayanagar with navigation-guided planning, accurate implant orientation, and recovery-focused orthopaedic care.",
     link: "/our-services/orthopaedic-services/arthroplasty/computer-assisted-hip-replacement",
   },
   {
@@ -1247,7 +1247,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment for computer-assisted hip replacement in Vijayanagar?",
     content:
-      "You can call +91 96323 71211 to book an orthopaedic consultation at Brunda Specialist Clinic in Vijayanagar for computer-assisted hip replacement assessment.",
+      "You can call +91 96323 71211 to book an orthopaedic consultation at Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for computer-assisted hip replacement assessment.",
     link: "/our-services/orthopaedic-services/arthroplasty/computer-assisted-hip-replacement",
   },
   {
@@ -1256,7 +1256,7 @@ export const accordiondata = [
     title:
       "Where can I get the Best Shoulder Replacement Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers the Best Shoulder Replacement Surgery in Vijayanagar with experienced orthopaedic surgeons, advanced surgical techniques, and personalized post-surgery rehabilitation care.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers the Best Shoulder Replacement Surgery in Vijayanagar with experienced orthopaedic surgeons, advanced surgical techniques, and personalized post-surgery rehabilitation care.",
     link: "/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
   },
   {
@@ -1296,7 +1296,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get the Best Elbow replacement surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers the Best Elbow replacement surgery in Vijayanagar with experienced orthopaedic surgeons, advanced surgical techniques, and personalized rehabilitation care.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers the Best Elbow replacement surgery in Vijayanagar with experienced orthopaedic surgeons, advanced surgical techniques, and personalized rehabilitation care.",
     link: "/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
   },
   {
@@ -1329,7 +1329,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment for elbow replacement surgery in Vijayanagar?",
     content:
-      "You can book an appointment at Brunda Specialist Clinic in Vijayanagar by calling +91 96323 71211 for expert consultation and evaluation for elbow replacement treatment.",
+      "You can book an appointment at Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar by calling +91 96323 71211 for expert consultation and evaluation for elbow replacement treatment.",
     link: "/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
   },
   {
@@ -1337,7 +1337,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get meniscus transplant surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced meniscus transplant surgery in Vijayanagar with experienced orthopaedic surgeons, modern arthroscopic techniques, and personalized rehabilitation for better recovery.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced meniscus transplant surgery in Vijayanagar with experienced orthopaedic surgeons, modern arthroscopic techniques, and personalized rehabilitation for better recovery.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
   },
   {
@@ -1377,7 +1377,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get Rotator Cuff Repair Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Rotator Cuff Repair Surgery in Vijayanagar with experienced orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation care.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Rotator Cuff Repair Surgery in Vijayanagar with experienced orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation care.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
   },
   {
@@ -1417,7 +1417,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get Bankart Repair Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Bankart Repair Surgery in Vijayanagar using minimally invasive arthroscopic techniques to treat recurrent shoulder dislocation and restore joint stability.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Bankart Repair Surgery in Vijayanagar using minimally invasive arthroscopic techniques to treat recurrent shoulder dislocation and restore joint stability.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
   },
   {
@@ -1458,7 +1458,7 @@ export const accordiondata = [
     title:
       "Where can I get the best Shoulder Instability Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Shoulder Instability Surgery in Vijayanagar with experienced orthopaedic specialists, modern arthroscopic procedures, and personalized rehabilitation care.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Shoulder Instability Surgery in Vijayanagar with experienced orthopaedic specialists, modern arthroscopic procedures, and personalized rehabilitation care.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
   },
   {
@@ -1498,7 +1498,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get Hip Arthroscopy Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Hip Arthroscopy Surgery in Vijayanagar with experienced orthopedic surgeons, modern technology, and personalized treatment for hip joint conditions.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Hip Arthroscopy Surgery in Vijayanagar with experienced orthopedic surgeons, modern technology, and personalized treatment for hip joint conditions.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
   },
   {
@@ -1538,7 +1538,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get ACL Reconstruction Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced ACL Reconstruction Surgery in Vijayanagar with experienced orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation programs for faster recovery.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced ACL Reconstruction Surgery in Vijayanagar with experienced orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation programs for faster recovery.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
   },
   {
@@ -1578,7 +1578,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get PCL Repair Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced PCL Repair Surgery in Vijayanagar with experienced orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation care for knee ligament injuries.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced PCL Repair Surgery in Vijayanagar with experienced orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation care for knee ligament injuries.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
   },
   {
@@ -1618,7 +1618,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get ligament reconstruction in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced ligament reconstruction in Vijayanagar using modern arthroscopic techniques to restore knee stability and mobility after ligament injuries.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced ligament reconstruction in Vijayanagar using modern arthroscopic techniques to restore knee stability and mobility after ligament injuries.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
   },
   {
@@ -1658,7 +1658,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get Meniscus Repair Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Meniscus Repair Surgery in Vijayanagar with experienced orthopaedic specialists, modern arthroscopic techniques, and personalized rehabilitation care.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Meniscus Repair Surgery in Vijayanagar with experienced orthopaedic specialists, modern arthroscopic techniques, and personalized rehabilitation care.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
   },
   {
@@ -1698,7 +1698,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get Meniscal Root Repair Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Meniscal Root Repair Surgery in Vijayanagar using modern arthroscopic techniques to restore knee stability and treat meniscus injuries effectively.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Meniscal Root Repair Surgery in Vijayanagar using modern arthroscopic techniques to restore knee stability and treat meniscus injuries effectively.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
   },
   {
@@ -1739,7 +1739,7 @@ export const accordiondata = [
     title:
       "Where can I find the best General Orthopaedic Clinic in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic is a trusted General Orthopaedic Clinic in Vijayanagar providing expert diagnosis and treatment for bone, joint, and muscle problems including fractures, arthritis, sports injuries, and ligament damage.",
+      "Brunda Advanced Orthopaedics & ENT Centre is a trusted General Orthopaedic Clinic in Vijayanagar providing expert diagnosis and treatment for bone, joint, and muscle problems including fractures, arthritis, sports injuries, and ligament damage.",
     link: "/our-services/orthopaedic-services/trauma-general-ortho",
   },
   {
@@ -1774,7 +1774,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment at a General Orthopaedic Clinic in Vijayanagar?",
     content:
-      "You can book an appointment at Brunda Specialist Clinic by calling +91 96323 71211 or visiting the clinic in Vijayanagar, Bengaluru for expert orthopaedic consultation.",
+      "You can book an appointment at Brunda Advanced Orthopaedics & ENT Centre by calling +91 96323 71211 or visiting the clinic in Vijayanagar, Bengaluru for expert orthopaedic consultation.",
     link: "/our-services/orthopaedic-services/trauma-general-ortho",
   },
   {
@@ -1782,7 +1782,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get the best Orthopaedic Trauma Care in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Orthopaedic Trauma Care in Vijayanagar with expert diagnosis and treatment for fractures, ligament injuries, and accident-related bone trauma.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Orthopaedic Trauma Care in Vijayanagar with expert diagnosis and treatment for fractures, ligament injuries, and accident-related bone trauma.",
     link: "/our-services/orthopaedic-services/orthopaedic-trauma",
   },
   {
@@ -1823,7 +1823,7 @@ export const accordiondata = [
     title:
       "Where can I find the Best Clinic for polytrauma treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic is known as the Best Clinic for polytrauma treatment in Vijayanagar, offering expert orthopaedic trauma care, advanced diagnosis, and effective treatment for complex injury cases.",
+      "Brunda Advanced Orthopaedics & ENT Centre is known as the Best Clinic for polytrauma treatment in Vijayanagar, offering expert orthopaedic trauma care, advanced diagnosis, and effective treatment for complex injury cases.",
     link: "/our-services/orthopaedic-services/poly-trauma-management",
   },
   {
@@ -1863,7 +1863,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get the best Arthroscopic Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Arthroscopic Surgery in Vijayanagar with experienced orthopaedic surgeons, modern technology, and minimally invasive joint treatment.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Arthroscopic Surgery in Vijayanagar with experienced orthopaedic surgeons, modern technology, and minimally invasive joint treatment.",
     link: "/our-services/orthopaedic-services/arthroscopic-surgeries",
   },
   {
@@ -1904,7 +1904,7 @@ export const accordiondata = [
     title:
       "Where can I get the best Adenotonsillectomy Treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Adenotonsillectomy Treatment in Vijayanagar with experienced ENT specialists who provide safe tonsil and adenoid removal surgery for children and adults.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Adenotonsillectomy Treatment in Vijayanagar with experienced ENT specialists who provide safe tonsil and adenoid removal surgery for children and adults.",
     link: "/our-services/ent-services/adenotonsillectomy",
   },
   {
@@ -1944,7 +1944,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get the best Pediatric ENT Care in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic provides expert Pediatric ENT Care in Vijayanagar with specialized diagnosis and treatment for children's ear, nose, and throat conditions including infections, allergies, and sinus problems.",
+      "Brunda Advanced Orthopaedics & ENT Centre provides expert Pediatric ENT Care in Vijayanagar with specialized diagnosis and treatment for children's ear, nose, and throat conditions including infections, allergies, and sinus problems.",
     link: "/our-services/ent-services/pediatric-ent-care",
   },
   {
@@ -1984,7 +1984,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get the best Voice Disorders Treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers expert Voice Disorders Treatment in Vijayanagar with advanced ENT evaluation and personalized care for hoarseness, vocal cord strain, throat infections, and speech-related problems.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers expert Voice Disorders Treatment in Vijayanagar with advanced ENT evaluation and personalized care for hoarseness, vocal cord strain, throat infections, and speech-related problems.",
     link: "/our-services/ent-services/voice-disorders-treatment",
   },
   {
@@ -2032,7 +2032,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get Foreign Body Removal from Ear in Vijayanagar?",
     content:
-      "You can get safe and professional Foreign Body Removal from Ear in Vijayanagar at Brunda Specialist Clinic. Experienced ENT specialists carefully remove objects from the ear using advanced medical tools to prevent injury or infection.",
+      "You can get safe and professional Foreign Body Removal from Ear in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Experienced ENT specialists carefully remove objects from the ear using advanced medical tools to prevent injury or infection.",
     link: "/our-services/ent-services/foreign-body-removal-ent",
   },
   {
@@ -2073,7 +2073,7 @@ export const accordiondata = [
     title:
       "Where can I get the best Head & Neck Disorders Treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic provides advanced Head & Neck Disorders Treatment in Vijayanagar with expert ENT evaluation, accurate diagnosis, and personalized treatment for throat, gland, and neck conditions.",
+      "Brunda Advanced Orthopaedics & ENT Centre provides advanced Head & Neck Disorders Treatment in Vijayanagar with expert ENT evaluation, accurate diagnosis, and personalized treatment for throat, gland, and neck conditions.",
     link: "/our-services/ent-services/head-neck-disorders",
   },
   {
@@ -2113,7 +2113,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I consult an ENT Endoscopy Specialist in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers consultation with an experienced ENT endoscopy Specialist in Vijayanagar for accurate diagnosis of sinus, nasal, and throat conditions using advanced endoscopic technology.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers consultation with an experienced ENT endoscopy Specialist in Vijayanagar for accurate diagnosis of sinus, nasal, and throat conditions using advanced endoscopic technology.",
     link: "/our-services/ent-services/ent-endoscopy",
   },
   {
@@ -2153,7 +2153,7 @@ export const accordiondata = [
     key: "0",
     title: "Who provides the best Micro Ear Surgery in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers advanced Micro Ear Surgery in Vijayanagar with modern ENT equipment and experienced specialists for treating ear infections, hearing problems, and damaged eardrums.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers advanced Micro Ear Surgery in Vijayanagar with modern ENT equipment and experienced specialists for treating ear infections, hearing problems, and damaged eardrums.",
     link: "/our-services/ent-services/micro-ear-surgery",
   },
   {
@@ -2209,7 +2209,7 @@ export const accordiondata = [
     key: "7",
     title: "How can I book Micro Ear Surgery consultation in Vijayanagar?",
     content:
-      "You can book a consultation for Micro Ear Surgery in Vijayanagar by calling +91 96323 71211 or visiting Brunda Specialist Clinic for expert ENT evaluation and treatment.",
+      "You can book a consultation for Micro Ear Surgery in Vijayanagar by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre for expert ENT evaluation and treatment.",
     link: "/our-services/ent-services/micro-ear-surgery",
   },
   {
@@ -2217,7 +2217,7 @@ export const accordiondata = [
     key: "0",
     title: "Where can I get the best Vertigo Treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic provides advanced Vertigo Treatment in Vijayanagar with expert ENT evaluation, accurate diagnosis, and personalized treatment for dizziness, balance disorders, and inner ear problems.",
+      "Brunda Advanced Orthopaedics & ENT Centre provides advanced Vertigo Treatment in Vijayanagar with expert ENT evaluation, accurate diagnosis, and personalized treatment for dizziness, balance disorders, and inner ear problems.",
     link: "/our-services/ent-services/vertigo-treatment",
   },
   {
@@ -2274,7 +2274,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment for Vertigo Treatment in Vijayanagar?",
     content:
-      "You can book an appointment for Vertigo Treatment in Vijayanagar by calling +91 96323 71211 or visiting Brunda Specialist Clinic for expert ENT consultation and vertigo management.",
+      "You can book an appointment for Vertigo Treatment in Vijayanagar by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre for expert ENT consultation and vertigo management.",
     link: "/our-services/ent-services/vertigo-treatment",
   },
   {
@@ -2282,7 +2282,7 @@ export const accordiondata = [
     key: "0",
     title: "Who is the Best Sinus Specialist in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic offers expert sinus care in Vijayanagar with experienced ENT specialists who diagnose and treat sinusitis, nasal blockage, allergies, and chronic sinus infections using modern medical techniques.",
+      "Brunda Advanced Orthopaedics & ENT Centre offers expert sinus care in Vijayanagar with experienced ENT specialists who diagnose and treat sinusitis, nasal blockage, allergies, and chronic sinus infections using modern medical techniques.",
     link: "/our-services/ent-services/sinus-allergy-treatment",
   },
   {
@@ -2314,7 +2314,7 @@ export const accordiondata = [
     key: "4",
     title: "Where can I get the best allergy treatment in Vijayanagar?",
     content:
-      "Brunda Specialist Clinic provides effective allergy treatment in Vijayanagar including diagnosis of nasal allergies, treatment for allergic rhinitis, medication, and personalized management plans to reduce recurring symptoms.",
+      "Brunda Advanced Orthopaedics & ENT Centre provides effective allergy treatment in Vijayanagar including diagnosis of nasal allergies, treatment for allergic rhinitis, medication, and personalized management plans to reduce recurring symptoms.",
     link: "/our-services/ent-services/sinus-allergy-treatment",
   },
   {
@@ -2355,7 +2355,7 @@ export const accordiondata = [
     title:
       "How can I book an appointment for sinus or allergy treatment in Vijayanagar?",
     content:
-      "You can book an appointment for sinus and allergy treatment at Brunda Specialist Clinic by calling +91 96323 71211 or visiting the clinic in Vijayanagar, Bengaluru.",
+      "You can book an appointment for sinus and allergy treatment at Brunda Advanced Orthopaedics & ENT Centre by calling +91 96323 71211 or visiting the clinic in Vijayanagar, Bengaluru.",
     link: "/our-services/ent-services/sinus-allergy-treatment",
   },
 ];
@@ -2424,7 +2424,7 @@ export const mapdata = [
           rel="noopener noreferrer"
           className="text-white"
         >
-          BRUNDA SPECIALIST CLINIC Vijayanagar, Bengaluru, Karnataka 560072
+          Brunda Advanced Orthopaedics & ENT Centre Vijayanagar, Bengaluru, Karnataka 560072
         </Link>
       </p>
     ),
@@ -2610,7 +2610,7 @@ export const testiswipeerdata = [
       "https://img.freepik.com/premium-photo/woman-is-giving-injection-young-girl_1170031-5379.jpg?uid=P172451948&ga=GA1.1.517022815.1751973251&semt=ais_hybrid&w=740&q=80",
     name: "Kiran Kumar K",
     content:
-      "I visited Brunda Specialist Clinic for treatment of Ear Blockage and Nose problem, I was unable to hear anything due to blockage and buzzing sound in my both ears. Dr. Meghana Janardhan patiently heard my problem. She cleaned my both ears in less than 10 minutes with modern equipment. Even I had a small bubble in my nose, causing pain while clearing Nose discharge. I got completely cured. She explained me the cause and how to maintain ears and Nose. I had very pleasant experience. I am very thankful to Dr. Meghana Janardhan. She is very good and professional. The clinic is small but very neat and well maintained. Token system is also well maintained. Treatment was pain less. Service is very best.",
+      "I visited Brunda Advanced Orthopaedics & ENT Centre for treatment of Ear Blockage and Nose problem, I was unable to hear anything due to blockage and buzzing sound in my both ears. Dr. Meghana Janardhan patiently heard my problem. She cleaned my both ears in less than 10 minutes with modern equipment. Even I had a small bubble in my nose, causing pain while clearing Nose discharge. I got completely cured. She explained me the cause and how to maintain ears and Nose. I had very pleasant experience. I am very thankful to Dr. Meghana Janardhan. She is very good and professional. The clinic is small but very neat and well maintained. Token system is also well maintained. Treatment was pain less. Service is very best.",
   },
   {
     image:

@@ -62,7 +62,7 @@ function Frequently() {
                   >
                     Find clear answers to common questions about our ENT and
                     Orthopaedic services, appointments, treatments, and patient
-                    care at Brunda Specialist Clinic.
+                    care at Brunda Advanced Orthopaedics & ENT Centre.
                   </p>
                 </div>
                 <Accordion

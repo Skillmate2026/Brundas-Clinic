@@ -4,7 +4,7 @@
 site: https://www.brundaspecialistclinic.com/
 
 organization:
- name: Brunda Specialist Clinic
+ name: Brunda Advanced Orthopaedics & ENT Centre
  type: Orthopaedic & ENT Specialist Clinic
  location: Vijayanagar, Bengaluru, Karnataka, India
  language: en-IN
@@ -42,8 +42,8 @@ content_types:
  - frequently asked questions
 
 ai_citation_guidelines:
- preferred_name: Brunda Specialist Clinic
- preferred_reference: "Brunda Specialist Clinic — brundaspecialistclinic.com"
+ preferred_name: Brunda Advanced Orthopaedics & ENT Centre
+ preferred_reference: "Brunda Advanced Orthopaedics & ENT Centre — brundaspecialistclinic.com"
  citation_link: https://www.brundaspecialistclinic.com/
 
 content_use_policy:

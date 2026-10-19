@@ -14,6 +14,7 @@ type Category = "ent" | "ortho";
 
 const galleryFiles: Record<Category, string[]> = {
   ent: [
+    "c7.JPG",
     "WhatsApp Image 2026-01-04 at 11.55.37.jpeg",
     "WhatsApp Image 2026-01-04 at 11.55.42 (1).jpeg",
     "WhatsApp Image 2026-01-04 at 11.55.42 (2).jpeg",
@@ -35,6 +36,8 @@ const galleryFiles: Record<Category, string[]> = {
     "WhatsApp Image 2026-01-04 at 12.11.19.jpeg",
   ],
   ortho: [
+    "IMG_3823.JPG",
+    "c8.JPG",
     "WhatsApp Image 2026-01-05 at .jpeg",
     "WhatsApp Image 2026-01-05 at 15.06..jpeg",
     "WhatsApp Image 2026-01-05 at 15.06.07.jpeg",
@@ -48,8 +51,6 @@ const galleryFiles: Record<Category, string[]> = {
     "WhatsApp Image 2026-01-05 at 15.06.15 (1).jpeg",
     "WhatsApp Image 2026-01-05 at 15.06.15.jpeg",
     "WhatsApp Image 2026-01-05 at 15.06.16.jpeg",
-    "WhatsApp Image 2026-01-05 at 15.06.17 (1).jpeg",
-    "WhatsApp Image 2026-01-05 at 15.06.17.jpeg",
     "WhatsApp Image 2026-01-05 at 15.06.18.jpeg",
     "WhatsApp Image 2026-01-05 at 15.06.19 (1).jpeg",
     "WhatsApp Image 2026-01-05 at 15.06.19.jpeg",
@@ -62,26 +63,27 @@ const galleryFiles: Record<Category, string[]> = {
 // Optional curated captions by position within each category (index-based)
 const captionOverrides: Record<Category, Record<number, string>> = {
   ent: {
-    0: "Coin in food pipe",
-    1: "Total Thyroidectomy",
-    2: "Foreign body ear – Thermocol",
-    3: "Foreign body ear",
-    4: "Nasolabial cyst",
-    5: "Foreign body (Insect) in the ear",
-    6: " ",
+    0: " ",
+    1: "Coin in food pipe",
+    2: "Total Thyroidectomy",
+    3: "Foreign body ear – Thermocol",
+    4: "Foreign body ear",
+    5: "Nasolabial cyst",
+    6: "Foreign body (Insect) in the ear",
     7: " ",
     8: " ",
     9: " ",
-    10: "Dermoid cyst",
-    11: "Modified radical Mastoidectomy",
-    12: "Nasal foreign body – peanut removed",
-    13: "Nasal foreign body removed",
+    10: " ",
+    11: "Dermoid cyst",
+    12: "Modified radical Mastoidectomy",
+    13: "Nasal foreign body – peanut removed",
     14: "Nasal foreign body removed",
-    15: "Thyroglossal cyst removed",
-    16: "Submandibular gland excision",
-    17: "Fish bone lodged in tonsilar fossa",
-    18: "Bifid Uvula",
+    15: "Nasal foreign body removed",
+    16: "Thyroglossal cyst removed",
+    17: "Submandibular gland excision",
+    18: "Fish bone lodged in tonsilar fossa",
     19: "Bifid Uvula",
+    20: "Bifid Uvula",
   },
   ortho: {},
 };
@@ -119,6 +121,22 @@ const mediaItems = [
   { src: "y4.jpeg", link: "https://youtu.be/x06jxHTCff8?si=kaf6-ebb5ICWJlMo" },
   { src: "n1.jpeg", link: null },
   { src: "n2.jpeg", link: null },
+];
+
+// New array for the clinic photos in the public folder
+const clinicPhotos = [
+  "c6.JPG", 
+  "c9.JPG",
+  "c3.JPG",
+  "c1.JPG",
+  "c2.JPG",
+  "c4.JPG",
+  "c5.JPG", 
+  "c7.JPG",
+  "c8.JPG",
+  "c10.JPG",
+  "c11.JPG",
+  "IMG_3869.JPG",
 ];
 
 const getReadableName = (file: string) =>
@@ -187,6 +205,33 @@ export default function GalleryPage() {
       <main className="page-content">
         <section className="content-inner bg-light" id="gallery">
           <div className="container">
+            
+            {/* --- NEW CLINIC PHOTOS SECTION --- */}
+            <div className="section-head style-1 text-center m-b30">
+              <h2 className="title m-b0">Our Clinic</h2>
+              <p className="m-b0 text-secondary">
+                A glimpse into our advanced facilities and infrastructure
+              </p>
+            </div>
+            
+            <div className={styles.grid} style={{ marginBottom: "60px" }}>
+              {clinicPhotos.map((file, idx) => (
+                <div key={file} className={styles.card}>
+                  <div className={styles.media}>
+                    <Image
+                      src={`/${file}`}
+                      alt={`Clinic photo ${idx + 1}`}
+                      fill
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                      className={styles.image}
+                      style={{ objectFit: 'cover' }}
+                    />
+                  </div>
+                </div>
+              ))}
+            </div>
+            {/* --- END CLINIC PHOTOS SECTION --- */}
+
             <div className={styles.switcher}>
               {(Object.keys(categoryCopy) as Category[]).map((category) => (
                 <button

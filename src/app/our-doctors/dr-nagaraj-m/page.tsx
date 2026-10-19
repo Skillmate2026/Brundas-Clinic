@@ -30,7 +30,7 @@ function TeamDetail() {
                     <div className="dz-team style-5">
                       <div className="dz-media">
                         <Image
-                          src="/assets/doctors-image/WhatsApp Image 2026-03-28 at 13.13.59.jpeg"
+                          src="/assets/doctors-image/Dr-Nagaraj-M1.JPG"
                           width={200}
                           height={200}
                           alt="Dr. Nagaraj M"

@@ -49,7 +49,7 @@ function Counter() {
               </div>
 
               <h2 className="text-white font-20 m-b5 fw-medium">
-                Welcome to Brunda Specialist Clinic
+                Welcome to Brunda Advanced Orthopaedics & ENT Centre
               </h2>
               <p className="text-white opacity-75 font-14 m-b0">
                 Expert ENT & Orthopaedic Care Trusted by Hundreds Every Week

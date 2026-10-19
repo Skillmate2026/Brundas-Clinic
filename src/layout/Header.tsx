@@ -113,7 +113,7 @@ function Header() {
                   src="/assets/banners/Brunda Logo.png"
                   height={400}
                   width={400}
-                  alt="Brunda Specialist Clinic"
+                  alt="Brunda Advanced Orthopaedics & ENT Centre"
                 />
               </Link>
             </div>
@@ -149,7 +149,7 @@ function Header() {
                     src="/assets/banners/Brunda Logo.png"
                     height={400}
                     width={400}
-                    alt="Brunda Specialist Clinic"
+                    alt="Brunda Advanced Orthopaedics & ENT Centre"
                   />
                 </Link>
               </div>
@@ -674,11 +674,11 @@ function Header() {
           <div className="widget">
             <div className="sidebar-header m-b20">
               <Link href="/">
-                <Image src={IMAGES.logo} alt="Brunda Specialist Clinic" />
+                <Image src={IMAGES.logo} alt="Brunda Advanced Orthopaedics & ENT Centre" />
               </Link>
             </div>
             <p>
-              Brunda Specialist Clinic provides expert ENT and Orthopaedic care
+              Brunda Advanced Orthopaedics & ENT Centre provides expert ENT and Orthopaedic care
               with advanced diagnostics, modern facilities, and patient-first
               treatment.
             </p>

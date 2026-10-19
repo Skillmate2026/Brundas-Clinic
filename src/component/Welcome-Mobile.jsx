@@ -131,7 +131,7 @@ const WelcomeMobile = () => {
       </div>
       <div className="section-head style-1 m-b30 ">
         <p className="main-title text-center">
-          Welcome to Brunda Specialist Clinic
+          Welcome to Brunda Advanced Orthopaedics & ENT Centre
         </p>
         <h2 className="title m-b0 text-center">
           Where Advanced Bone & Joint Care Meets Expertise at the Best
@@ -142,7 +142,7 @@ const WelcomeMobile = () => {
           data-wow-delay="0.4s"
           data-wow-duration="0.8s"
         >
-          At <strong>Brunda Specialist Clinic</strong>, known as the{" "}
+          At <strong>Brunda Advanced Orthopaedics & ENT Centre</strong>, known as the{" "}
           <a href="https://www.brundaspecialistclinic.com/our-doctors/dr-nagaraj-m">
             Best Orthopaedic Clinic in Vijayanagar
           </a>

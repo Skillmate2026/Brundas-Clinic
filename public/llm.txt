@@ -1,12 +1,12 @@
 # llm.txt for brundaspecialistclinic.com
 # Last-Updated: 2026-03-04
-# Owner: Brunda Specialist Clinic
+# Owner: Brunda Advanced Orthopaedics & ENT Centre
 
 [about]
-name: Brunda Specialist Clinic
+name: Brunda Advanced Orthopaedics & ENT Centre
 domain: https://www.brundaspecialistclinic.com/
 type: Multi-speciality outpatient clinic (Orthopaedics & ENT)
-description: Brunda Specialist Clinic is a specialised outpatient centre in Vijayanagar, Bengaluru offering expert Orthopaedic and ENT care. The clinic provides diagnosis and treatment for joint pain, ACL injuries, shoulder replacement, sports injuries, sinusitis, ear infections, throat disorders, allergies, and other ENT conditions with personalised treatment plans and patient-focused care.
+description: Brunda Advanced Orthopaedics & ENT Centre is a specialised outpatient centre in Vijayanagar, Bengaluru offering expert Orthopaedic and ENT care. The clinic provides diagnosis and treatment for joint pain, ACL injuries, shoulder replacement, sports injuries, sinusitis, ear infections, throat disorders, allergies, and other ENT conditions with personalised treatment plans and patient-focused care.
 languages: en-IN
 content_focus: Patient-facing service pages, Orthopaedic and ENT treatments, ACL and shoulder surgery information, sinus and allergy care, specialist consultations, appointment workflows, FAQs, testimonials, blogs & patient education.
 
@@ -64,8 +64,8 @@ Throat Infection & Tonsillitis Treatment
 Patient Counseling & Follow-up Care
 
 [citation_policy]
-preferred_name: "Brunda Specialist Clinic"
-preferred_citation: "Brunda Specialist Clinic — brundaspecialistclinic.com"
+preferred_name: "Brunda Advanced Orthopaedics & ENT Centre"
+preferred_citation: "Brunda Advanced Orthopaedics & ENT Centre — brundaspecialistclinic.com"
 link_back: https://www.brundaspecialistclinic.com/
 quote_limit: Short excerpts (≤75 words) with attribution and link permitted.
 

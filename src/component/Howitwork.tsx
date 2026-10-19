@@ -26,7 +26,7 @@ function Howitwork() {
                   data-wow-delay="0.4s"
                   data-wow-duration="0.8s"
                 >
-                  Brunda Specialist Clinic is equipped with modern
+                  Brunda Advanced Orthopaedics & ENT Centre is equipped with modern
                   infrastructure and patient-friendly facilities to ensure safe,
                   comfortable, and effective ENT & Orthopaedic care.
                 </p>
@@ -67,7 +67,7 @@ function Howitwork() {
                     src="/assets/home-images/why-choose.jpg"
                     width={100}
                     height={100}
-                    alt="Brunda Specialist Clinic Facilities"
+                    alt="Brunda Advanced Orthopaedics & ENT Centre Facilities"
                   />
                   <div className="dz-btn">
                     <Link

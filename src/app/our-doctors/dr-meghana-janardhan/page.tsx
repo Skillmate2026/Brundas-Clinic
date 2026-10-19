@@ -32,7 +32,7 @@ function TeamDetail() {
                     <div className="dz-team style-5">
                       <div className="dz-media">
                         <Image
-                          src="/assets/doctors-image/WhatsApp Image 2026-01-05 at 14.30.04.png"
+                          src="/assets/doctors-image/Dr-Meghana-Janardhan1.JPG"
                           width={100}
                           height={100}
                           alt="Dr. Meghana Janardhan"
@@ -181,7 +181,7 @@ function TeamDetail() {
 
                     <tr>
                       <th>Clinics</th>
-                      <td>Brunda Specialist Clinic, Vijayanagar, Bangalore</td>
+                      <td>Brunda Advanced Orthopaedics & ENT Centre, Vijayanagar, Bangalore</td>
                     </tr>
 
                     <tr>

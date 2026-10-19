@@ -22,7 +22,7 @@ function Inspirational() {
                   data-wow-delay="0.4s"
                   data-wow-duration="0.8s"
                 >
-                  At Brunda Specialist Clinic, we are committed to delivering
+                  At Brunda Advanced Orthopaedics & ENT Centre, we are committed to delivering
                   compassionate, ethical, and advanced ENT and Orthopaedic care
                   that improves quality of life for every patient we serve.
                 </p>

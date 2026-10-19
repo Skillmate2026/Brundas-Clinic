@@ -14,7 +14,7 @@ function WhyChoose() {
           data-wow-duration="0.7s"
         >
           <div className="section-head style-1 m-b30 mobile-view">
-            <span className="main-title">Why Brunda Specialist Clinic</span>
+            <span className="main-title">Why Brunda Advanced Orthopaedics & ENT Centre</span>
             <h2
               className="title text-white m-b0 wow fadeInUp"
               data-wow-delay="0.2s"
@@ -50,7 +50,7 @@ function WhyChoose() {
         </div>
         <div className="col-lg-6 m-b30">
           <div className="section-head style-1 m-b30 desk-view">
-            <span className="main-title">Why Brunda Specialist Clinic</span>
+            <span className="main-title">Why Brunda Advanced Orthopaedics & ENT Centre</span>
             <h2
               className="title text-white m-b0 wow fadeInUp"
               data-wow-delay="0.2s"

@@ -125,15 +125,15 @@ const orthoServices = (activeTitle) =>
 export const serviceDetails = [
   {
     id: 1,
-    title: "Adenotonsillectomy Treatment at Brunda Specialist Clinic",
+    title: "Adenotonsillectomy Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/adenotonsillectomy.avif",
     link: "/adenotonsillectomy",
 
     intro: {
-      h1: "Adenotonsillectomy Treatment at Brunda Specialist Clinic",
+      h1: "Adenotonsillectomy Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Comprehensive Care for Tonsil & Adenoid Problems",
       paragraphs: [
-        "Adenotonsillectomy is a commonly performed ENT surgical procedure that involves the removal of both the tonsils and adenoids. At Brunda Specialist Clinic, we provide safe, effective, and minimally invasive adenotonsillectomy treatment to help children and adults breathe better, sleep peacefully, and reduce recurrent throat and ear infections.",
+        "Adenotonsillectomy is a commonly performed ENT surgical procedure that involves the removal of both the tonsils and adenoids. At Brunda Advanced Orthopaedics & ENT Centre, we provide safe, effective, and minimally invasive adenotonsillectomy treatment to help children and adults breathe better, sleep peacefully, and reduce recurrent throat and ear infections.",
         "Our experienced ENT specialists ensure precise diagnosis, advanced surgical care, and complete post-operative support for faster recovery and long-term relief.",
       ],
     },
@@ -214,7 +214,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced ENT specialists",
         "Advanced surgical techniques",
@@ -288,15 +288,15 @@ export const serviceDetails = [
   },
   {
     id: 2,
-    title: "Sinus & Allergy Treatment at Brunda Specialist Clinic",
+    title: "Sinus & Allergy Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/sinus-allergy-treatment.avif",
     link: "/sinus-allergy-treatment",
 
     intro: {
-      h1: "Sinus & Allergy Treatment at Brunda Specialist Clinic",
+      h1: "Sinus & Allergy Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Relief for Sinusitis, Allergies & Nasal Blockage",
       paragraphs: [
-        "Sinus and allergy problems can cause persistent sneezing, nasal congestion, facial pressure, headaches, post-nasal drip, and disturbed sleep. At Brunda Specialist Clinic, we provide complete sinus & allergy evaluation and personalized treatment to help you breathe comfortably and feel better every day.",
+        "Sinus and allergy problems can cause persistent sneezing, nasal congestion, facial pressure, headaches, post-nasal drip, and disturbed sleep. At Brunda Advanced Orthopaedics & ENT Centre, we provide complete sinus & allergy evaluation and personalized treatment to help you breathe comfortably and feel better every day.",
         "Our ENT specialists focus on accurate diagnosis, allergy control, and long-term sinus management using modern tests, medications, and advanced ENT procedures when needed.",
       ],
     },
@@ -341,7 +341,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Is Sinus & Allergy Treatment Done?",
       description:
-        "At Brunda Specialist Clinic, sinus & allergy care starts with a thorough ENT evaluation. Treatment may include medications, nasal therapies, trigger control, and advanced procedures for chronic cases.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, sinus & allergy care starts with a thorough ENT evaluation. Treatment may include medications, nasal therapies, trigger control, and advanced procedures for chronic cases.",
       details: [
         { label: "Evaluation", value: "ENT examination and symptom review" },
         { label: "Diagnostic Support", value: "Nasal endoscopy (if required)" },
@@ -385,7 +385,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced ENT specialists for sinus and allergy management",
         "Accurate diagnosis with modern ENT evaluation",
@@ -410,7 +410,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Book a Consultation",
-      text: "If you have frequent sneezing, nasal blockage, sinus headaches, or recurring infections, consult our ENT specialists at Brunda Specialist Clinic for complete sinus & allergy care.",
+      text: "If you have frequent sneezing, nasal blockage, sinus headaches, or recurring infections, consult our ENT specialists at Brunda Advanced Orthopaedics & ENT Centre for complete sinus & allergy care.",
       buttonText: "Book Appointment",
     },
 
@@ -460,15 +460,15 @@ export const serviceDetails = [
   },
   {
     id: 3,
-    title: "Head & Neck Disorders Treatment at Brunda Specialist Clinic",
+    title: "Head & Neck Disorders Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/head-neck-disorders.avif",
     link: "/head-neck-disorders",
 
     intro: {
-      h1: "Head & Neck Disorders Treatment at Brunda Specialist Clinic",
+      h1: "Head & Neck Disorders Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Comprehensive Care for Neck Lumps, Thyroid & Throat Conditions",
       paragraphs: [
-        "Head and neck disorders can affect the throat, neck, thyroid gland, salivary glands, lymph nodes, and surrounding structures. Symptoms such as neck swelling, difficulty swallowing, persistent throat pain, or voice changes should not be ignored. At Brunda Specialist Clinic, we provide complete evaluation and personalized treatment for head & neck disorders to ensure early diagnosis and effective care.",
+        "Head and neck disorders can affect the throat, neck, thyroid gland, salivary glands, lymph nodes, and surrounding structures. Symptoms such as neck swelling, difficulty swallowing, persistent throat pain, or voice changes should not be ignored. At Brunda Advanced Orthopaedics & ENT Centre, we provide complete evaluation and personalized treatment for head & neck disorders to ensure early diagnosis and effective care.",
         "Our ENT specialists focus on identifying the underlying cause through detailed examination and modern diagnostic tools, followed by evidence-based medical or surgical management when required.",
       ],
     },
@@ -515,7 +515,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Are Head & Neck Disorders Treated?",
       description:
-        "At Brunda Specialist Clinic, head & neck disorder management begins with a detailed ENT assessment followed by appropriate diagnostic tests and personalized treatment planning.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, head & neck disorder management begins with a detailed ENT assessment followed by appropriate diagnostic tests and personalized treatment planning.",
       details: [
         { label: "Evaluation", value: "Detailed ENT and neck examination" },
         {
@@ -561,7 +561,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced ENT specialists in head & neck care",
         "Accurate diagnosis using modern ENT tools",
@@ -586,7 +586,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Book a Consultation",
-      text: "If you notice a neck lump, voice change, thyroid swelling, or persistent throat discomfort, consult our ENT specialists at Brunda Specialist Clinic for complete head & neck disorder evaluation and care.",
+      text: "If you notice a neck lump, voice change, thyroid swelling, or persistent throat discomfort, consult our ENT specialists at Brunda Advanced Orthopaedics & ENT Centre for complete head & neck disorder evaluation and care.",
       buttonText: "Book Appointment",
     },
 
@@ -638,7 +638,7 @@ export const serviceDetails = [
       {
         id: 1,
         delay: "0.2s",
-        image: "/assets/doctors-image/Dr-Meghana-Janardhan.png",
+        image: "/assets/doctors-image/Dr-Meghana-Janardhan1.JPG",
         title: "Dr. Meghana Janardhan",
         position: "ENT Surgeon",
       },
@@ -646,15 +646,15 @@ export const serviceDetails = [
   },
   {
     id: 4,
-    title: "Pediatric ENT Care at Brunda Specialist Clinic",
+    title: "Pediatric ENT Care at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/pediatric-ent-care.avif",
     link: "/pediatric-ent-care",
 
     intro: {
-      h1: "Pediatric ENT Care at Brunda Specialist Clinic",
+      h1: "Pediatric ENT Care at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Specialized Ear, Nose & Throat Care for Infants & Children",
       paragraphs: [
-        "Children are more prone to ear, nose, and throat problems due to developing immunity, anatomical differences, and frequent infections. Conditions such as ear infections, tonsillitis, adenoid problems, nasal blockage, and hearing or speech concerns require timely and gentle medical attention. At Brunda Specialist Clinic, we provide dedicated Pediatric ENT Care focused on accurate diagnosis and child-friendly treatment.",
+        "Children are more prone to ear, nose, and throat problems due to developing immunity, anatomical differences, and frequent infections. Conditions such as ear infections, tonsillitis, adenoid problems, nasal blockage, and hearing or speech concerns require timely and gentle medical attention. At Brunda Advanced Orthopaedics & ENT Centre, we provide dedicated Pediatric ENT Care focused on accurate diagnosis and child-friendly treatment.",
         "Our ENT specialists understand the unique needs of infants, toddlers, and growing children. We ensure compassionate care, clear communication with parents, and evidence-based treatment plans for both common and complex pediatric ENT conditions.",
       ],
     },
@@ -701,7 +701,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Are Pediatric ENT Conditions Treated?",
       description:
-        "At Brunda Specialist Clinic, pediatric ENT treatment begins with gentle evaluation and age-appropriate diagnostic methods followed by personalized care.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, pediatric ENT treatment begins with gentle evaluation and age-appropriate diagnostic methods followed by personalized care.",
       details: [
         { label: "Assessment", value: "Child-friendly ENT examination" },
         {
@@ -747,7 +747,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced ENT specialists in pediatric care",
         "Gentle, child-friendly diagnostic approach",
@@ -772,7 +772,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Book a Pediatric ENT Consultation",
-      text: "If your child has frequent ear infections, throat problems, hearing concerns, or breathing difficulties, consult our Pediatric ENT specialists at Brunda Specialist Clinic for expert and compassionate care.",
+      text: "If your child has frequent ear infections, throat problems, hearing concerns, or breathing difficulties, consult our Pediatric ENT specialists at Brunda Advanced Orthopaedics & ENT Centre for expert and compassionate care.",
       buttonText: "Book Appointment",
     },
 
@@ -822,15 +822,15 @@ export const serviceDetails = [
   },
   {
     id: 5,
-    title: "Vertigo Treatment at Brunda Specialist Clinic",
+    title: "Vertigo Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/vertigo-treatment.avif",
     link: "/vertigo-treatment",
 
     intro: {
-      h1: "Vertigo Treatment at Brunda Specialist Clinic",
+      h1: "Vertigo Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Advanced Care for Dizziness, Balance Disorders & Spinning Sensation",
       paragraphs: [
-        "Vertigo is a condition where individuals experience a spinning or moving sensation, often accompanied by dizziness, nausea, imbalance, or blurred vision. It can significantly affect daily activities and quality of life. At Brunda Specialist Clinic, we provide comprehensive vertigo evaluation and personalized treatment to identify the root cause and restore balance.",
+        "Vertigo is a condition where individuals experience a spinning or moving sensation, often accompanied by dizziness, nausea, imbalance, or blurred vision. It can significantly affect daily activities and quality of life. At Brunda Advanced Orthopaedics & ENT Centre, we provide comprehensive vertigo evaluation and personalized treatment to identify the root cause and restore balance.",
         "Our ENT specialists focus on accurate diagnosis using detailed clinical assessment and vestibular evaluation, followed by evidence-based medical and positional therapies tailored to each patient’s condition.",
       ],
     },
@@ -877,7 +877,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Is Vertigo Treated?",
       description:
-        "At Brunda Specialist Clinic, vertigo treatment is based on the underlying cause and severity of symptoms.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, vertigo treatment is based on the underlying cause and severity of symptoms.",
       details: [
         {
           label: "Clinical Assessment",
@@ -926,7 +926,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced ENT specialists in vertigo care",
         "Accurate diagnosis of balance disorders",
@@ -951,7 +951,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Book a Vertigo Consultation",
-      text: "If you are experiencing dizziness, spinning sensation, or balance issues, consult our ENT specialists at Brunda Specialist Clinic for accurate vertigo diagnosis and effective treatment.",
+      text: "If you are experiencing dizziness, spinning sensation, or balance issues, consult our ENT specialists at Brunda Advanced Orthopaedics & ENT Centre for accurate vertigo diagnosis and effective treatment.",
       buttonText: "Book Appointment",
     },
 
@@ -1001,15 +1001,15 @@ export const serviceDetails = [
   },
   {
     id: 6,
-    title: "Foreign Body Removal ENT at Brunda Specialist Clinic",
+    title: "Foreign Body Removal ENT at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/foreign-body-removal-ent.avif",
     link: "/foreign-body-removal-ent",
 
     intro: {
-      h1: "Foreign Body Removal ENT at Brunda Specialist Clinic",
+      h1: "Foreign Body Removal ENT at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Safe & Prompt Removal of Objects from Ear, Nose & Throat",
       paragraphs: [
-        "Foreign bodies in the ear, nose, or throat are common emergencies, especially in children, and require prompt medical attention. Objects such as beads, food particles, insects, cotton, batteries, or small toys can cause pain, infection, breathing difficulty, or hearing problems if not removed safely. At Brunda Specialist Clinic, we provide expert ENT care for safe and effective foreign body removal.",
+        "Foreign bodies in the ear, nose, or throat are common emergencies, especially in children, and require prompt medical attention. Objects such as beads, food particles, insects, cotton, batteries, or small toys can cause pain, infection, breathing difficulty, or hearing problems if not removed safely. At Brunda Advanced Orthopaedics & ENT Centre, we provide expert ENT care for safe and effective foreign body removal.",
         "Our ENT specialists use precise techniques and appropriate instruments to remove foreign bodies gently while minimizing discomfort, complications, and tissue damage.",
       ],
     },
@@ -1056,7 +1056,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Is Foreign Body Removal Done?",
       description:
-        "At Brunda Specialist Clinic, foreign body removal is performed carefully based on the object’s location, size, and nature, ensuring patient safety and comfort.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, foreign body removal is performed carefully based on the object’s location, size, and nature, ensuring patient safety and comfort.",
       details: [
         {
           label: "Clinical Examination",
@@ -1105,7 +1105,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced ENT specialists for emergency care",
         "Safe, gentle, and precise removal techniques",
@@ -1130,7 +1130,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Get Immediate ENT Assistance",
-      text: "If you suspect a foreign body in the ear, nose, or throat, seek prompt ENT care at Brunda Specialist Clinic for safe and effective removal.",
+      text: "If you suspect a foreign body in the ear, nose, or throat, seek prompt ENT care at Brunda Advanced Orthopaedics & ENT Centre for safe and effective removal.",
       buttonText: "Book Appointment",
     },
 
@@ -1180,15 +1180,15 @@ export const serviceDetails = [
   },
   {
     id: 7,
-    title: "Micro Ear Surgery at Brunda Specialist Clinic",
+    title: "Micro Ear Surgery at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/micro-ear-surgery.avif",
     link: "/micro-ear-surgery",
 
     intro: {
-      h1: "Micro Ear Surgery at Brunda Specialist Clinic",
+      h1: "Micro Ear Surgery at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Advanced Surgical Care for Chronic Ear Infections & Hearing Restoration",
       paragraphs: [
-        "Micro Ear Surgery is a specialized ENT procedure performed to treat chronic ear infections, damaged eardrums, middle ear disease, and certain causes of hearing loss. Conditions left untreated can lead to persistent discharge, pain, dizziness, or permanent hearing damage. At Brunda Specialist Clinic, we offer precise micro ear surgery using advanced microscopic techniques for safe and effective outcomes.",
+        "Micro Ear Surgery is a specialized ENT procedure performed to treat chronic ear infections, damaged eardrums, middle ear disease, and certain causes of hearing loss. Conditions left untreated can lead to persistent discharge, pain, dizziness, or permanent hearing damage. At Brunda Advanced Orthopaedics & ENT Centre, we offer precise micro ear surgery using advanced microscopic techniques for safe and effective outcomes.",
         "Our ENT specialists focus on accurate diagnosis, meticulous surgical planning, and hearing preservation or improvement, ensuring minimal tissue damage and faster recovery.",
       ],
     },
@@ -1236,7 +1236,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Is Micro Ear Surgery Performed?",
       description:
-        "At Brunda Specialist Clinic, micro ear surgery is performed using advanced microscopic techniques to ensure accuracy, safety, and optimal hearing outcomes.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, micro ear surgery is performed using advanced microscopic techniques to ensure accuracy, safety, and optimal hearing outcomes.",
       details: [
         {
           label: "Pre-Surgical Evaluation",
@@ -1287,7 +1287,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced ENT surgeons in micro ear procedures",
         "Advanced operating microscope and instruments",
@@ -1312,7 +1312,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Consult for Micro Ear Surgery",
-      text: "If you are experiencing chronic ear infections, hearing loss, or persistent ear discharge, consult our ENT specialists at Brunda Specialist Clinic for expert evaluation and advanced micro ear surgery.",
+      text: "If you are experiencing chronic ear infections, hearing loss, or persistent ear discharge, consult our ENT specialists at Brunda Advanced Orthopaedics & ENT Centre for expert evaluation and advanced micro ear surgery.",
       buttonText: "Book Appointment",
     },
 
@@ -1362,15 +1362,15 @@ export const serviceDetails = [
   },
   {
     id: 8,
-    title: "Voice Disorders Treatment at Brunda Specialist Clinic",
+    title: "Voice Disorders Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/voice-disorders-treatment.avif",
     link: "/voice-disorders-treatment",
 
     intro: {
-      h1: "Voice Disorders Treatment at Brunda Specialist Clinic",
+      h1: "Voice Disorders Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Expert Care for Hoarseness, Voice Loss & Throat-Related Voice Problems",
       paragraphs: [
-        "Voice disorders affect the ability to speak clearly and comfortably, often presenting as hoarseness, voice fatigue, pitch changes, or complete voice loss. These conditions may result from vocal strain, infections, nerve issues, or structural problems of the vocal cords. At Brunda Specialist Clinic, we provide comprehensive evaluation and personalized treatment for voice disorders to restore healthy voice function.",
+        "Voice disorders affect the ability to speak clearly and comfortably, often presenting as hoarseness, voice fatigue, pitch changes, or complete voice loss. These conditions may result from vocal strain, infections, nerve issues, or structural problems of the vocal cords. At Brunda Advanced Orthopaedics & ENT Centre, we provide comprehensive evaluation and personalized treatment for voice disorders to restore healthy voice function.",
         "Our ENT specialists focus on accurate diagnosis through laryngeal examination and voice assessment, followed by medical treatment, voice therapy guidance, or surgical care when required.",
       ],
     },
@@ -1418,7 +1418,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Are Voice Disorders Treated?",
       description:
-        "At Brunda Specialist Clinic, voice disorder treatment is customized based on the underlying cause, severity, and individual voice needs.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, voice disorder treatment is customized based on the underlying cause, severity, and individual voice needs.",
       details: [
         {
           label: "Voice & Throat Evaluation",
@@ -1468,7 +1468,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced ENT specialists in voice disorder management",
         "Accurate diagnosis with advanced laryngeal evaluation",
@@ -1493,7 +1493,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Book a Voice Consultation",
-      text: "If you are experiencing hoarseness, voice fatigue, or voice loss, consult our ENT specialists at Brunda Specialist Clinic for expert evaluation and effective voice disorder treatment.",
+      text: "If you are experiencing hoarseness, voice fatigue, or voice loss, consult our ENT specialists at Brunda Advanced Orthopaedics & ENT Centre for expert evaluation and effective voice disorder treatment.",
       buttonText: "Book Appointment",
     },
 
@@ -1543,15 +1543,15 @@ export const serviceDetails = [
   },
   {
     id: 9,
-    title: "ENT Endoscopy at Brunda Specialist Clinic",
+    title: "ENT Endoscopy at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/ent-endoscopy.avif",
     link: "/ent-endoscopy",
 
     intro: {
-      h1: "ENT Endoscopy at Brunda Specialist Clinic",
+      h1: "ENT Endoscopy at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Advanced Diagnostic Evaluation of Ear, Nose & Throat Conditions",
       paragraphs: [
-        "ENT Endoscopy is a minimally invasive diagnostic procedure that allows detailed visualization of the ear, nose, throat, voice box, and surrounding structures. It helps in identifying the exact cause of persistent ENT symptoms such as nasal blockage, throat pain, voice changes, or swallowing difficulty. At Brunda Specialist Clinic, we provide safe and accurate ENT endoscopy for precise diagnosis and effective treatment planning.",
+        "ENT Endoscopy is a minimally invasive diagnostic procedure that allows detailed visualization of the ear, nose, throat, voice box, and surrounding structures. It helps in identifying the exact cause of persistent ENT symptoms such as nasal blockage, throat pain, voice changes, or swallowing difficulty. At Brunda Advanced Orthopaedics & ENT Centre, we provide safe and accurate ENT endoscopy for precise diagnosis and effective treatment planning.",
         "Our ENT specialists use advanced endoscopic equipment to examine internal ENT structures comfortably, ensuring clarity, safety, and patient reassurance during the procedure.",
       ],
     },
@@ -1598,7 +1598,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Is ENT Endoscopy Performed?",
       description:
-        "At Brunda Specialist Clinic, ENT endoscopy is performed as a quick outpatient procedure with patient comfort as a priority.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, ENT endoscopy is performed as a quick outpatient procedure with patient comfort as a priority.",
       details: [
         {
           label: "Preparation",
@@ -1647,7 +1647,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced ENT specialists in diagnostic endoscopy",
         "Advanced endoscopic equipment",
@@ -1672,7 +1672,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Book an ENT Endoscopy",
-      text: "If you are experiencing persistent ENT symptoms or need an accurate diagnosis, consult our ENT specialists at Brunda Specialist Clinic for advanced and safe ENT endoscopy evaluation.",
+      text: "If you are experiencing persistent ENT symptoms or need an accurate diagnosis, consult our ENT specialists at Brunda Advanced Orthopaedics & ENT Centre for advanced and safe ENT endoscopy evaluation.",
       buttonText: "Book Appointment",
     },
 
@@ -1722,15 +1722,15 @@ export const serviceDetails = [
   },
   {
     id: 10,
-    title: "Audiology & Hearing Aids at Brunda Specialist Clinic",
+    title: "Audiology & Hearing Aids at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/audiology-hearing-aids.avif",
     link: "/audiology-hearing-aids",
 
     intro: {
-      h1: "Audiology & Hearing Aids at Brunda Specialist Clinic",
+      h1: "Audiology & Hearing Aids at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Comprehensive Hearing Evaluation & Advanced Hearing Solutions",
       paragraphs: [
-        "Hearing loss can affect communication, social interaction, work performance, and overall quality of life. Early diagnosis and proper hearing care are essential for maintaining auditory health. At Brunda Specialist Clinic, we offer complete audiology services and modern hearing aid solutions for children, adults, and seniors.",
+        "Hearing loss can affect communication, social interaction, work performance, and overall quality of life. Early diagnosis and proper hearing care are essential for maintaining auditory health. At Brunda Advanced Orthopaedics & ENT Centre, we offer complete audiology services and modern hearing aid solutions for children, adults, and seniors.",
         "Our audiologists and ENT specialists work together to assess hearing ability accurately and recommend personalized hearing solutions, including advanced digital hearing aids tailored to individual needs.",
       ],
     },
@@ -1778,7 +1778,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Are Hearing Tests & Hearing Aids Managed?",
       description:
-        "At Brunda Specialist Clinic, hearing care is provided through a structured and patient-friendly process.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, hearing care is provided through a structured and patient-friendly process.",
       details: [
         {
           label: "Hearing Assessment",
@@ -1828,7 +1828,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced audiologists and ENT specialists",
         "Advanced diagnostic audiology equipment",
@@ -1853,7 +1853,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Book a Hearing Evaluation",
-      text: "If you or your loved one is experiencing hearing difficulty, consult our audiology and ENT experts at Brunda Specialist Clinic for accurate hearing assessment and advanced hearing aid solutions.",
+      text: "If you or your loved one is experiencing hearing difficulty, consult our audiology and ENT experts at Brunda Advanced Orthopaedics & ENT Centre for accurate hearing assessment and advanced hearing aid solutions.",
       buttonText: "Book Appointment",
     },
 
@@ -1903,15 +1903,15 @@ export const serviceDetails = [
   },
   {
     id: 11,
-    title: "Orthopaedic Trauma Care at Brunda Specialist Clinic",
+    title: "Orthopaedic Trauma Care at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/orthopaedic-trauma.avif",
     link: "/orthopaedic-trauma",
 
     intro: {
-      h1: "Orthopaedic Trauma Care at Brunda Specialist Clinic",
+      h1: "Orthopaedic Trauma Care at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Advanced Care for Fractures, Injuries & Complex Bone Trauma",
       paragraphs: [
-        "Orthopaedic trauma involves injuries to bones, joints, muscles, and ligaments caused by accidents, falls, sports injuries, or high-impact trauma. Prompt and expert management is crucial to restore function, prevent complications, and ensure proper healing. At Brunda Specialist Clinic, we provide comprehensive orthopaedic trauma care for patients of all ages.",
+        "Orthopaedic trauma involves injuries to bones, joints, muscles, and ligaments caused by accidents, falls, sports injuries, or high-impact trauma. Prompt and expert management is crucial to restore function, prevent complications, and ensure proper healing. At Brunda Advanced Orthopaedics & ENT Centre, we provide comprehensive orthopaedic trauma care for patients of all ages.",
         "Our experienced orthopaedic surgeons use advanced diagnostic tools, evidence-based treatment protocols, and modern surgical techniques to manage simple fractures as well as complex and polytrauma cases with precision and care.",
       ],
     },
@@ -1958,7 +1958,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Is Orthopaedic Trauma Treated?",
       description:
-        "At Brunda Specialist Clinic, orthopaedic trauma care follows a systematic and patient-focused approach.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, orthopaedic trauma care follows a systematic and patient-focused approach.",
       details: [
         {
           label: "Clinical & Imaging Evaluation",
@@ -2008,7 +2008,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced orthopaedic trauma surgeons",
         "Advanced imaging and surgical facilities",
@@ -2033,7 +2033,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Consult an Orthopaedic Trauma Specialist",
-      text: "If you or your loved one has sustained a bone or joint injury, consult our orthopaedic trauma experts at Brunda Specialist Clinic for timely diagnosis, advanced treatment, and complete recovery care.",
+      text: "If you or your loved one has sustained a bone or joint injury, consult our orthopaedic trauma experts at Brunda Advanced Orthopaedics & ENT Centre for timely diagnosis, advanced treatment, and complete recovery care.",
       buttonText: "Book Appointment",
     },
 
@@ -2041,16 +2041,16 @@ export const serviceDetails = [
   },
   {
     id: 12,
-    title: "Poly Trauma Management at Brunda Specialist Clinic",
+    title: "Poly Trauma Management at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/poly-trauma-management.avif",
     link: "/poly-trauma-management",
 
     intro: {
-      h1: "Poly Trauma Management at Brunda Specialist Clinic",
+      h1: "Poly Trauma Management at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Comprehensive Emergency Care for Multiple & Life-Threatening Injuries",
       paragraphs: [
         "Poly trauma refers to multiple serious injuries involving more than one body system, often caused by road traffic accidents, falls from height, industrial injuries, or severe sports trauma. Such injuries require rapid assessment, coordinated care, and timely intervention to save life and preserve function.",
-        "At Brunda Specialist Clinic, our multidisciplinary trauma team provides prompt, organized, and advanced poly trauma management, ensuring stabilization, definitive treatment, and structured rehabilitation for optimal recovery outcomes.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our multidisciplinary trauma team provides prompt, organized, and advanced poly trauma management, ensuring stabilization, definitive treatment, and structured rehabilitation for optimal recovery outcomes.",
       ],
     },
 
@@ -2095,7 +2095,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Is Poly Trauma Managed?",
       description:
-        "Poly trauma care at Brunda Specialist Clinic follows internationally accepted trauma protocols with a patient-first approach.",
+        "Poly trauma care at Brunda Advanced Orthopaedics & ENT Centre follows internationally accepted trauma protocols with a patient-first approach.",
       details: [
         {
           label: "Primary Survey & Stabilization",
@@ -2145,7 +2145,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced orthopaedic and trauma specialists",
         "Rapid emergency response and stabilization",
@@ -2170,7 +2170,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Emergency Trauma Consultation",
-      text: "In case of severe accidents or multiple injuries, seek immediate expert care at Brunda Specialist Clinic for advanced poly trauma management and coordinated recovery support.",
+      text: "In case of severe accidents or multiple injuries, seek immediate expert care at Brunda Advanced Orthopaedics & ENT Centre for advanced poly trauma management and coordinated recovery support.",
       buttonText: "Book Appointment",
     },
 
@@ -2178,16 +2178,16 @@ export const serviceDetails = [
   },
   {
     id: 13,
-    title: "Complex & Revision Trauma Care at Brunda Specialist Clinic",
+    title: "Complex & Revision Trauma Care at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/complex-revision-trauma.avif",
     link: "/complex-revision-trauma",
 
     intro: {
-      h1: "Complex & Revision Trauma Care at Brunda Specialist Clinic",
+      h1: "Complex & Revision Trauma Care at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Advanced Solutions for Complicated Fractures & Failed Trauma Surgeries",
       paragraphs: [
         "Complex and revision trauma cases involve difficult fractures, non-union or malunion of bones, infected implants, or failed previous trauma surgeries that require specialized expertise and advanced surgical planning. These conditions often cause chronic pain, deformity, and functional limitation if not managed correctly.",
-        "At Brunda Specialist Clinic, our experienced orthopaedic trauma specialists provide comprehensive evaluation and advanced revision trauma care, focusing on restoring bone alignment, stability, function, and long-term mobility.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our experienced orthopaedic trauma specialists provide comprehensive evaluation and advanced revision trauma care, focusing on restoring bone alignment, stability, function, and long-term mobility.",
       ],
     },
 
@@ -2232,7 +2232,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Are Complex & Revision Trauma Cases Treated?",
       description:
-        "At Brunda Specialist Clinic, complex trauma cases are managed with meticulous planning and advanced surgical techniques.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, complex trauma cases are managed with meticulous planning and advanced surgical techniques.",
       details: [
         {
           label: "Detailed Clinical Evaluation",
@@ -2282,7 +2282,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Highly experienced orthopaedic trauma surgeons",
         "Expertise in complex and revision trauma cases",
@@ -2307,7 +2307,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Consult a Revision Trauma Specialist",
-      text: "If you are facing complications after a fracture or trauma surgery, consult our orthopaedic experts at Brunda Specialist Clinic for advanced complex and revision trauma care.",
+      text: "If you are facing complications after a fracture or trauma surgery, consult our orthopaedic experts at Brunda Advanced Orthopaedics & ENT Centre for advanced complex and revision trauma care.",
       buttonText: "Book Appointment",
     },
 
@@ -2315,16 +2315,16 @@ export const serviceDetails = [
   },
   {
     id: 14,
-    title: "Joint Replacement Surgery at Brunda Specialist Clinic",
+    title: "Joint Replacement Surgery at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/joint-replacement.jpg",
     link: "/joint-replacement",
 
     intro: {
-      h1: "Joint Replacement Surgery at Brunda Specialist Clinic",
+      h1: "Joint Replacement Surgery at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Advanced Solutions for Knee, Hip & Joint Pain Relief",
       paragraphs: [
         "Chronic joint pain and stiffness caused by arthritis, injury, or degeneration can severely limit mobility and quality of life. When conservative treatments no longer provide relief, joint replacement surgery offers a reliable and long-lasting solution to restore movement and reduce pain.",
-        "At Brunda Specialist Clinic, our experienced orthopaedic surgeons provide comprehensive joint replacement care using advanced surgical techniques and high-quality implants to help patients regain mobility and lead an active, pain-free life.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our experienced orthopaedic surgeons provide comprehensive joint replacement care using advanced surgical techniques and high-quality implants to help patients regain mobility and lead an active, pain-free life.",
       ],
     },
 
@@ -2369,7 +2369,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Is Joint Replacement Surgery Performed?",
       description:
-        "Joint replacement surgery at Brunda Specialist Clinic follows a structured and patient-focused approach to ensure safety and optimal outcomes.",
+        "Joint replacement surgery at Brunda Advanced Orthopaedics & ENT Centre follows a structured and patient-focused approach to ensure safety and optimal outcomes.",
       details: [
         {
           label: "Pre-Surgical Evaluation",
@@ -2419,7 +2419,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced joint replacement surgeons",
         "Advanced surgical techniques and implants",
@@ -2444,7 +2444,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Consult a Joint Replacement Specialist",
-      text: "If chronic joint pain is limiting your daily life, consult our orthopaedic experts at Brunda Specialist Clinic to explore advanced joint replacement solutions tailored to your needs.",
+      text: "If chronic joint pain is limiting your daily life, consult our orthopaedic experts at Brunda Advanced Orthopaedics & ENT Centre to explore advanced joint replacement solutions tailored to your needs.",
       buttonText: "Book Appointment",
     },
 
@@ -2452,16 +2452,16 @@ export const serviceDetails = [
   },
   {
     id: 15,
-    title: "Sports Injuries Treatment at Brunda Specialist Clinic",
+    title: "Sports Injuries Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/sports-injuries.avif",
     link: "/sports-injuries",
 
     intro: {
-      h1: "Sports Injuries Treatment at Brunda Specialist Clinic",
+      h1: "Sports Injuries Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Expert Care for Athletic Injuries & Faster Recovery",
       paragraphs: [
         "Sports injuries can affect muscles, ligaments, tendons, joints, and bones, commonly resulting from overuse, sudden impact, or improper technique during physical activity. Prompt diagnosis and specialized treatment are essential to prevent long-term complications and ensure safe return to sports.",
-        "At Brunda Specialist Clinic, our orthopaedic and sports injury specialists provide comprehensive care for amateur and professional athletes, using advanced diagnostic tools and personalized treatment plans to support optimal recovery and performance.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our orthopaedic and sports injury specialists provide comprehensive care for amateur and professional athletes, using advanced diagnostic tools and personalized treatment plans to support optimal recovery and performance.",
       ],
     },
 
@@ -2507,7 +2507,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Are Sports Injuries Treated?",
       description:
-        "Sports injury management at Brunda Specialist Clinic follows a structured, athlete-focused approach.",
+        "Sports injury management at Brunda Advanced Orthopaedics & ENT Centre follows a structured, athlete-focused approach.",
       details: [
         {
           label: "Clinical Evaluation",
@@ -2557,7 +2557,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced sports injury specialists",
         "Advanced diagnostic and treatment facilities",
@@ -2582,7 +2582,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Consult a Sports Injury Specialist",
-      text: "If you have sustained a sports-related injury or experience ongoing pain during activity, consult our experts at Brunda Specialist Clinic for accurate diagnosis and advanced sports injury treatment.",
+      text: "If you have sustained a sports-related injury or experience ongoing pain during activity, consult our experts at Brunda Advanced Orthopaedics & ENT Centre for accurate diagnosis and advanced sports injury treatment.",
       buttonText: "Book Appointment",
     },
 
@@ -2590,16 +2590,16 @@ export const serviceDetails = [
   },
   {
     id: 16,
-    title: "Arthroscopic Procedures at Brunda Specialist Clinic",
+    title: "Arthroscopic Procedures at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/arthroscopic-procedures.avif",
     link: "/arthroscopic-procedures",
 
     intro: {
-      h1: "Arthroscopic Procedures at Brunda Specialist Clinic",
+      h1: "Arthroscopic Procedures at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Minimally Invasive Joint Surgery for Faster Recovery",
       paragraphs: [
         "Arthroscopic procedures are advanced minimally invasive surgeries used to diagnose and treat joint problems with precision and minimal tissue damage. These procedures help relieve pain, restore joint function, and enable quicker recovery compared to traditional open surgery.",
-        "At Brunda Specialist Clinic, our orthopaedic specialists perform arthroscopic surgeries using high-definition cameras and specialized instruments to treat a wide range of joint conditions affecting the knee, shoulder, ankle, and other joints.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our orthopaedic specialists perform arthroscopic surgeries using high-definition cameras and specialized instruments to treat a wide range of joint conditions affecting the knee, shoulder, ankle, and other joints.",
       ],
     },
 
@@ -2644,7 +2644,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Are Arthroscopic Procedures Performed?",
       description:
-        "Arthroscopic surgery at Brunda Specialist Clinic is carried out through a precise and patient-centered approach.",
+        "Arthroscopic surgery at Brunda Advanced Orthopaedics & ENT Centre is carried out through a precise and patient-centered approach.",
       details: [
         {
           label: "Clinical Evaluation",
@@ -2694,7 +2694,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced arthroscopic surgeons",
         "Advanced minimally invasive surgical techniques",
@@ -2719,7 +2719,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Consult an Arthroscopy Specialist",
-      text: "If joint pain or injury is limiting your movement, consult our orthopaedic experts at Brunda Specialist Clinic to explore advanced arthroscopic treatment options.",
+      text: "If joint pain or injury is limiting your movement, consult our orthopaedic experts at Brunda Advanced Orthopaedics & ENT Centre to explore advanced arthroscopic treatment options.",
       buttonText: "Book Appointment",
     },
 
@@ -2727,16 +2727,16 @@ export const serviceDetails = [
   },
   {
     id: 17,
-    title: "Spine Surgeries at Brunda Specialist Clinic",
+    title: "Spine Surgeries at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/spine-surgeries.avif",
     link: "/spine-surgeries",
 
     intro: {
-      h1: "Spine Surgeries at Brunda Specialist Clinic",
+      h1: "Spine Surgeries at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Advanced Surgical Care for Spine & Back Disorders",
       paragraphs: [
         "Spine disorders can cause persistent back or neck pain, nerve compression, weakness, and reduced mobility, significantly affecting daily life. When conservative treatments fail to provide relief, spine surgery may be required to correct the underlying condition and restore spinal stability.",
-        "At Brunda Specialist Clinic, our experienced spine and orthopaedic surgeons offer comprehensive spine surgery solutions using advanced techniques focused on pain relief, nerve decompression, and long-term spinal health.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our experienced spine and orthopaedic surgeons offer comprehensive spine surgery solutions using advanced techniques focused on pain relief, nerve decompression, and long-term spinal health.",
       ],
     },
 
@@ -2781,7 +2781,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Are Spine Surgeries Performed?",
       description:
-        "Spine surgery at Brunda Specialist Clinic follows a precise and patient-centric treatment pathway.",
+        "Spine surgery at Brunda Advanced Orthopaedics & ENT Centre follows a precise and patient-centric treatment pathway.",
       details: [
         {
           label: "Comprehensive Evaluation",
@@ -2831,7 +2831,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced spine and orthopaedic surgeons",
         "Advanced diagnostic and surgical facilities",
@@ -2856,7 +2856,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Consult a Spine Surgery Specialist",
-      text: "If spine or back pain is affecting your daily life, consult our experts at Brunda Specialist Clinic to discuss advanced spine surgery options tailored to your condition.",
+      text: "If spine or back pain is affecting your daily life, consult our experts at Brunda Advanced Orthopaedics & ENT Centre to discuss advanced spine surgery options tailored to your condition.",
       buttonText: "Book Appointment",
     },
 
@@ -2864,16 +2864,16 @@ export const serviceDetails = [
   },
   {
     id: 18,
-    title: "Pediatrics Orthopaedics at Brunda Specialist Clinic",
+    title: "Pediatrics Orthopaedics at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/pediatrics-orthopaedics.avif",
     link: "/pediatrics-orthopaedics",
 
     intro: {
-      h1: "Pediatrics Orthopaedics at Brunda Specialist Clinic",
+      h1: "Pediatrics Orthopaedics at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Specialized Bone & Joint Care for Children",
       paragraphs: [
         "Children’s bones, joints, and muscles are still developing, and orthopaedic conditions in childhood require specialized evaluation and age-appropriate treatment. Early diagnosis and timely intervention are crucial to ensure proper growth, alignment, and long-term mobility.",
-        "At Brunda Specialist Clinic, our pediatric orthopaedic specialists provide comprehensive care for infants, children, and adolescents, focusing on gentle treatment, accurate diagnosis, and long-term musculoskeletal health.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our pediatric orthopaedic specialists provide comprehensive care for infants, children, and adolescents, focusing on gentle treatment, accurate diagnosis, and long-term musculoskeletal health.",
       ],
     },
 
@@ -2920,7 +2920,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Are Pediatric Orthopaedic Conditions Managed?",
       description:
-        "At Brunda Specialist Clinic, pediatric orthopaedic care follows a child-centric and growth-focused approach.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, pediatric orthopaedic care follows a child-centric and growth-focused approach.",
       details: [
         {
           label: "Clinical Evaluation",
@@ -2970,7 +2970,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced pediatric orthopaedic specialists",
         "Child-friendly evaluation and treatment",
@@ -2995,7 +2995,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Consult a Pediatric Orthopaedic Specialist",
-      text: "If your child has bone, joint, or growth-related concerns, consult our pediatric orthopaedic experts at Brunda Specialist Clinic for accurate diagnosis and compassionate, specialized care.",
+      text: "If your child has bone, joint, or growth-related concerns, consult our pediatric orthopaedic experts at Brunda Advanced Orthopaedics & ENT Centre for accurate diagnosis and compassionate, specialized care.",
       buttonText: "Book Appointment",
     },
 
@@ -3003,16 +3003,16 @@ export const serviceDetails = [
   },
   {
     id: 19,
-    title: "Deformity Correction Surgery at Brunda Specialist Clinic",
+    title: "Deformity Correction Surgery at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/deformity-correction.jpg",
     link: "/deformity-correction",
 
     intro: {
-      h1: "Deformity Correction Surgery at Brunda Specialist Clinic",
+      h1: "Deformity Correction Surgery at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Advanced Solutions for Limb & Skeletal Deformities",
       paragraphs: [
         "Bone and joint deformities can result from congenital conditions, growth abnormalities, trauma, infections, or improper healing of fractures. These deformities may affect posture, movement, appearance, and overall quality of life if left untreated.",
-        "At Brunda Specialist Clinic, our orthopaedic specialists provide comprehensive deformity correction care using advanced planning, precise surgical techniques, and personalized rehabilitation to restore alignment, function, and confidence.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our orthopaedic specialists provide comprehensive deformity correction care using advanced planning, precise surgical techniques, and personalized rehabilitation to restore alignment, function, and confidence.",
       ],
     },
 
@@ -3057,7 +3057,7 @@ export const serviceDetails = [
     procedure: {
       heading: "How Is Deformity Correction Performed?",
       description:
-        "Deformity correction at Brunda Specialist Clinic is carried out through meticulous evaluation and customized treatment planning.",
+        "Deformity correction at Brunda Advanced Orthopaedics & ENT Centre is carried out through meticulous evaluation and customized treatment planning.",
       details: [
         {
           label: "Detailed Assessment",
@@ -3107,7 +3107,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Expertise in complex deformity correction procedures",
         "Advanced planning and precision surgical techniques",
@@ -3132,7 +3132,7 @@ export const serviceDetails = [
 
     cta: {
       heading: "Consult a Deformity Correction Specialist",
-      text: "If you or your child has bone or joint deformities affecting movement or posture, consult our orthopaedic experts at Brunda Specialist Clinic for advanced deformity correction solutions.",
+      text: "If you or your child has bone or joint deformities affecting movement or posture, consult our orthopaedic experts at Brunda Advanced Orthopaedics & ENT Centre for advanced deformity correction solutions.",
       buttonText: "Book Appointment",
     },
 
@@ -3140,16 +3140,16 @@ export const serviceDetails = [
   },
   {
     id: 20,
-    title: "Trauma & General Orthopaedics at Brunda Specialist Clinic",
+    title: "Trauma & General Orthopaedics at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/trauma-general-ortho.avif",
     link: "/trauma-general-ortho",
 
     intro: {
-      h1: "Trauma & General Orthopaedics at Brunda Specialist Clinic",
+      h1: "Trauma & General Orthopaedics at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Full-Spectrum Bone, Joint & Injury Care",
       paragraphs: [
         "General orthopaedic care covers acute trauma, fracture management, joint injuries, and common bone and soft tissue conditions that affect everyday movement. Timely assessment and structured treatment help prevent long-term disability and restore comfort and function.",
-        "At Brunda Specialist Clinic, our orthopaedic team combines emergency trauma care with planned treatment for common joint problems, ensuring quick stabilization, accurate diagnosis, and rehabilitation-focused recovery for every patient.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our orthopaedic team combines emergency trauma care with planned treatment for common joint problems, ensuring quick stabilization, accurate diagnosis, and rehabilitation-focused recovery for every patient.",
       ],
     },
 
@@ -3243,7 +3243,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "24x7-ready orthopaedic trauma response",
         "Experienced surgeons and rehabilitation specialists",
@@ -3276,12 +3276,12 @@ export const serviceDetails = [
   },
   {
     id: 25,
-    title: "ACL Repair / Reconstruction at Brunda Specialist Clinic",
+    title: "ACL Repair / Reconstruction at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/acl-repair-reconstruction.avif",
     link: "/acl-repair-reconstruction",
 
     intro: {
-      h1: "ACL Repair / Reconstruction at Brunda Specialist Clinic",
+      h1: "ACL Repair / Reconstruction at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Restore Knee Stability After Ligament Injury",
       paragraphs: [
         "Anterior cruciate ligament (ACL) tears can lead to knee instability, giving way episodes, and difficulty with pivoting sports. Timely reconstruction protects cartilage and meniscus and supports long-term knee health.",
@@ -3375,7 +3375,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced arthroscopic ACL surgeons",
         "Personalized graft and technique selection",
@@ -3408,12 +3408,12 @@ export const serviceDetails = [
   },
   {
     id: 34,
-    title: "Hip Arthroscopy (FAI) at Brunda Specialist Clinic",
+    title: "Hip Arthroscopy (FAI) at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/hip-arthroscopy-fai.jpg",
     link: "/hip-arthroscopy-fai",
 
     intro: {
-      h1: "Hip Arthroscopy (FAI) at Brunda Specialist Clinic",
+      h1: "Hip Arthroscopy (FAI) at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Minimally Invasive Care for Hip Impingement & Labral Tears",
       paragraphs: [
         "Femoroacetabular impingement (FAI) occurs when extra bone on the femoral head or socket causes abnormal contact, leading to labral tears and hip pain.",
@@ -3510,7 +3510,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced hip arthroscopy team",
         "Comprehensive FAI and labral assessment",
@@ -3543,12 +3543,12 @@ export const serviceDetails = [
   },
   {
     id: 35,
-    title: "Arthroplasty & Joint Replacement Care at Brunda Specialist Clinic",
+    title: "Arthroplasty & Joint Replacement Care at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/joint-replacement.jpg",
     link: "/arthroplasty",
 
     intro: {
-      h1: "Arthroplasty & Joint Replacement Care at Brunda Specialist Clinic",
+      h1: "Arthroplasty & Joint Replacement Care at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Advanced Solutions for Severe Joint Pain & Degeneration",
       paragraphs: [
         "Arthroplasty replaces damaged joint surfaces with smooth, durable implants to relieve pain, restore movement, and improve quality of life.",
@@ -3646,7 +3646,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced arthroplasty and joint replacement surgeons",
         "Robotic/computer-assisted options where suitable",
@@ -3679,12 +3679,12 @@ export const serviceDetails = [
   },
   {
     id: 40,
-    title: "Elbow Replacement at Brunda Specialist Clinic",
+    title: "Elbow Replacement at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/elbow-replacement.jpg",
     link: "/elbow-replacement",
 
     intro: {
-      h1: "Elbow Replacement at Brunda Specialist Clinic",
+      h1: "Elbow Replacement at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Relief for Severe Elbow Arthritis & Complex Fractures",
       paragraphs: [
         "Elbow replacement replaces damaged joint surfaces with implants to restore motion and relieve pain caused by arthritis, complex fractures, or failed previous surgeries.",
@@ -3778,7 +3778,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experience with complex elbow arthroplasty",
         "Focus on nerve protection and stability",
@@ -3811,12 +3811,12 @@ export const serviceDetails = [
   },
   {
     id: 41,
-    title: "Pediatric Deformity Correction at Brunda Specialist Clinic",
+    title: "Pediatric Deformity Correction at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/pediatrics-orthopaedics.avif",
     link: "/pediatric-deformity-surgeries",
 
     intro: {
-      h1: "Pediatric Deformity Correction at Brunda Specialist Clinic",
+      h1: "Pediatric Deformity Correction at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Gentle, Growth-Friendly Solutions for Children",
       paragraphs: [
         "Children with limb length differences, angular deformities, or spine and foot alignment issues need timely, precise care that respects growth plates and long-term development.",
@@ -3913,7 +3913,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Dedicated pediatric orthopaedic expertise",
         "Growth-friendly correction strategies",
@@ -3946,12 +3946,12 @@ export const serviceDetails = [
   },
   {
     id: 39,
-    title: "Shoulder Replacement (Total / Reverse) at Brunda Specialist Clinic",
+    title: "Shoulder Replacement (Total / Reverse) at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/shoulder-replacement.jpg",
     link: "/shoulder-replacement",
 
     intro: {
-      h1: "Shoulder Replacement (Total / Reverse) at Brunda Specialist Clinic",
+      h1: "Shoulder Replacement (Total / Reverse) at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Pain Relief & Motion Restoration for Arthritic or Cuff-Deficient Shoulders",
       paragraphs: [
         "Shoulder replacement replaces damaged joint surfaces to relieve pain from arthritis or complex cuff tears. Reverse designs are used when the rotator cuff is irreparable, allowing the deltoid to power the shoulder.",
@@ -4048,7 +4048,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Expertise in anatomic and reverse shoulder arthroplasty",
         "Implant selection tailored to cuff status",
@@ -4081,12 +4081,12 @@ export const serviceDetails = [
   },
   {
     id: 38,
-    title: "Hip Replacement Surgery at Brunda Specialist Clinic",
+    title: "Hip Replacement Surgery at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/hip-replacement.jpg",
     link: "/hip-replacement",
 
     intro: {
-      h1: "Hip Replacement Surgery at Brunda Specialist Clinic",
+      h1: "Hip Replacement Surgery at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Reliable Relief for Hip Arthritis & Avascular Necrosis",
       paragraphs: [
         "Hip replacement replaces damaged ball-and-socket surfaces with smooth implants to relieve pain, stiffness, and mobility limitations caused by arthritis or avascular necrosis.",
@@ -4183,7 +4183,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced hip replacement surgeons",
         "Focus on leg length and stability",
@@ -4216,16 +4216,16 @@ export const serviceDetails = [
   },
   {
     id: 39,
-    title: "Robotic Hip Replacement at Brunda Specialist Clinic",
+    title: "Robotic Hip Replacement at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/hip-replacement.jpg",
     link: "/robotic-hip-replacement",
 
     intro: {
-      h1: "Robotic Hip Replacement at Brunda Specialist Clinic",
+      h1: "Robotic Hip Replacement at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Precision-Guided Hip Arthroplasty for Better Alignment",
       paragraphs: [
         "Robotic hip replacement combines digital planning with intra-operative guidance to support accurate implant positioning, leg-length restoration, and stable hip biomechanics during total hip arthroplasty.",
-        "At Brunda Specialist Clinic, our arthroplasty team uses technology-assisted planning when suitable to personalize surgery to your anatomy and support a smoother recovery with confident walking.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, our arthroplasty team uses technology-assisted planning when suitable to personalize surgery to your anatomy and support a smoother recovery with confident walking.",
       ],
     },
 
@@ -4318,7 +4318,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced arthroplasty team for advanced hip replacement",
         "Technology-assisted planning focused on precision",
@@ -4352,12 +4352,12 @@ export const serviceDetails = [
   {
     id: 40,
     title:
-      "Computer-Assisted Hip Replacement at Brunda Specialist Clinic",
+      "Computer-Assisted Hip Replacement at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/hip-replacement.jpg",
     link: "/computer-assisted-hip-replacement",
 
     intro: {
-      h1: "Computer-Assisted Hip Replacement at Brunda Specialist Clinic",
+      h1: "Computer-Assisted Hip Replacement at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Navigation-Guided Hip Surgery for Accurate Implant Placement",
       paragraphs: [
         "Computer-assisted hip replacement uses digital navigation and intra-operative measurement tools to help the surgeon position the implant accurately and restore hip biomechanics more reliably.",
@@ -4454,7 +4454,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced hip replacement surgeons",
         "Navigation-guided planning when clinically appropriate",
@@ -4488,7 +4488,7 @@ export const serviceDetails = [
   {
     id: 37,
     title:
-      "Robotic / Computer-Assisted Knee Replacement at Brunda Specialist Clinic",
+      "Robotic / Computer-Assisted Knee Replacement at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/robotic-knee-replacement.png",
     link: "/robotic-knee-replacement",
 
@@ -4590,7 +4590,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced team using robotic/computer guidance",
         "Personalized planning based on your anatomy",
@@ -4626,7 +4626,7 @@ export const serviceDetails = [
   {
     id: 41,
     title:
-      "Computer-Assisted Total Knee Replacement at Brunda Specialist Clinic",
+      "Computer-Assisted Total Knee Replacement at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/Computer-Assisted-Total-Knee-Replacement.jpg",
     link: "/computer-assisted-total-knee-replacement",
 
@@ -4635,7 +4635,7 @@ export const serviceDetails = [
       h2: "Navigation-Guided Precision for Full Knee Arthroplasty",
       paragraphs: [
         "Computer-assisted total knee replacement uses digital navigation to help the surgeon align implants accurately, verify bone cuts, and balance the knee during total knee arthroplasty.",
-        "At Brunda Specialist Clinic, we use technology-guided planning when appropriate for patients who need complete knee resurfacing and want a carefully measured, precision-focused replacement.",
+        "At Brunda Advanced Orthopaedics & ENT Centre, we use technology-guided planning when appropriate for patients who need complete knee resurfacing and want a carefully measured, precision-focused replacement.",
       ],
     },
 
@@ -4728,7 +4728,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced team for advanced total knee replacement",
         "Computer-guided planning for accurate alignment",
@@ -4761,12 +4761,12 @@ export const serviceDetails = [
   },
   {
     id: 36,
-    title: "Knee Replacement (Total / Partial) at Brunda Specialist Clinic",
+    title: "Knee Replacement (Total / Partial) at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/knee-replacement.avif",
     link: "/knee-replacement",
 
     intro: {
-      h1: "Knee Replacement (Total / Partial) at Brunda Specialist Clinic",
+      h1: "Knee Replacement (Total / Partial) at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Precision Knee Arthroplasty for Pain-Free Movement",
       paragraphs: [
         "Advanced knee arthritis can cause severe pain, stiffness, and deformity. Total or partial knee replacement removes damaged surfaces and replaces them with smooth implants for lasting relief.",
@@ -4863,7 +4863,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced knee replacement surgeons",
         "Partial and total options based on need",
@@ -4896,12 +4896,12 @@ export const serviceDetails = [
   },
   {
     id: 33,
-    title: "Shoulder Instability Treatment at Brunda Specialist Clinic",
+    title: "Shoulder Instability Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/shoulder-instability-treatment.jpg",
     link: "/shoulder-instability-treatment",
 
     intro: {
-      h1: "Shoulder Instability Treatment at Brunda Specialist Clinic",
+      h1: "Shoulder Instability Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Reliable Solutions for Loose or Recurrent Dislocating Shoulders",
       paragraphs: [
         "Shoulder instability can stem from labral tears, capsule laxity, or ligament injuries, causing repeated slipping, apprehension, and limited confidence in movement.",
@@ -4998,7 +4998,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Comprehensive instability evaluation",
         "Rehab-first approach with surgical backup",
@@ -5031,12 +5031,12 @@ export const serviceDetails = [
   },
   {
     id: 32,
-    title: "Bankart Repair at Brunda Specialist Clinic",
+    title: "Bankart Repair at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/bankart-repair.avif",
     link: "/bankart-repair",
 
     intro: {
-      h1: "Bankart Repair at Brunda Specialist Clinic",
+      h1: "Bankart Repair at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Stabilizing the Shoulder After Recurrent Dislocations",
       paragraphs: [
         "A Bankart lesion is a tear of the labrum at the front of the shoulder socket, commonly caused by repeated dislocations. Repairing it restores stability and reduces the risk of further dislocations.",
@@ -5130,7 +5130,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced arthroscopic shoulder stabilization team",
         "Precise labral repair and capsular tightening",
@@ -5163,12 +5163,12 @@ export const serviceDetails = [
   },
   {
     id: 31,
-    title: "Rotator Cuff Repair at Brunda Specialist Clinic",
+    title: "Rotator Cuff Repair at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/rotator-cuff-repair.avif",
     link: "/rotator-cuff-repair",
 
     intro: {
-      h1: "Rotator Cuff Repair at Brunda Specialist Clinic",
+      h1: "Rotator Cuff Repair at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Shoulder Strength & Stability Restoration",
       paragraphs: [
         "Rotator cuff tears cause shoulder pain, weakness, and difficulty lifting or reaching. Repairing the torn tendon restores shoulder function and prevents progressive weakness.",
@@ -5262,7 +5262,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Arthroscopic and mini-open repair expertise",
         "Customized rehab focused on function",
@@ -5295,12 +5295,12 @@ export const serviceDetails = [
   },
   {
     id: 30,
-    title: "Meniscus Transplant at Brunda Specialist Clinic",
+    title: "Meniscus Transplant at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/meniscus-transplant.jpg",
     link: "/meniscus-transplant",
 
     intro: {
-      h1: "Meniscus Transplant at Brunda Specialist Clinic",
+      h1: "Meniscus Transplant at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Restoring Cushioning in Meniscus-Deficient Knees",
       paragraphs: [
         "Meniscus transplantation replaces a missing or non-functional meniscus with a donor graft to restore shock absorption, reduce pain, and slow arthritis progression in carefully selected patients.",
@@ -5397,7 +5397,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Comprehensive meniscus preservation and transplant expertise",
         "Detailed pre-op planning for size and alignment",
@@ -5430,7 +5430,7 @@ export const serviceDetails = [
   },
   {
     id: 29,
-    title: "Meniscal Root Repair / Reconstruction at Brunda Specialist Clinic",
+    title: "Meniscal Root Repair / Reconstruction at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/meniscal-root-repair.jpg",
     link: "/meniscal-root-repair",
 
@@ -5532,7 +5532,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Expertise in meniscal root repair techniques",
         "Anatomic fixation for optimal load distribution",
@@ -5565,12 +5565,12 @@ export const serviceDetails = [
   },
   {
     id: 28,
-    title: "Meniscus Repair at Brunda Specialist Clinic",
+    title: "Meniscus Repair at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/meniscus-repair.jpg",
     link: "/meniscus-repair",
 
     intro: {
-      h1: "Meniscus Repair at Brunda Specialist Clinic",
+      h1: "Meniscus Repair at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Preserving Knee Cushioning & Function",
       paragraphs: [
         "Meniscus tears can cause pain, swelling, locking, and reduced shock absorption in the knee. Whenever possible, repairing the meniscus preserves knee longevity and reduces arthritis risk.",
@@ -5667,7 +5667,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Meniscus-preserving philosophy whenever possible",
         "Advanced arthroscopic repair techniques",
@@ -5701,7 +5701,7 @@ export const serviceDetails = [
   {
     id: 27,
     title:
-      "Cruciate Ligament Reconstruction (Artificial Graft) at Brunda Specialist Clinic",
+      "Cruciate Ligament Reconstruction (Artificial Graft) at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/artificial-graft-cruciate-ligament.avif",
     link: "/artificial-graft-cruciate-ligament",
 
@@ -5800,7 +5800,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experience with revision and complex knee cases",
         "Careful graft selection and patient counseling",
@@ -5835,12 +5835,12 @@ export const serviceDetails = [
   },
   {
     id: 26,
-    title: "PCL Repair / Reconstruction at Brunda Specialist Clinic",
+    title: "PCL Repair / Reconstruction at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/arthroscopic-procedures.avif",
     link: "/pcl-repair-reconstruction",
 
     intro: {
-      h1: "PCL Repair / Reconstruction at Brunda Specialist Clinic",
+      h1: "PCL Repair / Reconstruction at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Targeted Care for Posterior Knee Stability",
       paragraphs: [
         "Posterior cruciate ligament (PCL) injuries can cause knee instability, difficulty on slopes or stairs, and increased stress on other knee structures. Precise reconstruction restores stability and prevents further damage.",
@@ -5934,7 +5934,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Arthroscopic, anatomic PCL reconstruction expertise",
         "Graft choice tailored to activity goals",
@@ -5967,12 +5967,12 @@ export const serviceDetails = [
   },
   {
     id: 22,
-    title: "Tennis Elbow Treatment at Brunda Specialist Clinic",
+    title: "Tennis Elbow Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/tennis-elbow-treatment.avif",
     link: "/tennis-elbow-treatment",
 
     intro: {
-      h1: "Tennis Elbow Treatment at Brunda Specialist Clinic",
+      h1: "Tennis Elbow Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Relief for Lateral Elbow Pain & Overuse Injuries",
       paragraphs: [
         "Tennis elbow (lateral epicondylitis) is caused by overuse or strain of the forearm extensor tendons, leading to pain on the outer elbow that worsens with grip or lifting.",
@@ -6066,7 +6066,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Precise diagnosis of tendon-related elbow pain",
         "Comprehensive non-surgical and surgical options",
@@ -6099,12 +6099,12 @@ export const serviceDetails = [
   },
   {
     id: 24,
-    title: "Arthroscopic Surgeries at Brunda Specialist Clinic",
+    title: "Arthroscopic Surgeries at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/arthroscopic-procedures.avif",
     link: "/arthroscopic-surgeries",
 
     intro: {
-      h1: "Arthroscopic Surgeries at Brunda Specialist Clinic",
+      h1: "Arthroscopic Surgeries at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Minimally Invasive Solutions for Joint Pain & Instability",
       paragraphs: [
         "Arthroscopic surgery uses a tiny camera and specialized instruments inserted through keyhole incisions to diagnose and treat joint problems with minimal tissue disruption.",
@@ -6198,7 +6198,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Experienced arthroscopic surgeons",
         "Comprehensive knee, shoulder, and hip portfolio",
@@ -6231,12 +6231,12 @@ export const serviceDetails = [
   },
   {
     id: 23,
-    title: "Plantar Fasciitis Treatment at Brunda Specialist Clinic",
+    title: "Plantar Fasciitis Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/plantar-fasciitis-treatment.avif",
     link: "/plantar-fasciitis-treatment",
 
     intro: {
-      h1: "Plantar Fasciitis Treatment at Brunda Specialist Clinic",
+      h1: "Plantar Fasciitis Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Focused Relief for Heel Pain & Foot Overuse",
       paragraphs: [
         "Plantar fasciitis occurs when the plantar fascia ligament along the heel and arch becomes inflamed, causing sharp heel pain, especially with first steps in the morning.",
@@ -6330,7 +6330,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Detailed gait and biomechanical assessment",
         "Personalized rehab and orthotic guidance",
@@ -6363,12 +6363,12 @@ export const serviceDetails = [
   },
   {
     id: 21,
-    title: "Rheumatoid Arthritis Treatment at Brunda Specialist Clinic",
+    title: "Rheumatoid Arthritis Treatment at Brunda Advanced Orthopaedics & ENT Centre",
     img: "/assets/service-images/rheumatoid-arthritis.avif",
     link: "/rheumatoid-arthritis",
 
     intro: {
-      h1: "Rheumatoid Arthritis Treatment at Brunda Specialist Clinic",
+      h1: "Rheumatoid Arthritis Treatment at Brunda Advanced Orthopaedics & ENT Centre",
       h2: "Comprehensive Care to Protect Joints & Mobility",
       paragraphs: [
         "Rheumatoid arthritis is an autoimmune condition that causes joint inflammation, pain, and stiffness. Without timely treatment, it can damage cartilage, deform joints, and affect daily activities.",
@@ -6462,7 +6462,7 @@ export const serviceDetails = [
     },
 
     whyChooseUs: {
-      heading: "Why Choose Brunda Specialist Clinic?",
+      heading: "Why Choose Brunda Advanced Orthopaedics & ENT Centre?",
       list: [
         "Joint preservation focus with early intervention",
         "Access to advanced medical and surgical options",

@@ -3,7 +3,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/",
     title: "Best ENT Specialist in Vijayanagar | Dr. Meghana Janardhan",
     description:
-      "Consult the Best ENT Specialist in Vijayanagar at Brunda Specialist Clinic for expert treatment of sinusitis, ear infections, throat problems, and allergies.",
+      "Consult the Best ENT Specialist in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for expert treatment of sinusitis, ear infections, throat problems, and allergies.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, ACL Treatment in Maruthi Mandir",
     jsonScript: {
@@ -12,13 +12,13 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id": "https://www.brundaspecialistclinic.com/#clinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           description:
-            "Brunda Specialist Clinic in Vijayanagar, Bengaluru provides expert ENT and orthopaedic care including sinus treatment, ear infection care, ACL treatment, and shoulder replacement surgery.",
+            "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert ENT and orthopaedic care including sinus treatment, ear infection care, ACL treatment, and shoulder replacement surgery.",
           keywords: [
             "Best Orthopaedic Surgeon in Vijayanagar",
             "Best ENT Specialist in Vijayanagar",
@@ -108,7 +108,7 @@ export const metaData = [
               name: "Who is the Best ENT Specialist in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic is known for having the Best ENT Specialist in Vijayanagar, offering advanced diagnosis and treatment for ear, nose, and throat conditions.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre is known for having the Best ENT Specialist in Vijayanagar, offering advanced diagnosis and treatment for ear, nose, and throat conditions.",
               },
             },
             {
@@ -140,7 +140,7 @@ export const metaData = [
               name: "How do I book an appointment with the Best ENT Specialist in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar, Bengaluru.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru.",
               },
             },
           ],
@@ -161,13 +161,13 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id": "https://www.brundaspecialistclinic.com/about-us#clinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/about-us",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           description:
-            "Brunda Specialist Clinic is known as the Best Orthopaedic Clinic in Vijayanagar providing expert care for joint pain, ACL injuries, sports injuries, and shoulder conditions.",
+            "Brunda Advanced Orthopaedics & ENT Centre is known as the Best Orthopaedic Clinic in Vijayanagar providing expert care for joint pain, ACL injuries, sports injuries, and shoulder conditions.",
           keywords: [
             "Best Orthopaedic Clinic in Vijayanagar",
             "Best Orthopaedic Surgeon in Vijayanagar",
@@ -225,7 +225,7 @@ export const metaData = [
               name: "Which is the Best Orthopaedic Clinic in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic is known as one of the Best Orthopaedic Clinics in Vijayanagar providing expert treatment for joint pain, ligament injuries, sports injuries, and orthopaedic conditions.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre is known as one of the Best Orthopaedic Clinics in Vijayanagar providing expert treatment for joint pain, ligament injuries, sports injuries, and orthopaedic conditions.",
               },
             },
             {
@@ -241,7 +241,7 @@ export const metaData = [
               name: "When can I visit the Best Orthopaedic Clinic in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can visit Brunda Specialist Clinic from Monday to Saturday between 6:00 PM and 9:00 PM for orthopaedic consultation.",
+                text: "You can visit Brunda Advanced Orthopaedics & ENT Centre from Monday to Saturday between 6:00 PM and 9:00 PM for orthopaedic consultation.",
               },
             },
             {
@@ -257,7 +257,7 @@ export const metaData = [
               name: "How can I book an appointment at the Best Orthopaedic Clinic in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar, Bengaluru.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru.",
               },
             },
           ],
@@ -269,7 +269,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-doctors",
     title: "Best ENT and Orthopedic Clinic in Vijayanagar| Brunda Clinic",
     description:
-      "Visit Brunda Specialist Clinic, the best ENT and Orthopedic Clinic in Vijayanagar offering expert care for ear, throat, joint pain and shoulder treatments.",
+      "Visit Brunda Advanced Orthopaedics & ENT Centre, the best ENT and Orthopedic Clinic in Vijayanagar offering expert care for ear, throat, joint pain and shoulder treatments.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, ACL Treatment in Maruthi Mandir",
     jsonScript: {
@@ -278,13 +278,13 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id": "https://www.brundaspecialistclinic.com/our-doctors/#clinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/our-doctors",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           description:
-            "Brunda Specialist Clinic is the Best ENT and Orthopedic Clinic in Vijayanagar offering expert treatment for ENT disorders, joint pain, ACL injuries, sports injuries and shoulder conditions.",
+            "Brunda Advanced Orthopaedics & ENT Centre is the Best ENT and Orthopedic Clinic in Vijayanagar offering expert treatment for ENT disorders, joint pain, ACL injuries, sports injuries and shoulder conditions.",
           keywords: [
             "Best ENT and Orthopedic Clinic in Vijayanagar",
             "Best Orthopaedic Surgeon in Vijayanagar",
@@ -337,7 +337,7 @@ export const metaData = [
               },
               datePublished: "2025-12-10",
               reviewBody:
-                "Brunda Specialist Clinic is the Best ENT and Orthopedic Clinic in Vijayanagar. I visited for sinus issues and received accurate diagnosis and effective treatment.",
+                "Brunda Advanced Orthopaedics & ENT Centre is the Best ENT and Orthopedic Clinic in Vijayanagar. I visited for sinus issues and received accurate diagnosis and effective treatment.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -390,7 +390,7 @@ export const metaData = [
               name: "Which is the Best ENT and Orthopedic Clinic in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic is one of the Best ENT and Orthopedic Clinics in Vijayanagar providing expert treatment for ear, nose, throat and orthopedic conditions.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre is one of the Best ENT and Orthopedic Clinics in Vijayanagar providing expert treatment for ear, nose, throat and orthopedic conditions.",
               },
             },
             {
@@ -419,10 +419,10 @@ export const metaData = [
             },
             {
               "@type": "Question",
-              name: "How can I book an appointment at Brunda Specialist Clinic?",
+              name: "How can I book an appointment at Brunda Advanced Orthopaedics & ENT Centre?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar, Bengaluru during clinic hours.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru during clinic hours.",
               },
             },
           ],
@@ -434,7 +434,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan",
     title: "Best ENT and Orthopedic Clinic in Vijayanagar| Brunda Clinic",
     description:
-      "Consult the ENT Specialist Doctor in Vijayanagar, Dr Meghana Janardhan at Brunda Specialist Clinic for sinus, ear infection, throat, and allergy treatments.",
+      "Consult the ENT Specialist Doctor in Vijayanagar, Dr Meghana Janardhan at Brunda Advanced Orthopaedics & ENT Centre for sinus, ear infection, throat, and allergy treatments.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, ACL Treatment in Maruthi Mandir",
     jsonScript: {
@@ -444,13 +444,13 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan/#clinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan/",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           description:
-            "Brunda Specialist Clinic in Vijayanagar, Bengaluru provides expert orthopaedic and ENT care including ACL treatment, shoulder replacement surgery, and advanced ENT treatments.",
+            "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert orthopaedic and ENT care including ACL treatment, shoulder replacement surgery, and advanced ENT treatments.",
           keywords: [
             "Best Orthopaedic Surgeon in Vijayanagar",
             "Best ENT Specialist Doctor in Vijayanagar",
@@ -531,7 +531,7 @@ export const metaData = [
               },
               datePublished: "2025-11-22",
               reviewBody:
-                "Very professional and caring ENT doctor. I visited for ear pain and received excellent treatment at Brunda Specialist Clinic.",
+                "Very professional and caring ENT doctor. I visited for ear pain and received excellent treatment at Brunda Advanced Orthopaedics & ENT Centre.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -550,7 +550,7 @@ export const metaData = [
               name: "Who is the Best ENT Specialist Doctor in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Dr Meghana Janardhan at Brunda Specialist Clinic is known as one of the best ENT specialist doctors in Vijayanagar, offering expert care for ear, nose, and throat conditions.",
+                text: "Dr Meghana Janardhan at Brunda Advanced Orthopaedics & ENT Centre is known as one of the best ENT specialist doctors in Vijayanagar, offering expert care for ear, nose, and throat conditions.",
               },
             },
             {
@@ -566,7 +566,7 @@ export const metaData = [
               name: "When can I consult the Best ENT Specialist Doctor in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can consult the ENT specialist from Monday to Saturday between 6:00 PM and 9:00 PM at Brunda Specialist Clinic.",
+                text: "You can consult the ENT specialist from Monday to Saturday between 6:00 PM and 9:00 PM at Brunda Advanced Orthopaedics & ENT Centre.",
               },
             },
             {
@@ -574,7 +574,7 @@ export const metaData = [
               name: "How do I book an appointment with the Best ENT Specialist Doctor in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Appointments can be booked by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar, Bengaluru.",
+                text: "Appointments can be booked by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru.",
               },
             },
             {
@@ -582,7 +582,7 @@ export const metaData = [
               name: "Where is Dr Meghana Janardhan ENT clinic located?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Dr Meghana Janardhan practices at Brunda Specialist Clinic located in Vijayanagar, Bengaluru, Karnataka.",
+                text: "Dr Meghana Janardhan practices at Brunda Advanced Orthopaedics & ENT Centre located in Vijayanagar, Bengaluru, Karnataka.",
               },
             },
           ],
@@ -602,7 +602,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -625,7 +625,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/ent-services/sinus-allergy-treatment#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/ent-services/sinus-allergy-treatment",
           description:
-            "Brunda Specialist Clinic in Vijayanagar offers expert ENT care including advanced sinus and allergy treatment by the best sinus specialist in Vijayanagar.",
+            "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar offers expert ENT care including advanced sinus and allergy treatment by the best sinus specialist in Vijayanagar.",
           keywords: [
             "Best sinus specialist in Vijayanagar",
             "Sinus allergy treatment in Vijayanagar",
@@ -701,7 +701,7 @@ export const metaData = [
               name: "Who is the best sinus specialist in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides treatment from experienced ENT doctors known as the best sinus specialists in Vijayanagar for diagnosing and treating sinus infections and allergies.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides treatment from experienced ENT doctors known as the best sinus specialists in Vijayanagar for diagnosing and treating sinus infections and allergies.",
               },
             },
             {
@@ -733,7 +733,7 @@ export const metaData = [
               name: "Where can I get sinus allergy treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can visit Brunda Specialist Clinic in Vijayanagar, Bengaluru for expert sinus allergy treatment from experienced ENT specialists.",
+                text: "You can visit Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru for expert sinus allergy treatment from experienced ENT specialists.",
               },
             },
           ],
@@ -745,7 +745,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery",
     title: "Expert Micro Ear Surgery in Vijaynagar | Advanced ENT Care",
     description:
-      "Get advanced Micro Ear Surgery in Vijaynagar at Brunda Specialist Clinic.Expert ENT care for ear infections, hearing issues and precise microsurgical treatment.",
+      "Get advanced Micro Ear Surgery in Vijaynagar at Brunda Advanced Orthopaedics & ENT Centre.Expert ENT care for ear infections, hearing issues and precise microsurgical treatment.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, ACL Treatment in Maruthi Mandir",
     jsonScript: {
@@ -753,7 +753,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -776,7 +776,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery",
           description:
-            "Brunda Specialist Clinic in Vijayanagar offers advanced Micro Ear Surgery in Vijaynagar for treating ear infections, hearing problems, and eardrum damage with precision ENT care.",
+            "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar offers advanced Micro Ear Surgery in Vijaynagar for treating ear infections, hearing problems, and eardrum damage with precision ENT care.",
           keywords: [
             "Micro Ear Surgery in Vijaynagar",
             "Best ENT Specialist in Vijayanagar",
@@ -884,7 +884,7 @@ export const metaData = [
               name: "Where can I get Micro Ear Surgery in Vijaynagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can consult experienced ENT specialists at Brunda Specialist Clinic in Vijayanagar, Bengaluru for advanced diagnosis and Micro Ear Surgery treatment.",
+                text: "You can consult experienced ENT specialists at Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru for advanced diagnosis and Micro Ear Surgery treatment.",
               },
             },
           ],
@@ -896,7 +896,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment",
     title: "Best Vertigo Treatment in Vijayanagar | Expert ENT Care",
     description:
-      "Get expert Vertigo Treatment in Vijayanagar at Brunda Specialist Clinic. Accurate diagnosis and effective care for dizziness and inner ear problems.",
+      "Get expert Vertigo Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Accurate diagnosis and effective care for dizziness and inner ear problems.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, ACL Treatment in Maruthi Mandir",
     jsonScript: {
@@ -904,7 +904,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -927,7 +927,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment",
           description:
-            "Brunda Specialist Clinic in Vijayanagar, Bengaluru provides expert ENT care including vertigo diagnosis, dizziness treatment, balance disorder management, and advanced ENT treatments.",
+            "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert ENT care including vertigo diagnosis, dizziness treatment, balance disorder management, and advanced ENT treatments.",
           keywords: [
             "Vertigo Treatment in Vijayanagar",
             "Best ENT Specialist in Vijayanagar",
@@ -1003,7 +1003,7 @@ export const metaData = [
               name: "Where can I get the best Vertigo Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced Vertigo Treatment in Vijayanagar with expert ENT evaluation, accurate diagnosis, and personalized treatment for dizziness, balance disorders, and inner ear problems.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced Vertigo Treatment in Vijayanagar with expert ENT evaluation, accurate diagnosis, and personalized treatment for dizziness, balance disorders, and inner ear problems.",
               },
             },
             {
@@ -1059,7 +1059,7 @@ export const metaData = [
               name: "How can I book an appointment for Vertigo Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment for Vertigo Treatment in Vijayanagar by calling +91 96323 71211 or visiting Brunda Specialist Clinic for expert ENT consultation and vertigo management.",
+                text: "You can book an appointment for Vertigo Treatment in Vijayanagar by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre for expert ENT consultation and vertigo management.",
               },
             },
           ],
@@ -1071,7 +1071,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent",
     title: "Foreign Body Removal from Ear in Vijayanagar | ENT Care",
     description:
-      "Safe and quick Foreign Body Removal from Ear in Vijayanagar by experienced ENT specialists at Brunda Specialist Clinic with advanced tools and gentle care.",
+      "Safe and quick Foreign Body Removal from Ear in Vijayanagar by experienced ENT specialists at Brunda Advanced Orthopaedics & ENT Centre with advanced tools and gentle care.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Foreign Body Removal from Ear in Vijayanagar",
     jsonScript: {
@@ -1079,7 +1079,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -1102,7 +1102,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent",
           description:
-            "Brunda Specialist Clinic provides expert ENT treatment including Foreign Body Removal from Ear in Vijayanagar with safe and advanced medical techniques.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides expert ENT treatment including Foreign Body Removal from Ear in Vijayanagar with safe and advanced medical techniques.",
           openingHoursSpecification: {
             "@type": "OpeningHoursSpecification",
             dayOfWeek: [
@@ -1147,7 +1147,7 @@ export const metaData = [
               },
               datePublished: "2025-11-15",
               reviewBody:
-                "Very professional ENT specialist. My child had a bead stuck in the ear and the doctor removed it safely. Great experience at Brunda Specialist Clinic.",
+                "Very professional ENT specialist. My child had a bead stuck in the ear and the doctor removed it safely. Great experience at Brunda Advanced Orthopaedics & ENT Centre.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -1171,7 +1171,7 @@ export const metaData = [
               name: "Where can I get Foreign Body Removal from Ear in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Foreign Body Removal from Ear in Vijayanagar is available at Brunda Specialist Clinic where experienced ENT doctors safely remove objects from the ear using specialized medical equipment.",
+                text: "Foreign Body Removal from Ear in Vijayanagar is available at Brunda Advanced Orthopaedics & ENT Centre where experienced ENT doctors safely remove objects from the ear using specialized medical equipment.",
               },
             },
             {
@@ -1223,7 +1223,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -1246,7 +1246,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/ent-services/head-neck-disorders#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/ent-services/head-neck-disorders",
           description:
-            "Brunda Specialist Clinic offers advanced Head & Neck Disorders Treatment in Vijayanagar with expert ENT diagnosis and personalized care for throat, glands, and neck conditions.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers advanced Head & Neck Disorders Treatment in Vijayanagar with expert ENT diagnosis and personalized care for throat, glands, and neck conditions.",
           keywords: [
             "Head & Neck Disorders Treatment in Vijayanagar",
             "Best ENT Specialist in Vijayanagar",
@@ -1306,7 +1306,7 @@ export const metaData = [
               name: "Where can I get Head & Neck Disorders Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides expert Head & Neck Disorders Treatment in Vijayanagar with advanced ENT evaluation and personalized treatment plans.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides expert Head & Neck Disorders Treatment in Vijayanagar with advanced ENT evaluation and personalized treatment plans.",
               },
             },
             {
@@ -1338,7 +1338,7 @@ export const metaData = [
               name: "How can I book an appointment for head and neck treatment?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for ENT consultation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for ENT consultation.",
               },
             },
           ],
@@ -1358,7 +1358,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -1381,7 +1381,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/ent-services/ent-endoscopy#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/ent-services/ent-endoscopy",
           description:
-            "Brunda Specialist Clinic offers consultation with an ENT endoscopy Specialist in Vijayanagar for advanced diagnosis and treatment of sinus, nasal, and throat disorders using modern endoscopic technology.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers consultation with an ENT endoscopy Specialist in Vijayanagar for advanced diagnosis and treatment of sinus, nasal, and throat disorders using modern endoscopic technology.",
           keywords: [
             "ENT endoscopy Specialist in Vijayanagar",
             "Best ENT Specialist in Vijayanagar",
@@ -1420,7 +1420,7 @@ export const metaData = [
               },
               datePublished: "2025-11-29",
               reviewBody:
-                "Very professional ENT doctor. Endoscopy helped diagnose my sinus infection accurately. Highly recommend Brunda Specialist Clinic.",
+                "Very professional ENT doctor. Endoscopy helped diagnose my sinus infection accurately. Highly recommend Brunda Advanced Orthopaedics & ENT Centre.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -1439,7 +1439,7 @@ export const metaData = [
               name: "Who is the best ENT endoscopy Specialist in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides consultation with an experienced ENT endoscopy Specialist in Vijayanagar for diagnosing sinus, nasal, and throat disorders using advanced endoscopic techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides consultation with an experienced ENT endoscopy Specialist in Vijayanagar for diagnosing sinus, nasal, and throat disorders using advanced endoscopic techniques.",
               },
             },
             {
@@ -1471,7 +1471,7 @@ export const metaData = [
               name: "How can I book an appointment for ENT endoscopy in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment at Brunda Specialist Clinic by calling +91 96323 71211 for consultation with an ENT endoscopy Specialist in Vijayanagar.",
+                text: "You can book an appointment at Brunda Advanced Orthopaedics & ENT Centre by calling +91 96323 71211 for consultation with an ENT endoscopy Specialist in Vijayanagar.",
               },
             },
           ],
@@ -1491,7 +1491,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -1514,7 +1514,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/ent-services/adenotonsillectomy#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/ent-services/adenotonsillectomy",
           description:
-            "Brunda Specialist Clinic in Vijayanagar, Bengaluru provides expert ENT treatments including Adenotonsillectomy surgery, sinus care, ear infections, and throat disorder treatments.",
+            "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert ENT treatments including Adenotonsillectomy surgery, sinus care, ear infections, and throat disorder treatments.",
           keywords: [
             "Adenotonsillectomy Treatment in Vijayanagar",
             "Best ENT Specialist in Vijayanagar",
@@ -1602,7 +1602,7 @@ export const metaData = [
               name: "Where can I get Adenotonsillectomy Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides Adenotonsillectomy Treatment in Vijayanagar with experienced ENT specialists and advanced surgical care.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides Adenotonsillectomy Treatment in Vijayanagar with experienced ENT specialists and advanced surgical care.",
               },
             },
           ],
@@ -1622,7 +1622,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -1645,7 +1645,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/ent-services/pediatric-ent-care#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/ent-services/pediatric-ent-care",
           description:
-            "Brunda Specialist Clinic provides Pediatric ENT Care in Vijayanagar including treatment for ear infections, sinus problems, tonsillitis, allergies and breathing issues in children.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides Pediatric ENT Care in Vijayanagar including treatment for ear infections, sinus problems, tonsillitis, allergies and breathing issues in children.",
           keywords: [
             "Pediatric ENT Care in Vijayanagar",
             "Child ENT Specialist in Vijayanagar",
@@ -1702,7 +1702,7 @@ export const metaData = [
               name: "Where can I get the best Pediatric ENT Care in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers expert Pediatric ENT Care in Vijayanagar with specialized diagnosis and treatment for children's ear, nose, and throat conditions.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers expert Pediatric ENT Care in Vijayanagar with specialized diagnosis and treatment for children's ear, nose, and throat conditions.",
               },
             },
             {
@@ -1746,7 +1746,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment",
     title: "Voice Disorders Treatment in Vijayanagar | Dr. Meghana",
     description:
-      "Get expert Voice Disorders Treatment in Vijayanagar at Brunda Specialist Clinic. Advanced ENT care for hoarseness,vocal strain,throat issues and voice problems.",
+      "Get expert Voice Disorders Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced ENT care for hoarseness,vocal strain,throat issues and voice problems.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Voice Disorders Treatment in Vijayanagar",
     jsonScript: {
@@ -1754,7 +1754,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -1777,7 +1777,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment",
           description:
-            "Brunda Specialist Clinic provides expert Voice Disorders Treatment in Vijayanagar with advanced ENT care for hoarseness, vocal cord problems, throat infections, and voice changes.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides expert Voice Disorders Treatment in Vijayanagar with advanced ENT care for hoarseness, vocal cord problems, throat infections, and voice changes.",
           openingHoursSpecification: {
             "@type": "OpeningHoursSpecification",
             dayOfWeek: [
@@ -1841,7 +1841,7 @@ export const metaData = [
               name: "Where can I get the best Voice Disorders Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers expert Voice Disorders Treatment in Vijayanagar with advanced ENT diagnosis and treatment for hoarseness, throat infections, and vocal cord problems.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers expert Voice Disorders Treatment in Vijayanagar with advanced ENT diagnosis and treatment for hoarseness, throat infections, and vocal cord problems.",
               },
             },
             {
@@ -1873,7 +1873,7 @@ export const metaData = [
               name: "How can I book an appointment for Voice Disorders Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for expert ENT consultation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for expert ENT consultation.",
               },
             },
           ],
@@ -1885,7 +1885,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
     title: "General Orthopaedic Clinic in Vijayanagar | Dr. Nagaraj M",
     description:
-      "Visit the General Orthopaedic Clinic in Vijayanagar at Brunda Specialist Clinic for expert diagnosis and treatment of joint pain, fractures and bone conditions.",
+      "Visit the General Orthopaedic Clinic in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for expert diagnosis and treatment of joint pain, fractures and bone conditions.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Voice Disorders Treatment in Vijayanagar",
     jsonScript: {
@@ -1893,7 +1893,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -1916,7 +1916,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
           description:
-            "Brunda Specialist Clinic is a trusted General Orthopaedic Clinic in Vijayanagar offering expert care for fractures, joint pain, sports injuries, arthritis, and bone disorders.",
+            "Brunda Advanced Orthopaedics & ENT Centre is a trusted General Orthopaedic Clinic in Vijayanagar offering expert care for fractures, joint pain, sports injuries, arthritis, and bone disorders.",
           keywords: [
             "General Orthopaedic Clinic in Vijayanagar",
             "Orthopaedic Doctor in Vijayanagar",
@@ -1992,7 +1992,7 @@ export const metaData = [
               name: "Where can I find a General Orthopaedic Clinic in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic in Vijayanagar provides expert orthopaedic consultation and treatment for fractures, joint pain, sports injuries, and other bone conditions.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar provides expert orthopaedic consultation and treatment for fractures, joint pain, sports injuries, and other bone conditions.",
               },
             },
             {
@@ -2024,7 +2024,7 @@ export const metaData = [
               name: "How can I book an orthopaedic appointment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for expert orthopaedic consultation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for expert orthopaedic consultation.",
               },
             },
           ],
@@ -2036,7 +2036,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
     title: "Orthopaedic Trauma Care in Vijayanagar | Dr. Nagaraj M",
     description:
-      "Get advanced Orthopaedic Trauma Care in Vijayanagar at Brunda Specialist Clinic. Expert treatment for fractures, injuries, and accident-related bone trauma.",
+      "Get advanced Orthopaedic Trauma Care in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Expert treatment for fractures, injuries, and accident-related bone trauma.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Orthopaedic Trauma Care in Vijayanagar",
     jsonScript: {
@@ -2044,7 +2044,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -2067,7 +2067,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
           description:
-            "Brunda Specialist Clinic in Vijayanagar offers advanced Orthopaedic Trauma Care for fractures, sports injuries, ligament damage and accident related bone injuries.",
+            "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar offers advanced Orthopaedic Trauma Care for fractures, sports injuries, ligament damage and accident related bone injuries.",
           aggregateRating: {
             "@type": "AggregateRating",
             ratingValue: "4.8",
@@ -2120,7 +2120,7 @@ export const metaData = [
               name: "Where can I get Orthopaedic Trauma Care in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can get expert Orthopaedic Trauma Care in Vijayanagar at Brunda Specialist Clinic which provides treatment for fractures, joint injuries, ligament damage and accident-related bone trauma.",
+                text: "You can get expert Orthopaedic Trauma Care in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre which provides treatment for fractures, joint injuries, ligament damage and accident-related bone trauma.",
               },
             },
             {
@@ -2152,7 +2152,7 @@ export const metaData = [
               name: "How can I book an appointment for Orthopaedic Trauma Care in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for expert orthopaedic trauma treatment.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for expert orthopaedic trauma treatment.",
               },
             },
           ],
@@ -2172,7 +2172,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -2195,7 +2195,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/poly-trauma-management#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/poly-trauma-management",
           description:
-            "Brunda Specialist Clinic offers advanced orthopaedic trauma care and is recognized as the Best Clinic for polytrauma treatment in Vijayanagar with expert diagnosis and injury management.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers advanced orthopaedic trauma care and is recognized as the Best Clinic for polytrauma treatment in Vijayanagar with expert diagnosis and injury management.",
           keywords: [
             "Best Clinic for polytrauma treatment in Vijayanagar",
             "Polytrauma Treatment in Vijayanagar",
@@ -2257,7 +2257,7 @@ export const metaData = [
               name: "Where can I find the Best Clinic for polytrauma treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic is known as the Best Clinic for polytrauma treatment in Vijayanagar providing expert orthopaedic trauma care and advanced injury management.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre is known as the Best Clinic for polytrauma treatment in Vijayanagar providing expert orthopaedic trauma care and advanced injury management.",
               },
             },
             {
@@ -2289,7 +2289,7 @@ export const metaData = [
               name: "How can I book an appointment for polytrauma treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for orthopaedic trauma evaluation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for orthopaedic trauma evaluation.",
               },
             },
           ],
@@ -2301,7 +2301,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
     title: "Advanced Arthroscopic Surgery in Vijayanagar | Brunda Clinic",
     description:
-      "Get expert Arthroscopic Surgery in Vijayanagar at Brunda Specialist Clinic. Advanced minimally invasive treatment for knee, shoulder, and joint injuries.",
+      "Get expert Arthroscopic Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced minimally invasive treatment for knee, shoulder, and joint injuries.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Arthroscopic Surgery in Vijayanagar",
     jsonScript: {
@@ -2309,7 +2309,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -2332,7 +2332,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
           description:
-            "Brunda Specialist Clinic offers advanced Arthroscopic Surgery in Vijayanagar with minimally invasive treatment for knee, shoulder, and joint injuries by experienced orthopaedic specialists.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers advanced Arthroscopic Surgery in Vijayanagar with minimally invasive treatment for knee, shoulder, and joint injuries by experienced orthopaedic specialists.",
           keywords: [
             "Arthroscopic Surgery in Vijayanagar",
             "Knee Arthroscopy Vijayanagar",
@@ -2394,7 +2394,7 @@ export const metaData = [
               name: "Where can I get Arthroscopic Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced Arthroscopic Surgery in Vijayanagar with experienced orthopaedic surgeons and modern minimally invasive techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced Arthroscopic Surgery in Vijayanagar with experienced orthopaedic surgeons and modern minimally invasive techniques.",
               },
             },
             {
@@ -2426,7 +2426,7 @@ export const metaData = [
               name: "How can I book an appointment for arthroscopic surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for orthopaedic consultation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for orthopaedic consultation.",
               },
             },
           ],
@@ -2446,7 +2446,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -2469,7 +2469,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
           description:
-            "Brunda Specialist Clinic provides advanced ACL Reconstruction Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee ligament treatment.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced ACL Reconstruction Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee ligament treatment.",
           keywords: [
             "ACL Reconstruction Surgery in Vijayanagar",
             "ACL Surgery Vijayanagar",
@@ -2531,7 +2531,7 @@ export const metaData = [
               name: "Where can I get ACL Reconstruction Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers advanced ACL Reconstruction Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee treatment.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers advanced ACL Reconstruction Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee treatment.",
               },
             },
             {
@@ -2563,7 +2563,7 @@ export const metaData = [
               name: "How can I book an appointment for ACL surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for orthopaedic consultation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for orthopaedic consultation.",
               },
             },
           ],
@@ -2583,7 +2583,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -2606,7 +2606,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
           description:
-            "Brunda Specialist Clinic provides advanced PCL Repair Surgery in Vijayanagar with expert orthopaedic surgeons and modern arthroscopic techniques for knee ligament injuries.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced PCL Repair Surgery in Vijayanagar with expert orthopaedic surgeons and modern arthroscopic techniques for knee ligament injuries.",
           keywords: [
             "PCL Repair Surgery in Vijayanagar",
             "PCL Reconstruction Surgery Vijayanagar",
@@ -2668,7 +2668,7 @@ export const metaData = [
               name: "Where can I get PCL Repair Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers advanced PCL Repair Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers advanced PCL Repair Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic techniques.",
               },
             },
             {
@@ -2700,7 +2700,7 @@ export const metaData = [
               name: "How can I book an appointment for PCL repair surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for knee ligament evaluation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for knee ligament evaluation.",
               },
             },
           ],
@@ -2712,7 +2712,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
     title: "Advanced Ligament Reconstruction in Vijayanagar|Dr.Nagaraj M",
     description:
-      "Get expert Ligament Reconstruction in Vijayanagar at Brunda Specialist Clinic with advanced arthroscopic surgery, accurate diagnosis, and faster recovery care.",
+      "Get expert Ligament Reconstruction in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with advanced arthroscopic surgery, accurate diagnosis, and faster recovery care.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, ligament reconstruction in Vijayanagar",
     jsonScript: {
@@ -2720,7 +2720,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -2743,7 +2743,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
           description:
-            "Brunda Specialist Clinic provides advanced ligament reconstruction in Vijayanagar using modern arthroscopic surgery techniques to restore knee stability and improve mobility.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced ligament reconstruction in Vijayanagar using modern arthroscopic surgery techniques to restore knee stability and improve mobility.",
           keywords: [
             "Ligament Reconstruction in Vijayanagar",
             "Knee Ligament Surgery Vijayanagar",
@@ -2805,7 +2805,7 @@ export const metaData = [
               name: "Where can I get ligament reconstruction in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced ligament reconstruction in Vijayanagar with experienced orthopaedic specialists and modern arthroscopic techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced ligament reconstruction in Vijayanagar with experienced orthopaedic specialists and modern arthroscopic techniques.",
               },
             },
             {
@@ -2837,7 +2837,7 @@ export const metaData = [
               name: "How can I book an appointment for ligament reconstruction in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for expert orthopaedic consultation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for expert orthopaedic consultation.",
               },
             },
           ],
@@ -2857,7 +2857,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -2880,7 +2880,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
           description:
-            "Brunda Specialist Clinic provides advanced Meniscus Repair Surgery in Vijayanagar with expert orthopaedic specialists and modern arthroscopic treatment for knee injuries.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced Meniscus Repair Surgery in Vijayanagar with expert orthopaedic specialists and modern arthroscopic treatment for knee injuries.",
           keywords: [
             "Meniscus Repair Surgery in Vijayanagar",
             "Knee Meniscus Surgery Vijayanagar",
@@ -2903,7 +2903,7 @@ export const metaData = [
               },
               datePublished: "2025-12-10",
               reviewBody:
-                "I underwent Meniscus Repair Surgery in Vijayanagar at Brunda Specialist Clinic and the results were excellent. The doctors explained the procedure clearly and my knee recovery was smooth.",
+                "I underwent Meniscus Repair Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre and the results were excellent. The doctors explained the procedure clearly and my knee recovery was smooth.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -2942,7 +2942,7 @@ export const metaData = [
               name: "Where can I get Meniscus Repair Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers advanced Meniscus Repair Surgery in Vijayanagar with experienced orthopaedic specialists and modern arthroscopic techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers advanced Meniscus Repair Surgery in Vijayanagar with experienced orthopaedic specialists and modern arthroscopic techniques.",
               },
             },
             {
@@ -2994,7 +2994,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -3017,7 +3017,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
           description:
-            "Brunda Specialist Clinic offers advanced Meniscal Root Repair Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee treatment.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers advanced Meniscal Root Repair Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee treatment.",
           keywords: [
             "Meniscal Root Repair Surgery in Vijayanagar",
             "Knee Meniscus Surgery Vijayanagar",
@@ -3079,7 +3079,7 @@ export const metaData = [
               name: "Where can I get Meniscal Root Repair Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced Meniscal Root Repair Surgery in Vijayanagar using modern arthroscopic techniques for effective knee treatment.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced Meniscal Root Repair Surgery in Vijayanagar using modern arthroscopic techniques for effective knee treatment.",
               },
             },
             {
@@ -3131,7 +3131,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -3154,7 +3154,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
           description:
-            "Brunda Specialist Clinic provides advanced meniscus transplant surgery in Vijayanagar with experienced orthopaedic specialists, modern arthroscopic procedures, and comprehensive knee care.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced meniscus transplant surgery in Vijayanagar with experienced orthopaedic specialists, modern arthroscopic procedures, and comprehensive knee care.",
           keywords: [
             "meniscus transplant surgery in Vijayanagar",
             "Meniscus Transplant Treatment Vijayanagar",
@@ -3192,7 +3192,7 @@ export const metaData = [
               },
               datePublished: "2025-11-20",
               reviewBody:
-                "Highly professional orthopaedic team at Brunda Specialist Clinic. The treatment for my knee meniscus problem was handled very well and the recovery guidance was excellent.",
+                "Highly professional orthopaedic team at Brunda Advanced Orthopaedics & ENT Centre. The treatment for my knee meniscus problem was handled very well and the recovery guidance was excellent.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -3216,7 +3216,7 @@ export const metaData = [
               name: "Where can I get meniscus transplant surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced meniscus transplant surgery in Vijayanagar with expert orthopaedic surgeons and modern arthroscopic techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced meniscus transplant surgery in Vijayanagar with expert orthopaedic surgeons and modern arthroscopic techniques.",
               },
             },
             {
@@ -3260,7 +3260,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
     title: "Rotator Cuff Repair Surgery in Vijayanagar | Shoulder Care",
     description:
-      "Get advanced Rotator Cuff Repair Surgery in Vijayanagar at Brunda Specialist Clinic with expert orthopaedic care,precise diagnosis and faster shoulder recovery.",
+      "Get advanced Rotator Cuff Repair Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with expert orthopaedic care,precise diagnosis and faster shoulder recovery.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Meniscus Repair Surgery in Vijayanagar, Rotator Cuff Repair Surgery in Vijayanagar",
     jsonScript: {
@@ -3268,7 +3268,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -3291,7 +3291,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
           description:
-            "Brunda Specialist Clinic provides advanced Rotator Cuff Repair Surgery in Vijayanagar with expert orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation care for shoulder injuries.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced Rotator Cuff Repair Surgery in Vijayanagar with expert orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation care for shoulder injuries.",
           keywords: [
             "Rotator Cuff Repair Surgery in Vijayanagar",
             "Shoulder Arthroscopy Vijayanagar",
@@ -3353,7 +3353,7 @@ export const metaData = [
               name: "Where can I get Rotator Cuff Repair Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers advanced Rotator Cuff Repair Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic treatment.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers advanced Rotator Cuff Repair Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic treatment.",
               },
             },
             {
@@ -3397,7 +3397,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
     title: "Bankart Repair Surgery in Vijayanagar | Shoulder Care",
     description:
-      "Get expert Bankart Repair Surgery in Vijayanagar at Brunda Specialist Clinic. Advanced arthroscopic treatment for shoulder dislocation with faster recovery.",
+      "Get expert Bankart Repair Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced arthroscopic treatment for shoulder dislocation with faster recovery.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Meniscus Repair Surgery in Vijayanagar, Bankart Repair Surgery in Vijayanagar",
     jsonScript: {
@@ -3405,7 +3405,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -3428,7 +3428,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
           description:
-            "Brunda Specialist Clinic provides advanced Bankart Repair Surgery in Vijayanagar using arthroscopic techniques to treat shoulder instability and recurrent shoulder dislocation.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced Bankart Repair Surgery in Vijayanagar using arthroscopic techniques to treat shoulder instability and recurrent shoulder dislocation.",
           keywords: [
             "Bankart Repair Surgery in Vijayanagar",
             "Shoulder Dislocation Surgery Vijayanagar",
@@ -3451,7 +3451,7 @@ export const metaData = [
               },
               datePublished: "2025-12-08",
               reviewBody:
-                "I underwent Bankart Repair Surgery in Vijayanagar at Brunda Specialist Clinic. The doctors explained everything clearly and my shoulder stability has improved significantly.",
+                "I underwent Bankart Repair Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. The doctors explained everything clearly and my shoulder stability has improved significantly.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -3490,7 +3490,7 @@ export const metaData = [
               name: "Where can I get Bankart Repair Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers advanced Bankart Repair Surgery in Vijayanagar with experienced orthopaedic specialists and arthroscopic treatment methods.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers advanced Bankart Repair Surgery in Vijayanagar with experienced orthopaedic specialists and arthroscopic treatment methods.",
               },
             },
             {
@@ -3542,7 +3542,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -3565,7 +3565,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
           description:
-            "Brunda Specialist Clinic offers advanced Shoulder Instability Surgery in Vijayanagar with expert orthopaedic surgeons, modern arthroscopic techniques, and comprehensive rehabilitation care.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers advanced Shoulder Instability Surgery in Vijayanagar with expert orthopaedic surgeons, modern arthroscopic techniques, and comprehensive rehabilitation care.",
           keywords: [
             "Shoulder Instability Surgery in Vijayanagar",
             "Shoulder Dislocation Treatment Vijayanagar",
@@ -3627,7 +3627,7 @@ export const metaData = [
               name: "Where can I get Shoulder Instability Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced Shoulder Instability Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced Shoulder Instability Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic techniques.",
               },
             },
             {
@@ -3659,7 +3659,7 @@ export const metaData = [
               name: "How can I book an appointment for Shoulder Instability Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for shoulder instability evaluation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for shoulder instability evaluation.",
               },
             },
           ],
@@ -3679,7 +3679,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -3702,7 +3702,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
           description:
-            "Brunda Specialist Clinic provides advanced Hip Arthroscopy Surgery in Vijayanagar with expert orthopedic care for hip pain, labral tears, and femoroacetabular impingement treatment.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced Hip Arthroscopy Surgery in Vijayanagar with expert orthopedic care for hip pain, labral tears, and femoroacetabular impingement treatment.",
           keywords: [
             "Hip Arthroscopy Surgery in Vijayanagar",
             "Hip Arthroscopy Treatment Vijayanagar",
@@ -3725,7 +3725,7 @@ export const metaData = [
               },
               datePublished: "2025-12-05",
               reviewBody:
-                "I underwent Hip Arthroscopy Surgery in Vijayanagar at Brunda Specialist Clinic. The doctors explained the procedure clearly and my recovery was smooth. Highly recommended for hip pain treatment.",
+                "I underwent Hip Arthroscopy Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. The doctors explained the procedure clearly and my recovery was smooth. Highly recommended for hip pain treatment.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -3764,7 +3764,7 @@ export const metaData = [
               name: "Where can I get Hip Arthroscopy Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced Hip Arthroscopy Surgery in Vijayanagar with experienced orthopedic specialists and modern arthroscopic treatment techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced Hip Arthroscopy Surgery in Vijayanagar with experienced orthopedic specialists and modern arthroscopic treatment techniques.",
               },
             },
             {
@@ -3816,7 +3816,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -3839,7 +3839,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty",
           description:
-            "Brunda Specialist Clinic offers advanced arthroplasty surgery in Vijayanagar, including knee, hip, and shoulder replacements with expert diagnosis and personalized care.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers advanced arthroplasty surgery in Vijayanagar, including knee, hip, and shoulder replacements with expert diagnosis and personalized care.",
           keywords: [
             "Arthroplasty surgery in Vijayanagar",
             "Knee Replacement Vijayanagar",
@@ -3934,7 +3934,7 @@ export const metaData = [
               name: "How can I book an appointment for arthroplasty surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Appointments can be booked by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for expert orthopaedic consultation.",
+                text: "Appointments can be booked by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for expert orthopaedic consultation.",
               },
             },
           ],
@@ -3946,7 +3946,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
     title: "Best Knee Replacement Surgery in Vijayanagar | Brunda Clinic",
     description:
-      "Get advanced Knee Replacement Surgery in Vijayanagar at Brunda Specialist Clinic. Expert orthopaedic care for pain relief, mobility, and faster recovery.",
+      "Get advanced Knee Replacement Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Expert orthopaedic care for pain relief, mobility, and faster recovery.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Meniscus Repair Surgery in Vijayanagar, Knee Replacement Surgery in Vijayanagar",
     jsonScript: {
@@ -3954,7 +3954,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -3977,7 +3977,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
           description:
-            "Brunda Specialist Clinic provides advanced Knee Replacement Surgery in Vijayanagar with expert orthopaedic surgeons and comprehensive rehabilitation for better mobility.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced Knee Replacement Surgery in Vijayanagar with expert orthopaedic surgeons and comprehensive rehabilitation for better mobility.",
           keywords: [
             "Knee Replacement Surgery in Vijayanagar",
             "Best Knee Replacement Surgery Vijayanagar",
@@ -4000,7 +4000,7 @@ export const metaData = [
               },
               datePublished: "2026-01-12",
               reviewBody:
-                "Underwent Knee Replacement Surgery at Brunda Specialist Clinic. Excellent care, experienced surgeons, and fast recovery. Highly recommended!",
+                "Underwent Knee Replacement Surgery at Brunda Advanced Orthopaedics & ENT Centre. Excellent care, experienced surgeons, and fast recovery. Highly recommended!",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -4015,7 +4015,7 @@ export const metaData = [
               },
               datePublished: "2026-02-05",
               reviewBody:
-                "Brunda Specialist Clinic provided top-notch Knee Replacement Surgery in Vijayanagar. Very professional staff and complete post-operative care.",
+                "Brunda Advanced Orthopaedics & ENT Centre provided top-notch Knee Replacement Surgery in Vijayanagar. Very professional staff and complete post-operative care.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -4039,7 +4039,7 @@ export const metaData = [
               name: "Where can I get the Best Knee Replacement Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic is renowned for advanced Knee Replacement Surgery in Vijayanagar, offering expert surgeons and complete post-surgery care.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre is renowned for advanced Knee Replacement Surgery in Vijayanagar, offering expert surgeons and complete post-surgery care.",
               },
             },
             {
@@ -4071,7 +4071,7 @@ export const metaData = [
               name: "How can I book an appointment for Knee Replacement Surgery?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for consultation with our orthopaedic experts.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for consultation with our orthopaedic experts.",
               },
             },
           ],
@@ -4083,7 +4083,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
     title: "Robotic Knee Replacement Surgeon in Vijayanagar | Dr.Nagaraj",
     description:
-      "Consult an experienced Robotic Knee Replacement Surgeon in Vijayanagar at Brunda Specialist Clinic for advanced knee replacement surgery with faster recovery.",
+      "Consult an experienced Robotic Knee Replacement Surgeon in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for advanced knee replacement surgery with faster recovery.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Robotic Knee Replacement Surgeon in Vijayanagar, Knee Replacement Surgery in Vijayanagar",
     jsonScript: {
@@ -4091,7 +4091,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -4114,7 +4114,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
           description:
-            "Brunda Specialist Clinic offers advanced robotic knee replacement surgery with an experienced Robotic Knee Replacement Surgeon in Vijayanagar providing precise treatment and faster recovery.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers advanced robotic knee replacement surgery with an experienced Robotic Knee Replacement Surgeon in Vijayanagar providing precise treatment and faster recovery.",
           keywords: [
             "Robotic Knee Replacement Surgeon in Vijayanagar",
             "Robotic Knee Replacement Vijayanagar",
@@ -4137,7 +4137,7 @@ export const metaData = [
               },
               datePublished: "2025-12-18",
               reviewBody:
-                "Excellent robotic knee replacement treatment at Brunda Specialist Clinic. The surgeon explained everything clearly and my recovery has been smooth.",
+                "Excellent robotic knee replacement treatment at Brunda Advanced Orthopaedics & ENT Centre. The surgeon explained everything clearly and my recovery has been smooth.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -4176,7 +4176,7 @@ export const metaData = [
               name: "Who is the best robotic knee replacement surgeon in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced robotic knee replacement surgery in Vijayanagar with experienced orthopaedic surgeons ensuring precise treatment and faster recovery.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced robotic knee replacement surgery in Vijayanagar with experienced orthopaedic surgeons ensuring precise treatment and faster recovery.",
               },
             },
             {
@@ -4208,7 +4208,7 @@ export const metaData = [
               name: "How can I book an appointment for robotic knee replacement in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can schedule an appointment with the robotic knee replacement surgeon at Brunda Specialist Clinic by calling +91 96323 71211 for consultation.",
+                text: "You can schedule an appointment with the robotic knee replacement surgeon at Brunda Advanced Orthopaedics & ENT Centre by calling +91 96323 71211 for consultation.",
               },
             },
           ],
@@ -4228,7 +4228,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -4251,7 +4251,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement",
           description:
-            "Brunda Specialist Clinic provides advanced Hip Replacement Surgery in Vijayanagar with expert orthopaedic surgeons, modern surgical techniques, and comprehensive rehabilitation care.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced Hip Replacement Surgery in Vijayanagar with expert orthopaedic surgeons, modern surgical techniques, and comprehensive rehabilitation care.",
           keywords: [
             "Hip Replacement Surgery in Vijayanagar",
             "Hip Joint Replacement Vijayanagar",
@@ -4274,7 +4274,7 @@ export const metaData = [
               },
               datePublished: "2025-12-18",
               reviewBody:
-                "I underwent Hip Replacement Surgery in Vijayanagar at Brunda Specialist Clinic and received excellent care. The doctors explained everything clearly and my recovery has been smooth.",
+                "I underwent Hip Replacement Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre and received excellent care. The doctors explained everything clearly and my recovery has been smooth.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -4313,7 +4313,7 @@ export const metaData = [
               name: "Where can I get Hip Replacement Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced Hip Replacement Surgery in Vijayanagar with experienced orthopaedic surgeons and modern joint replacement techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced Hip Replacement Surgery in Vijayanagar with experienced orthopaedic surgeons and modern joint replacement techniques.",
               },
             },
             {
@@ -4365,7 +4365,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -4388,7 +4388,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
           description:
-            "Brunda Specialist Clinic offers the Best Shoulder Replacement Surgery in Vijayanagar with expert orthopaedic surgeons, advanced surgical techniques, and comprehensive rehabilitation care.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers the Best Shoulder Replacement Surgery in Vijayanagar with expert orthopaedic surgeons, advanced surgical techniques, and comprehensive rehabilitation care.",
           keywords: [
             "Best Shoulder Replacement Surgery in Vijayanagar",
             "Shoulder Replacement Surgery Vijayanagar",
@@ -4411,7 +4411,7 @@ export const metaData = [
               },
               datePublished: "2025-12-18",
               reviewBody:
-                "I received excellent treatment for shoulder pain at Brunda Specialist Clinic. The doctors explained the procedure clearly and the surgery results were very successful.",
+                "I received excellent treatment for shoulder pain at Brunda Advanced Orthopaedics & ENT Centre. The doctors explained the procedure clearly and the surgery results were very successful.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -4450,7 +4450,7 @@ export const metaData = [
               name: "Where can I get the Best Shoulder Replacement Surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers the Best Shoulder Replacement Surgery in Vijayanagar with experienced orthopaedic surgeons and advanced joint replacement techniques.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers the Best Shoulder Replacement Surgery in Vijayanagar with experienced orthopaedic surgeons and advanced joint replacement techniques.",
               },
             },
             {
@@ -4494,7 +4494,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
     title: "Best Elbow Replacement Surgery in Vijayanagar | Expert Care",
     description:
-      "Get the Best Elbow replacement surgery in Vijayanagar at Brunda Specialist Clinic with advanced orthopaedic care, experienced surgeons, and faster recovery.",
+      "Get the Best Elbow replacement surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with advanced orthopaedic care, experienced surgeons, and faster recovery.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Robotic Knee Replacement Surgeon in Vijayanagar, Best Elbow replacement surgery in Vijayanagar",
     jsonScript: {
@@ -4502,7 +4502,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -4525,7 +4525,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
           description:
-            "Brunda Specialist Clinic provides the Best Elbow replacement surgery in Vijayanagar with experienced orthopaedic surgeons, advanced treatment, and personalized recovery care.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides the Best Elbow replacement surgery in Vijayanagar with experienced orthopaedic surgeons, advanced treatment, and personalized recovery care.",
           keywords: [
             "Best Elbow replacement surgery in Vijayanagar",
             "Elbow Replacement Surgery Vijayanagar",
@@ -4563,7 +4563,7 @@ export const metaData = [
               },
               datePublished: "2025-11-28",
               reviewBody:
-                "Highly recommend Brunda Specialist Clinic for elbow joint treatment. The orthopaedic team explained the procedure clearly and provided great post-surgery support.",
+                "Highly recommend Brunda Advanced Orthopaedics & ENT Centre for elbow joint treatment. The orthopaedic team explained the procedure clearly and provided great post-surgery support.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -4587,7 +4587,7 @@ export const metaData = [
               name: "Where can I get the Best Elbow replacement surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers the Best Elbow replacement surgery in Vijayanagar with experienced orthopaedic surgeons and advanced surgical care.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers the Best Elbow replacement surgery in Vijayanagar with experienced orthopaedic surgeons and advanced surgical care.",
               },
             },
             {
@@ -4619,7 +4619,7 @@ export const metaData = [
               name: "How can I book an appointment for elbow replacement surgery in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for orthopaedic consultation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for orthopaedic consultation.",
               },
             },
           ],
@@ -4631,7 +4631,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
     title: "Pediatric Deformity Treatment in Vijayanagar | Expert Care",
     description:
-      "Get expert Pediatric deformity treatment in Vijayanagar at Brunda Specialist Clinic.Advanced care for congenital and developmental bone deformities in children.",
+      "Get expert Pediatric deformity treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre.Advanced care for congenital and developmental bone deformities in children.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Robotic Knee Replacement Surgeon in Vijayanagar, Pediatric deformity treatment in Vijayanagarr",
     jsonScript: {
@@ -4639,7 +4639,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -4662,7 +4662,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
           description:
-            "Brunda Specialist Clinic provides advanced Pediatric deformity treatment in Vijayanagar with expert orthopedic care for children with bone, joint, and limb deformities.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced Pediatric deformity treatment in Vijayanagar with expert orthopedic care for children with bone, joint, and limb deformities.",
           keywords: [
             "Pediatric deformity treatment in Vijayanagar",
             "Child bone deformity treatment Vijayanagar",
@@ -4724,7 +4724,7 @@ export const metaData = [
               name: "Where can I get Pediatric deformity treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides expert Pediatric deformity treatment in Vijayanagar with advanced orthopedic care for children with bone and limb deformities.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides expert Pediatric deformity treatment in Vijayanagar with advanced orthopedic care for children with bone and limb deformities.",
               },
             },
             {
@@ -4768,7 +4768,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries",
     title: "Best Spine Surgery Doctor in Vijayanagar | Expert Spine Care",
     description:
-      "Consult an experienced Spine Surgery Doctor in Vijayanagar at Brunda Specialist Clinic for advanced treatment of back pain, disc problems, and spine disorders.",
+      "Consult an experienced Spine Surgery Doctor in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for advanced treatment of back pain, disc problems, and spine disorders.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Robotic Knee Replacement Surgeon in Vijayanagar, Spine Surgery Doctor in Vijayanagar",
     jsonScript: {
@@ -4776,7 +4776,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -4799,7 +4799,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries",
           description:
-            "Brunda Specialist Clinic offers advanced spine treatment with an experienced Spine Surgery Doctor in Vijayanagar for back pain, disc problems, and spinal disorders.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers advanced spine treatment with an experienced Spine Surgery Doctor in Vijayanagar for back pain, disc problems, and spinal disorders.",
           keywords: [
             "Spine Surgery Doctor in Vijayanagar",
             "Spine Specialist in Vijayanagar",
@@ -4822,7 +4822,7 @@ export const metaData = [
               },
               datePublished: "2025-12-18",
               reviewBody:
-                "I consulted the Spine Surgery Doctor in Vijayanagar at Brunda Specialist Clinic for severe back pain. The diagnosis and treatment were excellent and my recovery was very quick.",
+                "I consulted the Spine Surgery Doctor in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for severe back pain. The diagnosis and treatment were excellent and my recovery was very quick.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -4861,7 +4861,7 @@ export const metaData = [
               name: "Where can I find the best Spine Surgery Doctor in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers consultation with an experienced Spine Surgery Doctor in Vijayanagar providing advanced diagnosis and treatment for spine disorders and back pain.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers consultation with an experienced Spine Surgery Doctor in Vijayanagar providing advanced diagnosis and treatment for spine disorders and back pain.",
               },
             },
             {
@@ -4893,7 +4893,7 @@ export const metaData = [
               name: "How can I book an appointment with a Spine Surgery Doctor in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for spine consultation and treatment.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for spine consultation and treatment.",
               },
             },
           ],
@@ -4913,7 +4913,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -4936,7 +4936,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis",
           description:
-            "Brunda Specialist Clinic offers advanced Rheumatoid Arthritis Treatment in Vijayanagar with expert diagnosis, joint pain management, and personalized arthritis care.",
+            "Brunda Advanced Orthopaedics & ENT Centre offers advanced Rheumatoid Arthritis Treatment in Vijayanagar with expert diagnosis, joint pain management, and personalized arthritis care.",
           keywords: [
             "Rheumatoid Arthritis Treatment in Vijayanagar",
             "Best Rheumatoid Arthritis Doctor in Vijayanagar",
@@ -4959,7 +4959,7 @@ export const metaData = [
               },
               datePublished: "2025-12-05",
               reviewBody:
-                "I received excellent Rheumatoid Arthritis Treatment in Vijayanagar at Brunda Specialist Clinic. The doctors explained everything clearly and helped reduce my joint pain significantly.",
+                "I received excellent Rheumatoid Arthritis Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. The doctors explained everything clearly and helped reduce my joint pain significantly.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -4998,7 +4998,7 @@ export const metaData = [
               name: "Where can I get Rheumatoid Arthritis Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic provides advanced Rheumatoid Arthritis Treatment in Vijayanagar with expert diagnosis and personalized arthritis care.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre provides advanced Rheumatoid Arthritis Treatment in Vijayanagar with expert diagnosis and personalized arthritis care.",
               },
             },
             {
@@ -5042,7 +5042,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
     title: "Tennis Elbow Treatment in Vijayanagar | Expert Care",
     description:
-      "Get effective Tennis Elbow Treatment in Vijayanagar at Brunda Specialist Clinic with expert diagnosis, pain relief therapies, and advanced orthopaedic care.",
+      "Get effective Tennis Elbow Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with expert diagnosis, pain relief therapies, and advanced orthopaedic care.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Robotic Knee Replacement Surgeon in Vijayanagar, Tennis Elbow Treatment in Vijayanagar",
     jsonScript: {
@@ -5050,7 +5050,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -5073,7 +5073,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
           description:
-            "Brunda Specialist Clinic provides advanced Tennis Elbow Treatment in Vijayanagar with expert orthopaedic diagnosis, pain management therapies, and personalized treatment plans.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced Tennis Elbow Treatment in Vijayanagar with expert orthopaedic diagnosis, pain management therapies, and personalized treatment plans.",
           keywords: [
             "Tennis Elbow Treatment in Vijayanagar",
             "Best Tennis Elbow Treatment in Vijayanagar",
@@ -5096,7 +5096,7 @@ export const metaData = [
               },
               datePublished: "2025-12-18",
               reviewBody:
-                "I received excellent Tennis Elbow Treatment in Vijayanagar at Brunda Specialist Clinic. The doctor explained the condition clearly and the pain reduced significantly after treatment.",
+                "I received excellent Tennis Elbow Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. The doctor explained the condition clearly and the pain reduced significantly after treatment.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -5135,7 +5135,7 @@ export const metaData = [
               name: "Where can I get the best Tennis Elbow Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers expert Tennis Elbow Treatment in Vijayanagar with advanced diagnosis and personalized orthopaedic care.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers expert Tennis Elbow Treatment in Vijayanagar with advanced diagnosis and personalized orthopaedic care.",
               },
             },
             {
@@ -5167,7 +5167,7 @@ export const metaData = [
               name: "How can I book an appointment for Tennis Elbow Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for elbow pain evaluation and treatment.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for elbow pain evaluation and treatment.",
               },
             },
           ],
@@ -5179,7 +5179,7 @@ export const metaData = [
     url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
     title: "Plantar Fasciitis Treatment in Vijayanagar | Foot Pain Care",
     description:
-      "Get expert Plantar Fasciitis Treatment in Vijayanagar at Brunda Specialist Clinic. Advanced diagnosis and effective care for heel pain and foot inflammation.",
+      "Get expert Plantar Fasciitis Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced diagnosis and effective care for heel pain and foot inflammation.",
     keywords:
       "Best Orthopaedic Clinic in Govindaraj Nagar, Orthopaedic Doctor in Govindaraj Nagar, ENT Specialist in Govindaraj Nagar, Best Orthopaedic Clinic in Nagarabhavi, Orthopaedic Doctor in Nagarabhavi, ENT Doctor in Nagarabhavi, Best Orthopaedic Clinic in Maruthi Mandir, Joint Pain Treatment in Maruthi Mandir, Robotic Knee Replacement Surgeon in Vijayanagar, Plantar Fasciitis Treatment in Vijayanagar",
     jsonScript: {
@@ -5187,7 +5187,7 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          name: "BRUNDA SPECIALIST CLINIC",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -5210,7 +5210,7 @@ export const metaData = [
             "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment#clinic",
           url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
           description:
-            "Brunda Specialist Clinic provides advanced Plantar Fasciitis Treatment in Vijayanagar with expert orthopaedic care, accurate diagnosis, and effective heel pain management.",
+            "Brunda Advanced Orthopaedics & ENT Centre provides advanced Plantar Fasciitis Treatment in Vijayanagar with expert orthopaedic care, accurate diagnosis, and effective heel pain management.",
           keywords: [
             "Plantar Fasciitis Treatment in Vijayanagar",
             "Heel Pain Treatment Vijayanagar",
@@ -5233,7 +5233,7 @@ export const metaData = [
               },
               datePublished: "2025-12-20",
               reviewBody:
-                "I had severe heel pain for months and received excellent Plantar Fasciitis Treatment in Vijayanagar at Brunda Specialist Clinic. The doctors were very professional and helpful.",
+                "I had severe heel pain for months and received excellent Plantar Fasciitis Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. The doctors were very professional and helpful.",
               reviewRating: {
                 "@type": "Rating",
                 ratingValue: "5",
@@ -5272,7 +5272,7 @@ export const metaData = [
               name: "Where can I get the best Plantar Fasciitis Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "Brunda Specialist Clinic offers advanced Plantar Fasciitis Treatment in Vijayanagar with expert orthopaedic care, proper diagnosis, and personalized treatment plans for heel pain.",
+                text: "Brunda Advanced Orthopaedics & ENT Centre offers advanced Plantar Fasciitis Treatment in Vijayanagar with expert orthopaedic care, proper diagnosis, and personalized treatment plans for heel pain.",
               },
             },
             {
@@ -5304,7 +5304,7 @@ export const metaData = [
               name: "How can I book an appointment for Plantar Fasciitis Treatment in Vijayanagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Specialist Clinic in Vijayanagar for expert orthopaedic consultation.",
+                text: "You can book an appointment by calling +91 96323 71211 or visiting Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar for expert orthopaedic consultation.",
               },
             },
           ],
@@ -5323,7 +5323,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       image: "https://www.brundaspecialistclinic.com/logo.png",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
       email: "brundaspecialistclinic@gmail.com",
@@ -5408,7 +5408,7 @@ export const metaData = [
         "Advanced and minimally invasive spine surgical procedures based on the patient's condition.",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
         email: "brundaspecialistclinic@gmail.com",
@@ -5475,7 +5475,7 @@ export const metaData = [
       bodyLocation: "Spine",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
       },
       description:
@@ -5539,7 +5539,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
       },
       description:
@@ -5603,7 +5603,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Orthopaedic doctor consultation in Govindaraj Nagar for fractures, arthritis, bone pain, and mobility issues.",
@@ -5662,7 +5662,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
       telephone: "+91-9632371211",
       email: "brundaspecialistclinic@gmail.com",
@@ -5728,7 +5728,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Orthopaedic specialist consultation in Govindaraj Nagar for joint disorders, fractures, sports injuries, and arthritis care.",
@@ -5791,7 +5791,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Bone specialist doctor consultation in Govindaraj Nagar for fractures, osteoporosis, bone pain, and skeletal health issues.",
@@ -5850,7 +5850,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -5915,7 +5915,7 @@ export const metaData = [
       bodyLocation: "Knee",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Advanced knee replacement surgery in Govindaraj Nagar for arthritis, severe knee damage, and loss of mobility.",
@@ -5979,7 +5979,7 @@ export const metaData = [
       bodyLocation: "Knee",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Robotic knee replacement in Govindaraj Nagar for precision-guided knee surgery and improved joint alignment.",
@@ -6043,7 +6043,7 @@ export const metaData = [
       bodyLocation: "Hip",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Hip replacement surgery in Govindaraj Nagar for severe hip arthritis, pain, stiffness, and restricted mobility.",
@@ -6107,7 +6107,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Shoulder replacement surgery in Govindaraj Nagar for severe shoulder arthritis, pain, and restricted movement.",
@@ -6170,7 +6170,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Joint replacement surgeon in Govindaraj Nagar for advanced knee, hip, and shoulder replacement procedures.",
@@ -6234,7 +6234,7 @@ export const metaData = [
       bodyLocation: "Joints",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Arthroplasty surgeries in Govindaraj Nagar for damaged joints involving the knee, hip, and shoulder.",
@@ -6298,7 +6298,7 @@ export const metaData = [
       bodyLocation: "Joints",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Arthroscopic surgery in Govindaraj Nagar for ligament tears, meniscus injuries, cartilage damage, and sports injuries.",
@@ -6362,7 +6362,7 @@ export const metaData = [
       bodyLocation: "Knee",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "ACL treatment in Govindaraj Nagar for knee ligament injuries, instability, and sports-related trauma.",
@@ -6426,7 +6426,7 @@ export const metaData = [
       bodyLocation: "Knee",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "ACL repair in Govindaraj Nagar for torn knee ligaments, instability, and return-to-activity treatment planning.",
@@ -6490,7 +6490,7 @@ export const metaData = [
       bodyLocation: "Knee",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "PCL repair in Govindaraj Nagar for posterior cruciate ligament injuries causing instability and knee dysfunction.",
@@ -6554,7 +6554,7 @@ export const metaData = [
       bodyLocation: "Knee",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Meniscus repair surgery in Govindaraj Nagar for knee cartilage tears, locking, swelling, and sports-related injury.",
@@ -6618,7 +6618,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Rotator cuff repair surgery in Govindaraj Nagar for shoulder tendon tears, pain, weakness, and limited motion.",
@@ -6682,7 +6682,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Shoulder instability surgery in Govindaraj Nagar for recurrent dislocations, instability, and shoulder joint weakness.",
@@ -6746,7 +6746,7 @@ export const metaData = [
       bodyLocation: "Hip",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Hip arthroscopy surgery in Govindaraj Nagar for labral tears, impingement, and painful hip joint conditions.",
@@ -6805,7 +6805,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -6870,7 +6870,7 @@ export const metaData = [
       bodyLocation: "Bones and Joints",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Trauma surgery treatment in Govindaraj Nagar for accident injuries, complex fractures, dislocations, and orthopedic emergencies.",
@@ -6933,7 +6933,7 @@ export const metaData = [
       medicalSpecialty: "Otolaryngologic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "ENT specialist consultation in Govindaraj Nagar for ear, nose, throat, sinus, allergy, and voice-related conditions.",
@@ -6996,7 +6996,7 @@ export const metaData = [
       medicalSpecialty: "Otolaryngologic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Best ENT doctor in Govindaraj Nagar for sinusitis, ear infections, throat disorders, vertigo, and allergy treatment.",
@@ -7060,7 +7060,7 @@ export const metaData = [
       bodyLocation: "Ear",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Micro ear surgery in Govindaraj Nagar for chronic ear disease, eardrum issues, hearing loss, and middle ear conditions.",
@@ -7123,7 +7123,7 @@ export const metaData = [
       relevantSpecialty: "Otolaryngologic",
       recognizingAuthority: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Vertigo treatment in Govindaraj Nagar for dizziness, spinning sensation, imbalance, and inner ear-related balance disorders.",
@@ -7182,7 +7182,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
       medicalSpecialty: ["Otolaryngologic", "Pediatric"],
       description:
@@ -7249,7 +7249,7 @@ export const metaData = [
         "Advanced and minimally invasive spine surgical procedures based on the patient's condition.",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
         email: "brundaspecialistclinic@gmail.com",
@@ -7316,7 +7316,7 @@ export const metaData = [
       bodyLocation: "Spine",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
       },
       description:
@@ -7425,7 +7425,7 @@ export const metaData = [
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
           },
           description:
@@ -7536,7 +7536,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Orthopaedic doctor consultation in Govindaraj Nagar for fractures, arthritis, bone pain, and mobility issues.",
@@ -7639,7 +7639,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
           telephone: "+91-9632371211",
           email: "brundaspecialistclinic@gmail.com",
@@ -7752,7 +7752,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Orthopaedic specialist consultation in Govindaraj Nagar for joint disorders, fractures, sports injuries, and arthritis care.",
@@ -7819,7 +7819,7 @@ export const metaData = [
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Bone specialist doctor consultation in Govindaraj Nagar for fractures, osteoporosis, bone pain, joint issues, and skeletal health conditions.",
@@ -7929,7 +7929,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic"],
           description:
@@ -8041,7 +8041,7 @@ export const metaData = [
       bodyLocation: "Knee",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Advanced knee replacement surgery in Govindaraj Nagar for arthritis, severe knee damage, chronic knee pain, and improved mobility.",
@@ -8152,7 +8152,7 @@ export const metaData = [
             "Robotic knee replacement in Govindaraj Nagar for precision-guided knee surgery, better implant positioning, and improved recovery outcomes.",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
             telephone: "+91-9632371211",
             email: "brundaspecialistclinic@gmail.com",
@@ -8272,7 +8272,7 @@ export const metaData = [
       bodyLocation: "Hip",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Hip replacement surgery in Govindaraj Nagar for severe hip arthritis, pain, stiffness, and restricted mobility.",
@@ -8376,7 +8376,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Shoulder replacement surgery in Govindaraj Nagar for severe shoulder arthritis, pain, and restricted movement.",
@@ -8483,7 +8483,7 @@ export const metaData = [
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Joint replacement surgeon in Govindaraj Nagar for advanced knee, hip, and shoulder replacement procedures.",
@@ -8570,7 +8570,7 @@ export const metaData = [
               name: "How can I book an appointment with the best joint replacement surgeon in Govindaraj Nagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment with the best joint replacement surgeon in Govindaraj Nagar by contacting Brunda Specialist Clinic directly for consultation and evaluation.",
+                text: "You can book an appointment with the best joint replacement surgeon in Govindaraj Nagar by contacting Brunda Advanced Orthopaedics & ENT Centre directly for consultation and evaluation.",
               },
             },
           ],
@@ -8602,7 +8602,7 @@ export const metaData = [
             "@type": "MedicalClinic",
             "@id":
               "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#clinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
           },
         },
@@ -8716,7 +8716,7 @@ export const metaData = [
           bodyLocation: "Joints",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Arthroscopic surgery in Govindaraj Nagar for ligament tears, meniscus injuries, cartilage damage, and sports injuries.",
@@ -8834,7 +8834,7 @@ export const metaData = [
             "ACL treatment in Govindaraj Nagar for knee ligament injuries, instability, sports-related trauma, and recovery-focused care.",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
             telephone: "+91-9632371211",
             email: "brundaspecialistclinic@gmail.com",
@@ -8960,7 +8960,7 @@ export const metaData = [
             "Advanced ACL repair in Govindaraj Nagar for knee ligament tears, instability, sports injuries, and faster recovery using modern techniques.",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
         },
         {
@@ -9073,7 +9073,7 @@ export const metaData = [
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
           },
           description:
@@ -9189,7 +9189,7 @@ export const metaData = [
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
           },
           description:
@@ -9301,7 +9301,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Rotator cuff repair surgery in Govindaraj Nagar for shoulder tendon tears, pain, weakness, and limited motion.",
@@ -9383,7 +9383,7 @@ export const metaData = [
           name: "How can I book a consultation for rotator cuff repair surgery in Govindaraj Nagar?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "You can book a consultation by contacting Brunda Specialist Clinic directly for evaluation, diagnosis, and personalized treatment planning.",
+            text: "You can book a consultation by contacting Brunda Advanced Orthopaedics & ENT Centre directly for evaluation, diagnosis, and personalized treatment planning.",
           },
         },
       ],
@@ -9405,7 +9405,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Shoulder instability surgery in Govindaraj Nagar for recurrent dislocations, instability, and shoulder joint weakness.",
@@ -9513,7 +9513,7 @@ export const metaData = [
           bodyLocation: "Hip",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Hip arthroscopy surgery in Govindaraj Nagar for labral tears, hip impingement, cartilage damage, and minimally invasive joint treatment.",
@@ -9623,7 +9623,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic", "Spine Care"],
           description:
@@ -9739,7 +9739,7 @@ export const metaData = [
           bodyLocation: "Bones and Joints",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Trauma surgery treatment in Govindaraj Nagar for accident injuries, fractures, dislocations, and orthopedic emergency care.",
@@ -9849,7 +9849,7 @@ export const metaData = [
       medicalSpecialty: "Otolaryngologic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "ENT specialist consultation in Govindaraj Nagar for ear, nose, throat, sinus, allergy, and voice-related conditions.",
@@ -9956,7 +9956,7 @@ export const metaData = [
           medicalSpecialty: "Otolaryngologic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Best ENT doctor in Govindaraj Nagar for sinusitis, ear infections, throat disorders, vertigo, and allergy treatment.",
@@ -10071,7 +10071,7 @@ export const metaData = [
           bodyLocation: "Ear",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
           },
           description:
@@ -10187,7 +10187,7 @@ export const metaData = [
           relevantSpecialty: "Otolaryngologic",
           recognizingAuthority: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Vertigo treatment in Govindaraj Nagar for dizziness, spinning sensation, imbalance, and inner ear-related balance disorders.",
@@ -10293,7 +10293,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
       medicalSpecialty: ["Otolaryngologic", "Pediatric"],
       description:
@@ -10393,7 +10393,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -10493,7 +10493,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -10593,7 +10593,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -10694,7 +10694,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -10786,7 +10786,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -10887,7 +10887,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -10987,7 +10987,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -11088,7 +11088,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -11189,7 +11189,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -11290,7 +11290,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -11391,7 +11391,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -11492,7 +11492,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -11593,7 +11593,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -11694,7 +11694,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -11794,7 +11794,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Arthroscopy"],
       description:
@@ -11894,7 +11894,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Injury"],
       description:
@@ -11994,7 +11994,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Medicine"],
       description:
@@ -12095,7 +12095,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Ligament Surgery"],
       description:
@@ -12196,7 +12196,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Care"],
       description:
@@ -12297,7 +12297,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
@@ -12398,7 +12398,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
@@ -12498,7 +12498,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Hip Care"],
       description:
@@ -12598,7 +12598,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -12699,7 +12699,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
@@ -12800,7 +12800,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-nagarabhavi",
       medicalSpecialty: ["Otolaryngology", "ENT Care"],
       description:
@@ -12900,7 +12900,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
@@ -13000,7 +13000,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
@@ -13101,7 +13101,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Neurology"],
       description:
@@ -13202,7 +13202,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
       medicalSpecialty: ["Pediatric ENT", "Otolaryngology"],
       description:
@@ -13302,7 +13302,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -13402,7 +13402,7 @@ export const metaData = [
         "Advanced and minimally invasive spine surgical procedures based on the patient's condition.",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
         email: "brundaspecialistclinic@gmail.com",
@@ -13469,7 +13469,7 @@ export const metaData = [
       bodyLocation: "Spine",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
       },
       description:
@@ -13578,7 +13578,7 @@ export const metaData = [
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
           },
           description:
@@ -13689,7 +13689,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Orthopaedic doctor consultation in Govindaraj Nagar for fractures, arthritis, bone pain, and mobility issues.",
@@ -13792,7 +13792,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
           telephone: "+91-9632371211",
           email: "brundaspecialistclinic@gmail.com",
@@ -13905,7 +13905,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Orthopaedic specialist consultation in Govindaraj Nagar for joint disorders, fractures, sports injuries, and arthritis care.",
@@ -13972,7 +13972,7 @@ export const metaData = [
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Bone specialist doctor consultation in Govindaraj Nagar for fractures, osteoporosis, bone pain, joint issues, and skeletal health conditions.",
@@ -14082,7 +14082,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic"],
           description:
@@ -14194,7 +14194,7 @@ export const metaData = [
       bodyLocation: "Knee",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Advanced knee replacement surgery in Govindaraj Nagar for arthritis, severe knee damage, chronic knee pain, and improved mobility.",
@@ -14305,7 +14305,7 @@ export const metaData = [
             "Robotic knee replacement in Govindaraj Nagar for precision-guided knee surgery, better implant positioning, and improved recovery outcomes.",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
             telephone: "+91-9632371211",
             email: "brundaspecialistclinic@gmail.com",
@@ -14425,7 +14425,7 @@ export const metaData = [
       bodyLocation: "Hip",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Hip replacement surgery in Govindaraj Nagar for severe hip arthritis, pain, stiffness, and restricted mobility.",
@@ -14529,7 +14529,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Shoulder replacement surgery in Govindaraj Nagar for severe shoulder arthritis, pain, and restricted movement.",
@@ -14636,7 +14636,7 @@ export const metaData = [
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Joint replacement surgeon in Govindaraj Nagar for advanced knee, hip, and shoulder replacement procedures.",
@@ -14723,7 +14723,7 @@ export const metaData = [
               name: "How can I book an appointment with the best joint replacement surgeon in Govindaraj Nagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment with the best joint replacement surgeon in Govindaraj Nagar by contacting Brunda Specialist Clinic directly for consultation and evaluation.",
+                text: "You can book an appointment with the best joint replacement surgeon in Govindaraj Nagar by contacting Brunda Advanced Orthopaedics & ENT Centre directly for consultation and evaluation.",
               },
             },
           ],
@@ -14755,7 +14755,7 @@ export const metaData = [
             "@type": "MedicalClinic",
             "@id":
               "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#clinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
           },
         },
@@ -14869,7 +14869,7 @@ export const metaData = [
           bodyLocation: "Joints",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Arthroscopic surgery in Govindaraj Nagar for ligament tears, meniscus injuries, cartilage damage, and sports injuries.",
@@ -14987,7 +14987,7 @@ export const metaData = [
             "ACL treatment in Govindaraj Nagar for knee ligament injuries, instability, sports-related trauma, and recovery-focused care.",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
             telephone: "+91-9632371211",
             email: "brundaspecialistclinic@gmail.com",
@@ -15113,7 +15113,7 @@ export const metaData = [
             "Advanced ACL repair in Govindaraj Nagar for knee ligament tears, instability, sports injuries, and faster recovery using modern techniques.",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
         },
         {
@@ -15226,7 +15226,7 @@ export const metaData = [
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
           },
           description:
@@ -15342,7 +15342,7 @@ export const metaData = [
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
           },
           description:
@@ -15454,7 +15454,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Rotator cuff repair surgery in Govindaraj Nagar for shoulder tendon tears, pain, weakness, and limited motion.",
@@ -15536,7 +15536,7 @@ export const metaData = [
           name: "How can I book a consultation for rotator cuff repair surgery in Govindaraj Nagar?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "You can book a consultation by contacting Brunda Specialist Clinic directly for evaluation, diagnosis, and personalized treatment planning.",
+            text: "You can book a consultation by contacting Brunda Advanced Orthopaedics & ENT Centre directly for evaluation, diagnosis, and personalized treatment planning.",
           },
         },
       ],
@@ -15558,7 +15558,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Shoulder instability surgery in Govindaraj Nagar for recurrent dislocations, instability, and shoulder joint weakness.",
@@ -15666,7 +15666,7 @@ export const metaData = [
           bodyLocation: "Hip",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Hip arthroscopy surgery in Govindaraj Nagar for labral tears, hip impingement, cartilage damage, and minimally invasive joint treatment.",
@@ -15776,7 +15776,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic", "Spine Care"],
           description:
@@ -15892,7 +15892,7 @@ export const metaData = [
           bodyLocation: "Bones and Joints",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Trauma surgery treatment in Govindaraj Nagar for accident injuries, fractures, dislocations, and orthopedic emergency care.",
@@ -16002,7 +16002,7 @@ export const metaData = [
       medicalSpecialty: "Otolaryngologic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "ENT specialist consultation in Govindaraj Nagar for ear, nose, throat, sinus, allergy, and voice-related conditions.",
@@ -16109,7 +16109,7 @@ export const metaData = [
           medicalSpecialty: "Otolaryngologic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Best ENT doctor in Govindaraj Nagar for sinusitis, ear infections, throat disorders, vertigo, and allergy treatment.",
@@ -16224,7 +16224,7 @@ export const metaData = [
           bodyLocation: "Ear",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
           },
           description:
@@ -16340,7 +16340,7 @@ export const metaData = [
           relevantSpecialty: "Otolaryngologic",
           recognizingAuthority: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Vertigo treatment in Govindaraj Nagar for dizziness, spinning sensation, imbalance, and inner ear-related balance disorders.",
@@ -16446,7 +16446,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
       medicalSpecialty: ["Otolaryngologic", "Pediatric"],
       description:
@@ -16546,7 +16546,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -16646,7 +16646,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -16746,7 +16746,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -16847,7 +16847,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -16939,7 +16939,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -17040,7 +17040,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -17140,7 +17140,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -17241,7 +17241,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -17342,7 +17342,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -17443,7 +17443,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -17544,7 +17544,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -17645,7 +17645,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -17746,7 +17746,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -17847,7 +17847,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -17947,7 +17947,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Arthroscopy"],
       description:
@@ -18047,7 +18047,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Injury"],
       description:
@@ -18147,7 +18147,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Medicine"],
       description:
@@ -18248,7 +18248,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Ligament Surgery"],
       description:
@@ -18349,7 +18349,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Care"],
       description:
@@ -18450,7 +18450,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
@@ -18551,7 +18551,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
@@ -18651,7 +18651,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Hip Care"],
       description:
@@ -18751,7 +18751,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -18852,7 +18852,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
@@ -18953,7 +18953,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-nagarabhavi",
       medicalSpecialty: ["Otolaryngology", "ENT Care"],
       description:
@@ -19053,7 +19053,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
@@ -19153,7 +19153,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
@@ -19254,7 +19254,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Neurology"],
       description:
@@ -19355,7 +19355,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
       medicalSpecialty: ["Pediatric ENT", "Otolaryngology"],
       description:
@@ -19455,7 +19455,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -19555,7 +19555,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Surgery"],
       description:
@@ -19655,7 +19655,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Surgery"],
       description:
@@ -19756,7 +19756,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -19856,7 +19856,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -19957,7 +19957,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -20058,7 +20058,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -20159,7 +20159,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
@@ -20259,7 +20259,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Bone & Joint Care"],
       description:
@@ -20359,7 +20359,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -20459,7 +20459,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
@@ -20560,7 +20560,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -20661,7 +20661,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -20762,7 +20762,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -20863,7 +20863,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -20964,7 +20964,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -21064,7 +21064,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -21172,7 +21172,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -21280,7 +21280,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "ACL Treatment"],
       description:
@@ -21388,7 +21388,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "ACL Treatment"],
       description:
@@ -21496,7 +21496,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "PCL Repair"],
       description:
@@ -21605,7 +21605,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Meniscus Repair"],
       description:
@@ -21706,7 +21706,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Rotator Cuff Repair"],
       description:
@@ -21807,7 +21807,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-maruthi-mandir",
       medicalSpecialty: [
         "Orthopedic",
@@ -21912,7 +21912,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Hip Surgery", "Hip Arthroscopy"],
       description:
@@ -22013,7 +22013,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
       medicalSpecialty: [
         "Orthopedics",
@@ -22102,7 +22102,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-maruthi-mandir",
       medicalSpecialty: [
         "ENT",
@@ -22207,7 +22207,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-maruthi-mandir",
       medicalSpecialty: ["ENT", "Ear Care", "Micro Ear Surgery"],
       description:
@@ -22380,7 +22380,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-maruthi-mandir",
       medicalSpecialty: [
         "ENT",
@@ -22493,7 +22493,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -22593,7 +22593,7 @@ export const metaData = [
         "Advanced and minimally invasive spine surgical procedures based on the patient's condition.",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
         email: "brundaspecialistclinic@gmail.com",
@@ -22660,7 +22660,7 @@ export const metaData = [
       bodyLocation: "Spine",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
       },
       description:
@@ -22769,7 +22769,7 @@ export const metaData = [
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
           },
           description:
@@ -22880,7 +22880,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Orthopaedic doctor consultation in Govindaraj Nagar for fractures, arthritis, bone pain, and mobility issues.",
@@ -22983,7 +22983,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
           telephone: "+91-9632371211",
           email: "brundaspecialistclinic@gmail.com",
@@ -23096,7 +23096,7 @@ export const metaData = [
       medicalSpecialty: "Orthopedic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Orthopaedic specialist consultation in Govindaraj Nagar for joint disorders, fractures, sports injuries, and arthritis care.",
@@ -23163,7 +23163,7 @@ export const metaData = [
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Bone specialist doctor consultation in Govindaraj Nagar for fractures, osteoporosis, bone pain, joint issues, and skeletal health conditions.",
@@ -23273,7 +23273,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic"],
           description:
@@ -23385,7 +23385,7 @@ export const metaData = [
       bodyLocation: "Knee",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Advanced knee replacement surgery in Govindaraj Nagar for arthritis, severe knee damage, chronic knee pain, and improved mobility.",
@@ -23496,7 +23496,7 @@ export const metaData = [
             "Robotic knee replacement in Govindaraj Nagar for precision-guided knee surgery, better implant positioning, and improved recovery outcomes.",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
             telephone: "+91-9632371211",
             email: "brundaspecialistclinic@gmail.com",
@@ -23616,7 +23616,7 @@ export const metaData = [
       bodyLocation: "Hip",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Hip replacement surgery in Govindaraj Nagar for severe hip arthritis, pain, stiffness, and restricted mobility.",
@@ -23720,7 +23720,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Shoulder replacement surgery in Govindaraj Nagar for severe shoulder arthritis, pain, and restricted movement.",
@@ -23827,7 +23827,7 @@ export const metaData = [
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Joint replacement surgeon in Govindaraj Nagar for advanced knee, hip, and shoulder replacement procedures.",
@@ -23914,7 +23914,7 @@ export const metaData = [
               name: "How can I book an appointment with the best joint replacement surgeon in Govindaraj Nagar?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can book an appointment with the best joint replacement surgeon in Govindaraj Nagar by contacting Brunda Specialist Clinic directly for consultation and evaluation.",
+                text: "You can book an appointment with the best joint replacement surgeon in Govindaraj Nagar by contacting Brunda Advanced Orthopaedics & ENT Centre directly for consultation and evaluation.",
               },
             },
           ],
@@ -23946,7 +23946,7 @@ export const metaData = [
             "@type": "MedicalClinic",
             "@id":
               "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#clinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
           },
         },
@@ -24060,7 +24060,7 @@ export const metaData = [
           bodyLocation: "Joints",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Arthroscopic surgery in Govindaraj Nagar for ligament tears, meniscus injuries, cartilage damage, and sports injuries.",
@@ -24178,7 +24178,7 @@ export const metaData = [
             "ACL treatment in Govindaraj Nagar for knee ligament injuries, instability, sports-related trauma, and recovery-focused care.",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
             telephone: "+91-9632371211",
             email: "brundaspecialistclinic@gmail.com",
@@ -24304,7 +24304,7 @@ export const metaData = [
             "Advanced ACL repair in Govindaraj Nagar for knee ligament tears, instability, sports injuries, and faster recovery using modern techniques.",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
         },
         {
@@ -24417,7 +24417,7 @@ export const metaData = [
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
           },
           description:
@@ -24533,7 +24533,7 @@ export const metaData = [
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
           },
           description:
@@ -24645,7 +24645,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Rotator cuff repair surgery in Govindaraj Nagar for shoulder tendon tears, pain, weakness, and limited motion.",
@@ -24727,7 +24727,7 @@ export const metaData = [
           name: "How can I book a consultation for rotator cuff repair surgery in Govindaraj Nagar?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "You can book a consultation by contacting Brunda Specialist Clinic directly for evaluation, diagnosis, and personalized treatment planning.",
+            text: "You can book a consultation by contacting Brunda Advanced Orthopaedics & ENT Centre directly for evaluation, diagnosis, and personalized treatment planning.",
           },
         },
       ],
@@ -24749,7 +24749,7 @@ export const metaData = [
       bodyLocation: "Shoulder",
       provider: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "Shoulder instability surgery in Govindaraj Nagar for recurrent dislocations, instability, and shoulder joint weakness.",
@@ -24857,7 +24857,7 @@ export const metaData = [
           bodyLocation: "Hip",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Hip arthroscopy surgery in Govindaraj Nagar for labral tears, hip impingement, cartilage damage, and minimally invasive joint treatment.",
@@ -24967,7 +24967,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic", "Spine Care"],
           description:
@@ -25083,7 +25083,7 @@ export const metaData = [
           bodyLocation: "Bones and Joints",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Trauma surgery treatment in Govindaraj Nagar for accident injuries, fractures, dislocations, and orthopedic emergency care.",
@@ -25193,7 +25193,7 @@ export const metaData = [
       medicalSpecialty: "Otolaryngologic",
       worksFor: {
         "@type": "MedicalClinic",
-        name: "Brunda Specialist Clinic",
+        name: "Brunda Advanced Orthopaedics & ENT Centre",
       },
       description:
         "ENT specialist consultation in Govindaraj Nagar for ear, nose, throat, sinus, allergy, and voice-related conditions.",
@@ -25300,7 +25300,7 @@ export const metaData = [
           medicalSpecialty: "Otolaryngologic",
           worksFor: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Best ENT doctor in Govindaraj Nagar for sinusitis, ear infections, throat disorders, vertigo, and allergy treatment.",
@@ -25415,7 +25415,7 @@ export const metaData = [
           bodyLocation: "Ear",
           provider: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundaspecialistclinic.com/",
           },
           description:
@@ -25531,7 +25531,7 @@ export const metaData = [
           relevantSpecialty: "Otolaryngologic",
           recognizingAuthority: {
             "@type": "MedicalClinic",
-            name: "Brunda Specialist Clinic",
+            name: "Brunda Advanced Orthopaedics & ENT Centre",
           },
           description:
             "Vertigo treatment in Govindaraj Nagar for dizziness, spinning sensation, imbalance, and inner ear-related balance disorders.",
@@ -25637,7 +25637,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
       medicalSpecialty: ["Otolaryngologic", "Pediatric"],
       description:
@@ -25737,7 +25737,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -25837,7 +25837,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -25937,7 +25937,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -26038,7 +26038,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -26130,7 +26130,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -26231,7 +26231,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -26331,7 +26331,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
@@ -26432,7 +26432,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -26533,7 +26533,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -26634,7 +26634,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -26735,7 +26735,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -26836,7 +26836,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -26937,7 +26937,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -27038,7 +27038,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
@@ -27138,7 +27138,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Arthroscopy"],
       description:
@@ -27238,7 +27238,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Injury"],
       description:
@@ -27338,7 +27338,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Medicine"],
       description:
@@ -27439,7 +27439,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Ligament Surgery"],
       description:
@@ -27540,7 +27540,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Care"],
       description:
@@ -27641,7 +27641,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
@@ -27742,7 +27742,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
@@ -27842,7 +27842,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Hip Care"],
       description:
@@ -27942,7 +27942,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -28043,7 +28043,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
@@ -28144,7 +28144,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-nagarabhavi",
       medicalSpecialty: ["Otolaryngology", "ENT Care"],
       description:
@@ -28244,7 +28244,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
@@ -28344,7 +28344,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
@@ -28445,7 +28445,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Neurology"],
       description:
@@ -28546,7 +28546,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
       medicalSpecialty: ["Pediatric ENT", "Otolaryngology"],
       description:
@@ -28646,7 +28646,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/spine-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -28746,7 +28746,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/spine-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Surgery"],
       description:
@@ -28846,7 +28846,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/spine-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Surgery"],
       description:
@@ -28947,7 +28947,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/orthopaedic-surgeon-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -29047,7 +29047,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/orthopaedic-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -29148,7 +29148,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/orthopaedic-clinic-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -29249,7 +29249,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/orthopaedic-specialist-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
@@ -29350,7 +29350,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/bone-specialist-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
@@ -29450,7 +29450,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/bone-and-joint-clinic-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Bone & Joint Care"],
       description:
@@ -29550,7 +29550,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/spine-care-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
@@ -29650,7 +29650,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/trauma-surgery-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
@@ -29751,7 +29751,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/knee-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -29852,7 +29852,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/robotic-knee-replacement-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -29953,7 +29953,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/hip-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -30054,7 +30054,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -30155,7 +30155,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -30255,7 +30255,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -30363,7 +30363,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
@@ -30471,7 +30471,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/acl-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "ACL Treatment"],
       description:
@@ -30579,7 +30579,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/acl-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "ACL Treatment"],
       description:
@@ -30687,7 +30687,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/pcl-repair-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "PCL Repair"],
       description:
@@ -30796,7 +30796,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/meniscus-repair-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Meniscus Repair"],
       description:
@@ -30897,7 +30897,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/rotator-cuff-repair-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Rotator Cuff Repair"],
       description:
@@ -30998,7 +30998,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/shoulder-instability-surgery-in-maruthi-mandir",
       medicalSpecialty: [
         "Orthopedic",
@@ -31103,7 +31103,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/hip-arthroscopy-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Hip Surgery", "Hip Arthroscopy"],
       description:
@@ -31204,7 +31204,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/orthopaedic-specialist-in-maruthi-mandir",
       medicalSpecialty: [
         "Orthopedics",
@@ -31293,7 +31293,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/best-ent-doctor-in-maruthi-mandir",
       medicalSpecialty: [
         "ENT",
@@ -31398,7 +31398,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/micro-ear-surgery-in-maruthi-mandir",
       medicalSpecialty: ["ENT", "Ear Care", "Micro Ear Surgery"],
       description:
@@ -31579,7 +31579,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/pediatric-ent-care-in-maruthi-mandir",
       medicalSpecialty: [
         "ENT",
@@ -31692,7 +31692,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-moodalapalya",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -31785,7 +31785,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-moodalapalya",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -31878,7 +31878,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-moodalapalya",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -31972,7 +31972,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-moodalapalya",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -32065,7 +32065,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-moodalapalya",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -32159,7 +32159,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-moodalapalya",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -32252,7 +32252,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-moodalapalya",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -32385,7 +32385,7 @@ export const metaData = [
     jsonScript: {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
-      name: "Brunda Specialist Clinic",
+      name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
       image:
         "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
@@ -32523,7 +32523,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
@@ -32689,7 +32689,7 @@ export const metaData = [
               name: "How can I book a consultation with a Bone Specialist Doctor in Moodalapalya?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can contact Brunda Specialist Clinic directly to schedule an appointment for bone and joint evaluation and treatment.",
+                text: "You can contact Brunda Advanced Orthopaedics & ENT Centre directly to schedule an appointment for bone and joint evaluation and treatment.",
               },
             },
           ],
@@ -32713,7 +32713,7 @@ export const metaData = [
           "@type": "MedicalClinic",
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-moodalapalya#clinic",
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-moodalapalya",
           image:
             "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
@@ -32879,7 +32879,7 @@ export const metaData = [
               name: "How can I book a consultation for Spine Care in Moodalapalya?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can contact Brunda Specialist Clinic directly to schedule an appointment for spine evaluation, diagnosis, and treatment.",
+                text: "You can contact Brunda Advanced Orthopaedics & ENT Centre directly to schedule an appointment for spine evaluation, diagnosis, and treatment.",
               },
             },
           ],
@@ -32908,7 +32908,7 @@ export const metaData = [
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya#clinic",
 
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
 
           url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya",
 
@@ -33081,7 +33081,7 @@ export const metaData = [
               name: "How can I book trauma surgery consultation in Moodalapalya?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can contact Brunda Specialist Clinic directly to schedule an appointment for trauma evaluation, emergency care, and surgical treatment.",
+                text: "You can contact Brunda Advanced Orthopaedics & ENT Centre directly to schedule an appointment for trauma evaluation, emergency care, and surgical treatment.",
               },
             },
           ],
@@ -33110,7 +33110,7 @@ export const metaData = [
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya#clinic",
 
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
 
           url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya",
 
@@ -33283,7 +33283,7 @@ export const metaData = [
               name: "How can I book knee replacement surgery consultation in Moodalapalya?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can contact Brunda Specialist Clinic directly to schedule an appointment for knee evaluation and treatment.",
+                text: "You can contact Brunda Advanced Orthopaedics & ENT Centre directly to schedule an appointment for knee evaluation and treatment.",
               },
             },
           ],
@@ -33313,7 +33313,7 @@ export const metaData = [
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya#clinic",
 
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
 
           url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya",
 
@@ -33486,7 +33486,7 @@ export const metaData = [
               name: "How can I book robotic knee replacement consultation in Moodalapalya?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can contact Brunda Specialist Clinic directly to schedule an appointment for evaluation and robotic knee replacement treatment.",
+                text: "You can contact Brunda Advanced Orthopaedics & ENT Centre directly to schedule an appointment for evaluation and robotic knee replacement treatment.",
               },
             },
           ],
@@ -33515,7 +33515,7 @@ export const metaData = [
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya#clinic",
 
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
 
           url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya",
 
@@ -33688,7 +33688,7 @@ export const metaData = [
               name: "How can I book hip replacement consultation in Moodalapalya?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can contact Brunda Specialist Clinic directly to schedule an appointment for hip replacement evaluation and treatment.",
+                text: "You can contact Brunda Advanced Orthopaedics & ENT Centre directly to schedule an appointment for hip replacement evaluation and treatment.",
               },
             },
           ],
@@ -33718,7 +33718,7 @@ export const metaData = [
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya#clinic",
 
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
 
           url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya",
 
@@ -33891,7 +33891,7 @@ export const metaData = [
               name: "How can I book shoulder replacement consultation in Moodalapalya?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can contact Brunda Specialist Clinic directly to schedule an appointment for shoulder replacement evaluation and treatment.",
+                text: "You can contact Brunda Advanced Orthopaedics & ENT Centre directly to schedule an appointment for shoulder replacement evaluation and treatment.",
               },
             },
           ],
@@ -33921,7 +33921,7 @@ export const metaData = [
           "@id":
             "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya#clinic",
 
-          name: "Brunda Specialist Clinic",
+          name: "Brunda Advanced Orthopaedics & ENT Centre",
 
           url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya",
 
@@ -34094,7 +34094,7 @@ export const metaData = [
               name: "How can I book joint replacement consultation in Moodalapalya?",
               acceptedAnswer: {
                 "@type": "Answer",
-                text: "You can contact Brunda Specialist Clinic directly to schedule an appointment for joint replacement evaluation and treatment.",
+                text: "You can contact Brunda Advanced Orthopaedics & ENT Centre directly to schedule an appointment for joint replacement evaluation and treatment.",
               },
             },
           ],

@@ -315,7 +315,7 @@ const doctorInfo = {
     qualification: "MS ENT",
     specialization: "ENT Surgeon",
     experience: "Expert in Ear, Nose & Throat Care",
-    image: "/assets/doctors-image/Dr-Meghana-Janardhan.png",
+    image: "/assets/doctors-image/Dr-Meghana-Janardhan1.JPG",
     link: "/our-doctors/dr-meghana-janardhan",
   },
   ortho: {
@@ -323,7 +323,7 @@ const doctorInfo = {
     qualification: "MS Orthopaedics (AIIMS)",
     specialization: "Orthopaedic Surgeon",
     experience: "Expert in Joint Replacement & Trauma Care",
-    image: "/assets/doctors-image/WhatsApp Image 2026-03-28 at 13.13.59.jpeg",
+    image: "/assets/doctors-image/Dr-Nagaraj-M1.JPG",
     link: "/our-doctors/dr-nagaraj-m",
   },
 };
@@ -492,7 +492,7 @@ export default function Specialties({
                 ensure faster recovery and improved mobility.
               </p>
               <p className="text-justify">
-                At <strong>Brunda Specialist Clinic</strong>, provides
+                At <strong>Brunda Advanced Orthopaedics & ENT Centre</strong>, provides
                 comprehensive orthopaedic care using modern techniques{" "}
                 <a href="https://www.brundaspecialistclinic.com/our-doctors/dr-nagaraj-m">
                   Dr. Nagaraj M

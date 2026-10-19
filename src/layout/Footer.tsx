@@ -75,13 +75,13 @@ function Footer() {
                         src="/assets/banners/Brunda Logo.png"
                         height={400}
                         width={400}
-                        alt="Brunda Specialist Clinic"
+                        alt="Brunda Advanced Orthopaedics & ENT Centre"
                       />
                     </Link>
                   </div>
                   <p className="text-justify">
                     <span className="text-primary ">
-                      Brunda Specialist Clinic
+                      Brunda Advanced Orthopaedics & ENT Centre
                     </span>{" "}
                     provides comprehensive ENT and Orthopaedic care through
                     experienced specialists, advanced diagnostics, and modern

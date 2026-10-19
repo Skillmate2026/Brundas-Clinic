@@ -18,7 +18,7 @@ function Connect() {
             data-wow-delay="0.2s"
             data-wow-duration="0.8s"
           >
-            Connect with Brunda Specialist Clinic <br /> for ENT & Orthopaedic
+            Connect with Brunda Advanced Orthopaedics & ENT Centre <br /> for ENT & Orthopaedic
             Care
           </h2>
           <p
