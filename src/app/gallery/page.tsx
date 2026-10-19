@@ -280,6 +280,7 @@ export default function GalleryPage() {
                         fill
                         sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                         className={styles.image}
+                        style={{ objectFit: 'cover' }} // Added to fix alignment and sizing
                       />
                     </div>
                     <div className={styles.meta}>
