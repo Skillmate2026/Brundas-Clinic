@@ -1,8 +1,38 @@
+// src/component/Sidebar.tsx
 import Link from "next/link";
-import { sidebarpostdata, tagdata } from "../constant/alldata";
 import Image from "next/image";
+import { IMAGES } from "@/constant/theme";
+import { client } from "@/sanity/lib/client";
+import { groq } from "next-sanity";
+import { urlForImage } from "@/sanity/lib/image";
 
-function Sidebar() {
+export default async function Sidebar() {
+    // Fetch the 3 latest posts AND all categories used across the blog in one query
+    const sidebarQuery = groq`{
+        "latestPosts": *[_type == "post" && defined(slug.current)] | order(publishedAt desc)[0...3] {
+            _id,
+            title,
+            slug,
+            mainImage,
+            publishedAt
+        },
+        "allCategories": *[_type == "post" && defined(categories)].categories[]
+    }`;
+
+    const data = await client.fetch(sidebarQuery);
+
+    // Calculate how many times each category appears
+    const categoryCounts = (data.allCategories || []).reduce((acc: any, curr: string) => {
+        acc[curr] = (acc[curr] || 0) + 1;
+        return acc;
+    }, {});
+
+    // Convert the counts into an array format matching your original UI design
+    const dynamicTags = Object.keys(categoryCounts).map(key => ({
+        title: key,
+        num: categoryCounts[key]
+    }));
+
     return (
         <>
             <aside className="side-bar sticky-top @@dir m-b30 p-0">
@@ -23,44 +53,76 @@ function Sidebar() {
                         </form>
                     </div>
                 </div>
+
+                {/* DYNAMIC CATEGORIES */}
                 <div className="widget widget_categories style-1 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.5s">
                     <div className="widget-title">
                         <h4 className="title">Category</h4>
                     </div>
                     <ul>
-                        {tagdata.map((data, i) => (
-                            <li className="cat-item" key={i}><Link href={"#"} scroll={false}>{data.title}</Link> {data.num}</li>
-                        ))}
+                        {dynamicTags.length > 0 ? (
+                            dynamicTags.map((data, i) => (
+                                <li className="cat-item" key={i}>
+                                    <Link href={"#"} scroll={false}>{data.title}</Link> ({data.num})
+                                </li>
+                            ))
+                        ) : (
+                            <li>No categories found</li>
+                        )}
                     </ul>
                 </div>
+
+                {/* DYNAMIC LATEST POSTS */}
                 <div className="widget recent-posts-entry wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="0.5s">
                     <div className="widget-title">
                         <h4 className="title">Latest Post</h4>
                     </div>
                     <div className="widget-post-bx">
-                        {sidebarpostdata.map((data, i) => (
-                            <div className="widget-post clearfix" key={i}>
-                                <div className="dz-media">
-                                    <Image src={data.image} alt="/" />
-                                </div>
-                                <div className="dz-info">
-                                    <div className="dz-meta">
-                                        <ul>
-                                            <li className="post-date"><Link href={"#"} scroll={false}>{data.date}</Link></li>
-                                        </ul>
+                        {data.latestPosts && data.latestPosts.length > 0 ? (
+                            data.latestPosts.map((post: any) => (
+                                <div className="widget-post clearfix" key={post._id}>
+                                    <div className="dz-media">
+                                        <Image 
+                                            src={post.mainImage ? urlForImage(post.mainImage).url() : IMAGES.blog1} 
+                                            alt={post.title} 
+                                            width={150} 
+                                            height={150} 
+                                            style={{ objectFit: 'cover' }}
+                                        />
                                     </div>
-                                    <h6 className="title"><Link href="/blog-details">{data.title}</Link></h6>
+                                    <div className="dz-info">
+                                        <div className="dz-meta">
+                                            <ul>
+                                                <li className="post-date">
+                                                    <Link href={`/blog-details/${post.slug.current}`} scroll={false}>
+                                                        {new Date(post.publishedAt).toLocaleDateString('en-US', {
+                                                            day: 'numeric',
+                                                            month: 'long',
+                                                            year: 'numeric'
+                                                        }).toUpperCase()}
+                                                    </Link>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <h6 className="title">
+                                            <Link href={`/blog-details/${post.slug.current}`}>{post.title}</Link>
+                                        </h6>
+                                    </div>
                                 </div>
-                            </div>
-                        ))}
+                            ))
+                        ) : (
+                            <p>No recent posts</p>
+                        )}
                     </div>
                 </div>
+
+                {/* DYNAMIC TAGS */}
                 <div className="widget widget_tag_cloud wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.5s">
                     <div className="widget-title">
                         <h4 className="title">Tags</h4>
                     </div>
                     <div className="tagcloud">
-                        {tagdata.map((data, i) => (
+                        {dynamicTags.map((data, i) => (
                             <Link href={"#"} scroll={false} key={i}>{data.title}</Link>
                         ))}
                     </div>
@@ -69,4 +131,3 @@ function Sidebar() {
         </>
     )
 }
-export default Sidebar;
