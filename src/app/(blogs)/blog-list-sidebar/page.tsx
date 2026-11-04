@@ -1,4 +1,3 @@
-// src/app/(blogs)/blog-list-sidebar/page.tsx
 import Link from "next/link";
 import PageBanner from "@/component/PageBanner";
 import { IMAGES } from "@/constant/theme";
@@ -7,22 +6,30 @@ import Header from "@/layout/Header";
 import Sidebar from "@/component/Sidebar";
 import Image from "next/image";
 import { client } from "@/sanity/lib/client";
-import { postsQuery } from "@/sanity/queries/postQueries";
+import { postsQuery, postsByCategoryQuery } from "@/sanity/queries/postQueries";
 import { urlForImage } from "@/sanity/lib/image";
 
-// Make this a Server Component by removing "use client"
+// 1. Fixes the Vercel caching issue: checks for new Sanity data every 60 seconds
+export const revalidate = 60; 
 
-export default async function BlogListSidebar() {
-  // Fetch live posts from Sanity on the server
-  const posts = await client.fetch(postsQuery);
+// 2. Accept searchParams to read the category from the URL
+export default async function BlogListSidebar({ searchParams }: { searchParams: Promise<{ category?: string }> }) {
+  
+  const resolvedParams = await searchParams;
+  const currentCategory = resolvedParams.category;
+
+  // 3. Fetch filtered posts if a category is clicked, otherwise fetch all
+  const posts = currentCategory 
+    ? await client.fetch(postsByCategoryQuery, { category: currentCategory })
+    : await client.fetch(postsQuery);
 
   return (
     <>
       <Header />
       <main className="page-content">
         <PageBanner
-          filteredData={{ title: "Blog   " }}
-          title="Blog List Sidebar"
+          filteredData={{ title: currentCategory ? `Category: ${currentCategory}` : "Blog" }}
+          title={currentCategory ? `Category: ${currentCategory}` : "Blog List Sidebar"}
           bnrimage={IMAGES.bnr2.src}
         />
         <section className="content-inner">
@@ -34,12 +41,11 @@ export default async function BlogListSidebar() {
                     posts.map((item: any, i: number) => (
                       <div
                         className="dz-card style-2 blog-half m-b35 wow fadeInUp"
-                        data-wow-delay={`${0.2 + i * 0.2}s`}
+                        data-wow-delay={`${0.2 + (i % 3) * 0.2}s`}
                         data-wow-duration="0.5s"
                         key={item._id}
                       >
                         <div className="dz-media">
-                          {/* Use Sanity Image Builder if an image exists, otherwise fallback */}
                           <Image 
                             src={item.mainImage ? urlForImage(item.mainImage).url() : IMAGES.blog1} 
                             alt={item.title} 
@@ -67,7 +73,6 @@ export default async function BlogListSidebar() {
                             </ul>
                           </div>
                           <h3 className="dz-title">
-                            {/* Link dynamically to the individual post using its slug */}
                             <Link href={`/blog-details/${item.slug.current}`}>
                               {item.title}
                             </Link>
@@ -86,7 +91,8 @@ export default async function BlogListSidebar() {
                     ))
                   ) : (
                     <div className="col-12">
-                      <p>No blogs published yet.</p>
+                      <p>No blogs found for this category.</p>
+                      <Link href="/blog-list-sidebar" className="btn btn-primary mt-3">View All Blogs</Link>
                     </div>
                   )}
                 </div>

@@ -34,3 +34,17 @@ export const postBySlugQuery = groq`*[_type == "post" && slug.current == $slug][
     bio
   }
 }`
+// Query to get posts filtered by a specific category
+export const postsByCategoryQuery = groq`*[_type == "post" && defined(slug.current) && $category in categories] | order(publishedAt desc) {
+  _id,
+  title,
+  slug,
+  mainImage,
+  publishedAt,
+  excerpt,
+  categories,
+  author->{
+    name,
+    image
+  }
+}`

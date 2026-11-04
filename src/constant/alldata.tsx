@@ -290,13 +290,13 @@ export const headerdata: HeaderItem[] = [
       },
     ],
   },
-  // {
-  //   title: "Blogs",
-  //   to: "#",
-  // },
-  { title: "Gallery", to: "/gallery" },
-  { title: "Contact Us", to: "/contact-us" },
-];
+  {
+      title: "Blog",
+      to: "/blog-list-sidebar",
+    },
+    { title: "Gallery", to: "/gallery" },
+    { title: "Contact Us", to: "/contact-us" },
+  ];
 // footer
 export const footerdata1 = [
   {
@@ -403,7 +403,7 @@ export const footerdata2 = [
     link3: "/our-doctors",
     link4: "/our-services/ent-services",
     link5: "/our-services/orthopaedic-services",
-    link6: "#",
+    link6: "/blog-list-sidebar",
     link7: "/gallery",
     link8: "/contact-us",
     link9: "/sitemap",

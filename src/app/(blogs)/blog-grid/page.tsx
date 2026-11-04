@@ -8,7 +8,7 @@ import Sidebar from "@/component/Sidebar";
 import { client } from "@/sanity/lib/client";
 import { postsQuery } from "@/sanity/queries/postQueries";
 import { urlForImage } from "@/sanity/lib/image";
-
+export const revalidate = 60; // Revalidates the page every 60 seconds if there are changes
 // Converted to an async Server Component
 export default async function BlogGrid() {
   // Fetch live posts from Sanity
