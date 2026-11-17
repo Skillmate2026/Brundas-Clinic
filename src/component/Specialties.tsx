@@ -320,8 +320,8 @@ const doctorInfo = {
   },
   ortho: {
     name: "Dr. Nagaraj M",
-    qualification: "MS Orthopaedics (AIIMS)",
-    specialization: "Orthopaedic Surgeon",
+    qualification: "MBBS, MS (ORTHOPAEDICS) AIIMS | FIKS (UK) FIJR (Australia)",
+    specialization: "Joint replacement & Sports injury Specialist",
     experience: "Expert in Joint Replacement & Trauma Care",
     image: "/assets/doctors-image/Dr-Nagaraj-M1.jpg",
     link: "/our-doctors/dr-nagaraj-m",
@@ -497,7 +497,7 @@ export default function Specialties({
                 <a href="https://www.brundasclinic.com/our-doctors/dr-nagaraj-m">
                   Dr. Nagaraj M
                 </a>
-                and patient-focused treatment plans. His expertise in{" "}
+                {" "}and patient-focused treatment plans. His expertise in{" "}
                 <strong>
                   knee replacement, hip replacement, and trauma management
                 </strong>{" "}

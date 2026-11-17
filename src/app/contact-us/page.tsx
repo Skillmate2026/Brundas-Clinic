@@ -1,3 +1,4 @@
+// src/app/contact-us/page.tsx
 "use client";
 
 import Link from "next/link";
@@ -6,39 +7,32 @@ import { IMAGES } from "@/constant/theme";
 import Footer from "@/layout/Footer";
 import Header from "@/layout/Header";
 import Connect from "@/component/Connect";
-import Getintouch from "@/component/Getintouch";
-import Alllocation from "@/component/Alllocation";
-import Image from "next/image";
 import MapWraper from "@/component/MapWraper";
+import { useRef, useState } from "react";
+import { useEmailService } from "@/constant/useEmailService";
 
 function Contactus() {
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+  const formRef = useRef<HTMLFormElement | null>(null);
+  const { sendEmail } = useEmailService();
+  const [isSending, setIsSending] = useState(false);
+
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    if (!formRef.current) return;
 
-    const form = e.currentTarget;
-    const formData = new FormData(form);
-
-    const name = formData.get("dzName") as string;
-    const email = formData.get("dzEmail") as string;
-    const phone = formData.get("dzPhoneNumber") as string;
-    const message = formData.get("dzMessage") as string;
-
-    const whatsappNumber = "919632371211"; // Replace with your WhatsApp number
-
-    const whatsappMessage = `
-    Hello, I would like to book an appointment.
-
-    Name: ${name}
-    Email: ${email}
-    Phone: ${phone}
-    Message: ${message}
-   `.trim();
-
-    const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
-      whatsappMessage,
-    )}`;
-
-    window.open(whatsappURL, "_blank");
+    setIsSending(true);
+    
+    // Redirects form submissions directly to your email service
+    const result = await sendEmail(formRef.current);
+    
+    if (result.success) {
+      alert("Success! Your appointment request has been sent to our team.");
+      formRef.current.reset();
+    } else {
+      alert("Failed to send message. Please try again or contact us directly.");
+    }
+    
+    setIsSending(false);
   };
 
   return (
@@ -59,97 +53,62 @@ function Contactus() {
                 className="col-xl-5 m-b30"
                 data-bottom-top="transform: translateY(50px)"
                 data-top-bottom="transform: translateY(-50px)"
-                style={{ background: "#3365a7" }}
+                /* REMOVED: The hardcoded background that caused sharp borders */
               >
-                <div className="form-wrapper style-1">
-                  <div className="form-body bg-primary background-blend-burn">
-                    {/* ✅ Manipal Symbol + Location Address */}
-
-                    <div className="title-head">
-                      <h2 className="form-title m-b0">
-                        Make An <span>Appointment</span> <br /> Apply For
-                        Treatments
+                {/* ADDED: Smooth rounded corners and shadow for premium look */}
+                <div 
+                  className="form-wrapper style-1" 
+                  style={{ borderRadius: "20px", overflow: "hidden", boxShadow: "0 15px 35px rgba(0,0,0,0.1)" }}
+                >
+                  <div className="form-body bg-primary background-blend-burn" style={{ padding: "40px" }}>
+                    
+                    <div className="title-head m-b30">
+                      <h2 className="form-title m-b0 text-white" style={{ lineHeight: "1.3" }}>
+                        Make An <span style={{ color: "#EA8D21" }}>Appointment</span> <br /> 
+                        Apply For Treatments
                       </h2>
                     </div>
 
-                    <form onSubmit={handleSubmit} className="dzForm">
-                      <input
-                        type="hidden"
-                        className="form-control"
-                        name="dzToDo"
-                        value="Appointment"
-                      />
-                      <input
-                        type="hidden"
-                        className="form-control"
-                        name="reCaptchaEnable"
-                        value="0"
-                      />
-                      <div className="dzFormMsg"></div>
-
+                    <form ref={formRef} onSubmit={handleSubmit} className="dzForm">
+                      <input type="hidden" name="dzToDo" value="Appointment" />
+                      <input type="hidden" name="reCaptchaEnable" value="0" />
+                      
                       <div className="row">
                         <div className="col-sm-6 m-b30">
                           <div className="form-floating floating-underline input-light">
-                            <input
-                              name="dzName"
-                              type="text"
-                              className="form-control"
-                              id="inputYourName"
-                              placeholder="Your Name"
-                            />
+                            <input name="dzName" type="text" className="form-control" id="inputYourName" placeholder="Your Name" required />
                             <label htmlFor="inputYourName">Your Name</label>
                           </div>
                         </div>
 
                         <div className="col-sm-6 m-b30">
                           <div className="form-floating floating-underline input-light">
-                            <input
-                              name="dzEmail"
-                              type="email"
-                              className="form-control"
-                              id="inputYourEmail"
-                              placeholder="Your Email"
-                            />
+                            <input name="dzEmail" type="email" className="form-control" id="inputYourEmail" placeholder="Your Email" required />
                             <label htmlFor="inputYourEmail">Your Email</label>
                           </div>
                         </div>
 
                         <div className="col-sm-12 m-b30">
                           <div className="form-floating floating-underline input-light">
-                            <input
-                              name="dzPhoneNumber"
-                              type="number"
-                              className="form-control dz-number"
-                              id="inputPhoneNumber"
-                              placeholder="Phone Number"
-                            />
-                            <label htmlFor="inputPhoneNumber">
-                              Phone Number
-                            </label>
+                            <input name="dzPhoneNumber" type="number" className="form-control dz-number" id="inputPhoneNumber" placeholder="Phone Number" required />
+                            <label htmlFor="inputPhoneNumber">Phone Number</label>
                           </div>
                         </div>
 
                         <div className="col-sm-12 m-b30">
                           <div className="form-floating floating-underline input-light">
-                            <textarea
-                              name="dzMessage"
-                              className="form-control"
-                              id="inputMessage"
-                              rows={3}
-                              placeholder="Select Service"
-                            ></textarea>
+                            <textarea name="dzMessage" className="form-control" id="inputMessage" rows={3} placeholder="Message" required></textarea>
                             <label htmlFor="inputMessage">Message</label>
                           </div>
                         </div>
 
                         <div className="col-sm-12">
-                          <button
-                            type="submit"
-                            name="submit"
-                            value="submit"
+                          <button 
+                            type="submit" 
                             className="btn btn-lg btn-icon btn-white hover-secondary btn-shadow"
+                            disabled={isSending}
                           >
-                            Appointment{" "}
+                            {isSending ? "Sending..." : "Appointment"}{" "}
                             <span className="right-icon">
                               <i className="feather icon-arrow-right" />
                             </span>
@@ -157,6 +116,7 @@ function Contactus() {
                         </div>
                       </div>
                     </form>
+
                   </div>
                 </div>
               </div>

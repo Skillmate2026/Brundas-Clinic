@@ -658,7 +658,7 @@ function Header() {
       <div
         className={`offcanvas dz-offcanvas offcanvas offcanvas-end ${
           show === 1 ? "show" : ""
-        } mobile-view`}
+        }`}
         tabIndex={-1}
         id="headerSidebar"
         aria-hidden={show === 1 ? "false" : "true"}
@@ -674,7 +674,12 @@ function Header() {
           <div className="widget">
             <div className="sidebar-header m-b20">
               <Link href="/">
-                <Image src={IMAGES.logo} alt="Brunda Advanced Orthopaedics & ENT Centre" />
+                <Image 
+                  src="/assets/banners/Brunda Logo.png" 
+                  alt="Brunda Advanced Orthopaedics & ENT Centre" 
+                  width={250} 
+                  height={70} 
+                />
               </Link>
             </div>
             <p>
@@ -689,13 +694,13 @@ function Header() {
               <h4 className="title">Contact Us</h4>
             </div>
             <ul className="list-check">
-              <li>Shivananda Nagar Main Road, Bangalore</li>
+              <li>4, 17th Cross Rd, Govindaraja Nagar Ward, MC Layout, Vijayanagar, Bengaluru, Karnataka 560040</li>
               <li>
                 <Link
-                  href="mailto:info@brundaspecialistclinic.com"
+                  href="mailto:brundaadvance@gmail.com"
                   className="text-body"
                 >
-                  info@brundaspecialistclinic.com
+                  brundaadvance@gmail.com
                 </Link>
               </li>
               <li>
@@ -748,30 +753,35 @@ function Header() {
             </div>
             <div className="dz-social-icon style-1">
               <ul>
+                {/* WhatsApp */}
                 <li>
-                  <Link href="#" onClick={(e) => e.preventDefault()}>
+                  <a href="https://wa.me/919632371211" target="_blank" rel="noopener noreferrer">
+                    <i className="fa-brands fa-whatsapp" />
+                  </a>
+                </li>
+                {/* LinkedIn */}
+                <li>
+                  <a href="https://www.linkedin.com/company/brunda-advanced-orthopaedics-ent-centre/home/" target="_blank" rel="noopener noreferrer">
                     <i className="fa-brands fa-linkedin" />
-                  </Link>
+                  </a>
                 </li>
+                {/* Instagram */}
                 <li>
-                  <Link href="#" onClick={(e) => e.preventDefault()}>
+                  <a href="https://www.instagram.com/brundas_clinic/" target="_blank" rel="noopener noreferrer">
                     <i className="fa-brands fa-instagram" />
-                  </Link>
+                  </a>
                 </li>
+                {/* Facebook */}
                 <li>
-                  <Link href="#" onClick={(e) => e.preventDefault()}>
+                  <a href="https://www.facebook.com/people/Brundas-Clinic/61593364482305/" target="_blank" rel="noopener noreferrer">
                     <i className="fa-brands fa-facebook-f" />
-                  </Link>
+                  </a>
                 </li>
+                {/* YouTube */}
                 <li>
-                  <Link href="#" onClick={(e) => e.preventDefault()}>
-                    <i className="fa-brands fa-x-twitter" />
-                  </Link>
-                </li>
-                <li>
-                  <Link href="#" onClick={(e) => e.preventDefault()}>
+                  <a href="https://www.youtube.com/channel/UCDq6PD0fRUgP1s-YyEVwqPw" target="_blank" rel="noopener noreferrer">
                     <i className="fa-brands fa-youtube" />
-                  </Link>
+                  </a>
                 </li>
               </ul>
             </div>

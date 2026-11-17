@@ -102,6 +102,36 @@ function Footer() {
                       <i className="feather icon-phone" />
                     </span>
                   </Link>
+                  {/* SOCIAL MEDIA LINKS */}
+                  <div className="dz-social-icon style-1 m-t30">
+                    <ul>
+                      <li>
+                        <a href="https://wa.me/919632371211" target="_blank" rel="noopener noreferrer">
+                          <i className="fa-brands fa-whatsapp" />
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://www.linkedin.com/company/brunda-advanced-orthopaedics-ent-centre/home/" target="_blank" rel="noopener noreferrer">
+                          <i className="fa-brands fa-linkedin" />
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://www.instagram.com/brundas_clinic/" target="_blank" rel="noopener noreferrer">
+                          <i className="fa-brands fa-instagram" />
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://www.facebook.com/people/Brundas-Clinic/61593364482305/" target="_blank" rel="noopener noreferrer">
+                          <i className="fa-brands fa-facebook-f" />
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://www.youtube.com/channel/UCDq6PD0fRUgP1s-YyEVwqPw" target="_blank" rel="noopener noreferrer">
+                          <i className="fa-brands fa-youtube" />
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
                 </div>
               </div>
               {footerdata2.map((data, i) => (
@@ -226,8 +256,8 @@ function Footer() {
                 <div className="col-lg-6 col-md-12 text-start">
                   <p className="copyright-text">
                     © <span className="current-year">{year} Designed By </span>
-                    <Link href="https://www.appaddindia.net/" target="_blank">
-                      AppAdd India Pvt Ltd...
+                    <Link href="https://www.linkedin.com/company/skillmate-in/home/" target="_blank">
+                      Skillmate 
                     </Link>{" "}
                     All Rights Reserved.
                   </p>

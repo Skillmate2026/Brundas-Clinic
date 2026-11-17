@@ -71,7 +71,7 @@ function Team() {
                       </li>
                       <li>
                         <Link
-                          href="https://www.instagram.com/dexignzone"
+                          href="https://www.instagram.com/brundas_clinic/"
                           target="_blank"
                         >
                           <i className="fa-brands fa-instagram" />
@@ -79,20 +79,20 @@ function Team() {
                       </li>
                       <li>
                         <Link
-                          href="https://www.facebook.com/dexignzone"
+                          href="https://www.facebook.com/people/Brundas-Clinic/61593364482305/"
                           target="_blank"
                         >
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
                       </li>
                       <li>
-                        <Link href="https://x.com/dexignzone" target="_blank">
-                          <i className="fa-brands fa-x-twitter" />
+                        <Link href="https://wa.me/919632371211" target="_blank">
+                        <i className="fa-brands fa-whatsapp" />
                         </Link>
                       </li>
                       <li>
                         <Link
-                          href="https://www.youtube.com/@dexignzone"
+                          href="https://www.youtube.com/channel/UCDq6PD0fRUgP1s-YyEVwqPw"
                           target="_blank"
                         >
                           <i className="fa-brands fa-youtube" />

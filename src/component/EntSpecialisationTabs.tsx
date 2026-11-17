@@ -98,7 +98,7 @@ const entTabsData: EntTab[] = [
       {
         title: "Nasal blockage and polyps",
         desc: "Care for chronic nasal obstruction and polyps.",
-        icon: "/assets/service-images/ringing-in-the-ears.avif",
+        icon: "/assets/service-images/Nasal_blockage_and_polyps.jpeg",
       },
       {
         title: "Nose bleeding (epistaxis)",
