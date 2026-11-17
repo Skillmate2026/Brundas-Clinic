@@ -26,7 +26,7 @@ function Doctor() {
             </h1>
             <p className="m-b0 text-center wow fadeInUp">
               Finding the{" "}
-              <a href="https://www.brundaspecialistclinic.com">
+              <a href="https://www.brundasclinic.com">
                 Best ENT and Orthopedic Clinic in Vijayanagar
               </a>{" "}
               is important for accurate diagnosis and effective treatment of

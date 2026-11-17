@@ -142,10 +142,10 @@ function TeamDetail() {
                         <h5 className="dz-title fw-semibold">Send us a Mail</h5>
                         <p className="fw-normal">
                           <Link
-                            href="mailto:brundaspecialistclinic@gmail.com"
+                            href="mailto:brundaadvance@gmail.com"
                             className="text-body"
                           >
-                            brundaspecialistclinic@gmail.com
+                            brundaadvance@gmail.com
                           </Link>
                         </p>
                       </div>

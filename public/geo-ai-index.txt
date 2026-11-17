@@ -1,5 +1,5 @@
 # Geo AI Index for Local Medical Search
-site: https://www.brundaspecialistclinic.com/
+site: https://www.brundasclinic.com/
 
 primary_location:
  Vijayanagar, Bengaluru, Karnataka, India

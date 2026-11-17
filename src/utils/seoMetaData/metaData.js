@@ -1,6 +1,6 @@
 export const metaData = [
   {
-    url: "https://www.brundaspecialistclinic.com/",
+    url: "https://www.brundasclinic.com/",
     title: "Best ENT Specialist in Vijayanagar | Dr. Meghana Janardhan",
     description:
       "Consult the Best ENT Specialist in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for expert treatment of sinusitis, ear infections, throat problems, and allergies.",
@@ -11,12 +11,12 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          "@id": "https://www.brundaspecialistclinic.com/#clinic",
+          "@id": "https://www.brundasclinic.com/#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          url: "https://www.brundasclinic.com/",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert ENT and orthopaedic care including sinus treatment, ear infection care, ACL treatment, and shoulder replacement surgery.",
           keywords: [
@@ -26,7 +26,7 @@ export const metaData = [
             "ACL Treatment in Govindaraj Nagar",
             "Shoulder Replacement Surgery in Maruthi Mandir",
           ],
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -101,7 +101,7 @@ export const metaData = [
         },
         {
           "@type": "FAQPage",
-          "@id": "https://www.brundaspecialistclinic.com/#faq",
+          "@id": "https://www.brundasclinic.com/#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -149,7 +149,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/about-us",
+    url: "https://www.brundasclinic.com/about-us",
     title: "Best Orthopaedic Clinic in Vijayanagar | Dr. Nagaraj M",
     description:
       "Visit the Best Orthopaedic Clinic in Vijayanagar at Brunda Clinic for expert treatment of joint pain, ACL injuries, sports injuries, and shoulder problems.",
@@ -160,12 +160,12 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          "@id": "https://www.brundaspecialistclinic.com/about-us#clinic",
+          "@id": "https://www.brundasclinic.com/about-us#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/about-us",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          url: "https://www.brundasclinic.com/about-us",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre is known as the Best Orthopaedic Clinic in Vijayanagar providing expert care for joint pain, ACL injuries, sports injuries, and shoulder conditions.",
           keywords: [
@@ -175,7 +175,7 @@ export const metaData = [
             "ACL Treatment in Govindaraj Nagar",
             "Shoulder Replacement Surgery in Maruthi Mandir",
           ],
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -218,7 +218,7 @@ export const metaData = [
         },
         {
           "@type": "FAQPage",
-          "@id": "https://www.brundaspecialistclinic.com/about-us#faq",
+          "@id": "https://www.brundasclinic.com/about-us#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -266,7 +266,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-doctors",
+    url: "https://www.brundasclinic.com/our-doctors",
     title: "Best ENT and Orthopedic Clinic in Vijayanagar| Brunda Clinic",
     description:
       "Visit Brunda Advanced Orthopaedics & ENT Centre, the best ENT and Orthopedic Clinic in Vijayanagar offering expert care for ear, throat, joint pain and shoulder treatments.",
@@ -277,12 +277,12 @@ export const metaData = [
       "@graph": [
         {
           "@type": "MedicalClinic",
-          "@id": "https://www.brundaspecialistclinic.com/our-doctors/#clinic",
+          "@id": "https://www.brundasclinic.com/our-doctors/#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/our-doctors",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          url: "https://www.brundasclinic.com/our-doctors",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre is the Best ENT and Orthopedic Clinic in Vijayanagar offering expert treatment for ENT disorders, joint pain, ACL injuries, sports injuries and shoulder conditions.",
           keywords: [
@@ -293,7 +293,7 @@ export const metaData = [
             "ACL Treatment in Govindaraj Nagar",
             "Shoulder Replacement Surgery in Maruthi Mandir",
           ],
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -383,7 +383,7 @@ export const metaData = [
         },
         {
           "@type": "FAQPage",
-          "@id": "https://www.brundaspecialistclinic.com/our-doctors#faq",
+          "@id": "https://www.brundasclinic.com/our-doctors#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -431,7 +431,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan",
+    url: "https://www.brundasclinic.com/our-doctors/dr-meghana-janardhan",
     title: "Best ENT and Orthopedic Clinic in Vijayanagar| Brunda Clinic",
     description:
       "Consult the ENT Specialist Doctor in Vijayanagar, Dr Meghana Janardhan at Brunda Advanced Orthopaedics & ENT Centre for sinus, ear infection, throat, and allergy treatments.",
@@ -443,12 +443,12 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan/#clinic",
+            "https://www.brundasclinic.com/our-doctors/dr-meghana-janardhan/#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan/",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          url: "https://www.brundasclinic.com/our-doctors/dr-meghana-janardhan/",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert orthopaedic and ENT care including ACL treatment, shoulder replacement surgery, and advanced ENT treatments.",
           keywords: [
@@ -458,7 +458,7 @@ export const metaData = [
             "ACL Treatment in Govindaraj Nagar",
             "Shoulder Replacement Surgery in Maruthi Mandir",
           ],
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -495,10 +495,10 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan",
+            "https://www.brundasclinic.com/our-doctors/dr-meghana-janardhan",
           name: "Dr Meghana Janardhan",
 
-          url: "https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan",
+          url: "https://www.brundasclinic.com/our-doctors/dr-meghana-janardhan",
 
           aggregateRating: {
             "@type": "AggregateRating",
@@ -543,7 +543,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan#faq",
+            "https://www.brundasclinic.com/our-doctors/dr-meghana-janardhan#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -591,7 +591,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/sinus-allergy-treatment",
+    url: "https://www.brundasclinic.com/our-services/ent-services/sinus-allergy-treatment",
     title: "Best Sinus Specialist in Vijayanagar | Sinus Treatment",
     description:
       "Consult the best sinus specialist in Vijayanagar for advanced sinus and allergy treatment. Get expert ENT care and effective relief from sinus problems.",
@@ -603,10 +603,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -622,8 +622,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/sinus-allergy-treatment#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/ent-services/sinus-allergy-treatment",
+            "https://www.brundasclinic.com/our-services/ent-services/sinus-allergy-treatment#clinic",
+          url: "https://www.brundasclinic.com/our-services/ent-services/sinus-allergy-treatment",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar offers expert ENT care including advanced sinus and allergy treatment by the best sinus specialist in Vijayanagar.",
           keywords: [
@@ -694,7 +694,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/sinus-allergy-treatment#faq",
+            "https://www.brundasclinic.com/our-services/ent-services/sinus-allergy-treatment#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -742,7 +742,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery",
+    url: "https://www.brundasclinic.com/our-services/ent-services/micro-ear-surgery",
     title: "Expert Micro Ear Surgery in Vijaynagar | Advanced ENT Care",
     description:
       "Get advanced Micro Ear Surgery in Vijaynagar at Brunda Advanced Orthopaedics & ENT Centre.Expert ENT care for ear infections, hearing issues and precise microsurgical treatment.",
@@ -754,10 +754,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -773,8 +773,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery",
+            "https://www.brundasclinic.com/our-services/ent-services/micro-ear-surgery#clinic",
+          url: "https://www.brundasclinic.com/our-services/ent-services/micro-ear-surgery",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar offers advanced Micro Ear Surgery in Vijaynagar for treating ear infections, hearing problems, and eardrum damage with precision ENT care.",
           keywords: [
@@ -845,7 +845,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery#faq",
+            "https://www.brundasclinic.com/our-services/ent-services/micro-ear-surgery#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -893,7 +893,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment",
+    url: "https://www.brundasclinic.com/our-services/ent-services/vertigo-treatment",
     title: "Best Vertigo Treatment in Vijayanagar | Expert ENT Care",
     description:
       "Get expert Vertigo Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Accurate diagnosis and effective care for dizziness and inner ear problems.",
@@ -905,10 +905,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -924,8 +924,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment",
+            "https://www.brundasclinic.com/our-services/ent-services/vertigo-treatment#clinic",
+          url: "https://www.brundasclinic.com/our-services/ent-services/vertigo-treatment",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert ENT care including vertigo diagnosis, dizziness treatment, balance disorder management, and advanced ENT treatments.",
           keywords: [
@@ -996,7 +996,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment#faq",
+            "https://www.brundasclinic.com/our-services/ent-services/vertigo-treatment#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -1068,7 +1068,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent",
+    url: "https://www.brundasclinic.com/our-services/ent-services/foreign-body-removal-ent",
     title: "Foreign Body Removal from Ear in Vijayanagar | ENT Care",
     description:
       "Safe and quick Foreign Body Removal from Ear in Vijayanagar by experienced ENT specialists at Brunda Advanced Orthopaedics & ENT Centre with advanced tools and gentle care.",
@@ -1080,10 +1080,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1099,8 +1099,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent",
+            "https://www.brundasclinic.com/our-services/ent-services/foreign-body-removal-ent#clinic",
+          url: "https://www.brundasclinic.com/our-services/ent-services/foreign-body-removal-ent",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides expert ENT treatment including Foreign Body Removal from Ear in Vijayanagar with safe and advanced medical techniques.",
           openingHoursSpecification: {
@@ -1164,7 +1164,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent#faq",
+            "https://www.brundasclinic.com/our-services/ent-services/foreign-body-removal-ent#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -1212,7 +1212,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/head-neck-disorders",
+    url: "https://www.brundasclinic.com/our-services/ent-services/head-neck-disorders",
     title: "Head & Neck Disorders Treatment in Vijayanagar | ENT Care",
     description:
       "Get expert Head & Neck Disorders Treatment in Vijayanagar at Brunda Clinic with advanced ENT diagnosis and personalized care for throat and neck conditions.",
@@ -1224,10 +1224,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1243,8 +1243,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/head-neck-disorders#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/ent-services/head-neck-disorders",
+            "https://www.brundasclinic.com/our-services/ent-services/head-neck-disorders#clinic",
+          url: "https://www.brundasclinic.com/our-services/ent-services/head-neck-disorders",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers advanced Head & Neck Disorders Treatment in Vijayanagar with expert ENT diagnosis and personalized care for throat, glands, and neck conditions.",
           keywords: [
@@ -1299,7 +1299,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/head-neck-disorders#faq",
+            "https://www.brundasclinic.com/our-services/ent-services/head-neck-disorders#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -1347,7 +1347,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/ent-endoscopy",
+    url: "https://www.brundasclinic.com/our-services/ent-services/ent-endoscopy",
     title: "ENT Endoscopy Specialist in Vijayanagar | Expert ENT Care",
     description:
       "Consult an experienced ENT endoscopy Specialist in Vijayanagar for accurate diagnosis of sinus, nasal, and throat problems using advanced endoscopic technology.",
@@ -1359,10 +1359,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1378,8 +1378,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/ent-endoscopy#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/ent-services/ent-endoscopy",
+            "https://www.brundasclinic.com/our-services/ent-services/ent-endoscopy#clinic",
+          url: "https://www.brundasclinic.com/our-services/ent-services/ent-endoscopy",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers consultation with an ENT endoscopy Specialist in Vijayanagar for advanced diagnosis and treatment of sinus, nasal, and throat disorders using modern endoscopic technology.",
           keywords: [
@@ -1432,7 +1432,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/ent-endoscopy#faq",
+            "https://www.brundasclinic.com/our-services/ent-services/ent-endoscopy#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -1480,7 +1480,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/adenotonsillectomy",
+    url: "https://www.brundasclinic.com/our-services/ent-services/adenotonsillectomy",
     title: "Adenotonsillectomy Treatment in Vijayanagar | ENT Care",
     description:
       "Expert Adenotonsillectomy Treatment in Vijayanagar at Brunda Clinic.Safe tonsil and adenoid removal surgery for children and adults by ENT specialists.",
@@ -1492,10 +1492,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1511,8 +1511,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/adenotonsillectomy#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/ent-services/adenotonsillectomy",
+            "https://www.brundasclinic.com/our-services/ent-services/adenotonsillectomy#clinic",
+          url: "https://www.brundasclinic.com/our-services/ent-services/adenotonsillectomy",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert ENT treatments including Adenotonsillectomy surgery, sinus care, ear infections, and throat disorder treatments.",
           keywords: [
@@ -1563,7 +1563,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/adenotonsillectomy#faq",
+            "https://www.brundasclinic.com/our-services/ent-services/adenotonsillectomy#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -1611,7 +1611,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/pediatric-ent-care",
+    url: "https://www.brundasclinic.com/our-services/ent-services/pediatric-ent-care",
     title: "Pediatric ENT Care in Vijayanagar | Child ENT Specialist",
     description:
       "Expert Pediatric ENT Care in Vijayanagar for children with ear infections, sinus problems, tonsillitis, and breathing issues. Safe and gentle treatment.",
@@ -1623,10 +1623,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1642,8 +1642,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/pediatric-ent-care#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/ent-services/pediatric-ent-care",
+            "https://www.brundasclinic.com/our-services/ent-services/pediatric-ent-care#clinic",
+          url: "https://www.brundasclinic.com/our-services/ent-services/pediatric-ent-care",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides Pediatric ENT Care in Vijayanagar including treatment for ear infections, sinus problems, tonsillitis, allergies and breathing issues in children.",
           keywords: [
@@ -1695,7 +1695,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/pediatric-ent-care#faq",
+            "https://www.brundasclinic.com/our-services/ent-services/pediatric-ent-care#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -1743,7 +1743,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment",
+    url: "https://www.brundasclinic.com/our-services/ent-services/voice-disorders-treatment",
     title: "Voice Disorders Treatment in Vijayanagar | Dr. Meghana",
     description:
       "Get expert Voice Disorders Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced ENT care for hoarseness,vocal strain,throat issues and voice problems.",
@@ -1755,10 +1755,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1774,8 +1774,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment",
+            "https://www.brundasclinic.com/our-services/ent-services/voice-disorders-treatment#clinic",
+          url: "https://www.brundasclinic.com/our-services/ent-services/voice-disorders-treatment",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides expert Voice Disorders Treatment in Vijayanagar with advanced ENT care for hoarseness, vocal cord problems, throat infections, and voice changes.",
           openingHoursSpecification: {
@@ -1834,7 +1834,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment#faq",
+            "https://www.brundasclinic.com/our-services/ent-services/voice-disorders-treatment#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -1882,7 +1882,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
     title: "General Orthopaedic Clinic in Vijayanagar | Dr. Nagaraj M",
     description:
       "Visit the General Orthopaedic Clinic in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for expert diagnosis and treatment of joint pain, fractures and bone conditions.",
@@ -1894,10 +1894,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1913,8 +1913,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/trauma-general-ortho#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre is a trusted General Orthopaedic Clinic in Vijayanagar offering expert care for fractures, joint pain, sports injuries, arthritis, and bone disorders.",
           keywords: [
@@ -1985,7 +1985,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/trauma-general-ortho#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -2033,7 +2033,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
     title: "Orthopaedic Trauma Care in Vijayanagar | Dr. Nagaraj M",
     description:
       "Get advanced Orthopaedic Trauma Care in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Expert treatment for fractures, injuries, and accident-related bone trauma.",
@@ -2045,10 +2045,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2064,8 +2064,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/orthopaedic-trauma#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar offers advanced Orthopaedic Trauma Care for fractures, sports injuries, ligament damage and accident related bone injuries.",
           aggregateRating: {
@@ -2113,7 +2113,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/orthopaedic-trauma#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -2161,7 +2161,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/poly-trauma-management",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/poly-trauma-management",
     title: "Best Clinic for Polytrauma Treatment in Vijayanagar",
     description:
       "Get expert care at the Best Clinic for polytrauma treatment in Vijayanagar with advanced orthopaedic trauma managementand specialized recovery care.",
@@ -2173,10 +2173,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2192,8 +2192,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/poly-trauma-management#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/poly-trauma-management",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/poly-trauma-management#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/poly-trauma-management",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers advanced orthopaedic trauma care and is recognized as the Best Clinic for polytrauma treatment in Vijayanagar with expert diagnosis and injury management.",
           keywords: [
@@ -2250,7 +2250,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/poly-trauma-management#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/poly-trauma-management#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -2298,7 +2298,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
     title: "Advanced Arthroscopic Surgery in Vijayanagar | Brunda Clinic",
     description:
       "Get expert Arthroscopic Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced minimally invasive treatment for knee, shoulder, and joint injuries.",
@@ -2310,10 +2310,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2329,8 +2329,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers advanced Arthroscopic Surgery in Vijayanagar with minimally invasive treatment for knee, shoulder, and joint injuries by experienced orthopaedic specialists.",
           keywords: [
@@ -2387,7 +2387,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -2435,7 +2435,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
     title: "ACL Reconstruction Surgery in Vijayanagar | Dr. Nagaraj M",
     description:
       "Get advanced ACL Reconstruction Surgery in Vijayanagar at Brunda Clinic. Expert orthopaedic care for ligament injuries, faster recovery, and knee stability.",
@@ -2447,10 +2447,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2466,8 +2466,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced ACL Reconstruction Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee ligament treatment.",
           keywords: [
@@ -2524,7 +2524,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -2572,7 +2572,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
     title: "PCL Repair Surgery in Vijayanagar | Knee Ligament Care",
     description:
       "Get advanced PCL Repair Surgery in Vijayanagar .Expert orthopaedic care for knee ligament injuries with accurate diagnosis and effective treatment.",
@@ -2584,10 +2584,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2603,8 +2603,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced PCL Repair Surgery in Vijayanagar with expert orthopaedic surgeons and modern arthroscopic techniques for knee ligament injuries.",
           keywords: [
@@ -2661,7 +2661,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -2709,7 +2709,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
     title: "Advanced Ligament Reconstruction in Vijayanagar|Dr.Nagaraj M",
     description:
       "Get expert Ligament Reconstruction in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with advanced arthroscopic surgery, accurate diagnosis, and faster recovery care.",
@@ -2721,10 +2721,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2740,8 +2740,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced ligament reconstruction in Vijayanagar using modern arthroscopic surgery techniques to restore knee stability and improve mobility.",
           keywords: [
@@ -2798,7 +2798,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -2846,7 +2846,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
     title: "Meniscus Repair Surgery in Vijayanagar | Knee Specialist",
     description:
       "Get advanced Meniscus Repair Surgery in Vijayanagar at Brunda Clinic. Expert orthopaedic care for knee injuries, faster recovery, and improved joint mobility.",
@@ -2858,10 +2858,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2877,8 +2877,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced Meniscus Repair Surgery in Vijayanagar with expert orthopaedic specialists and modern arthroscopic treatment for knee injuries.",
           keywords: [
@@ -2935,7 +2935,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -2983,7 +2983,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
     title: "Meniscal Root Repair Surgery in Vijayanagar | Knee Care",
     description:
       "Get advanced Meniscal Root Repair Surgery in Vijayanagar at Brunda Clinic with expert orthopaedic care for knee pain, sports injuries, and faster recovery.",
@@ -2995,10 +2995,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3014,8 +3014,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers advanced Meniscal Root Repair Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee treatment.",
           keywords: [
@@ -3072,7 +3072,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -3120,7 +3120,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
     title: "Meniscus Transplant Surgery in Vijayanagar | Expert Care",
     description:
       "Get advanced meniscus transplant surgery in Vijayanagar at Brunda Clinic with expert orthopaedic care, modern arthroscopy techniques, and faster recovery.",
@@ -3132,10 +3132,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3151,8 +3151,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced meniscus transplant surgery in Vijayanagar with experienced orthopaedic specialists, modern arthroscopic procedures, and comprehensive knee care.",
           keywords: [
@@ -3209,7 +3209,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -3257,7 +3257,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
     title: "Rotator Cuff Repair Surgery in Vijayanagar | Shoulder Care",
     description:
       "Get advanced Rotator Cuff Repair Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with expert orthopaedic care,precise diagnosis and faster shoulder recovery.",
@@ -3269,10 +3269,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3288,8 +3288,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced Rotator Cuff Repair Surgery in Vijayanagar with expert orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation care for shoulder injuries.",
           keywords: [
@@ -3346,7 +3346,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -3394,7 +3394,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
     title: "Bankart Repair Surgery in Vijayanagar | Shoulder Care",
     description:
       "Get expert Bankart Repair Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced arthroscopic treatment for shoulder dislocation with faster recovery.",
@@ -3406,10 +3406,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3425,8 +3425,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced Bankart Repair Surgery in Vijayanagar using arthroscopic techniques to treat shoulder instability and recurrent shoulder dislocation.",
           keywords: [
@@ -3483,7 +3483,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -3531,7 +3531,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
     title: "Shoulder Instability Surgery in Vijayanagar | Dr.Nagaraj M",
     description:
       "Get advanced Shoulder Instability Surgery in Vijayanagar at Brunda Clinic with expert orthopaedic care and effective treatment for shoulder dislocation.",
@@ -3543,10 +3543,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3562,8 +3562,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers advanced Shoulder Instability Surgery in Vijayanagar with expert orthopaedic surgeons, modern arthroscopic techniques, and comprehensive rehabilitation care.",
           keywords: [
@@ -3620,7 +3620,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -3668,7 +3668,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
     title: "Hip Arthroscopy Surgery in Vijayanagar | Dr Nagaraj M",
     description:
       "Get advanced Hip Arthroscopy Surgery in Vijayanagar at Brunda Clinic with expert orthopedic care for hip pain and femoroacetabular impingement treatment.",
@@ -3680,10 +3680,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3699,8 +3699,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced Hip Arthroscopy Surgery in Vijayanagar with expert orthopedic care for hip pain, labral tears, and femoroacetabular impingement treatment.",
           keywords: [
@@ -3757,7 +3757,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -3805,7 +3805,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty",
     title: "Best Arthroplasty Surgery in Vijayanagar - Dr.Nagaraj M",
     description:
       "Get advanced arthroplasty surgery in Vijayanagar with experienced orthopaedic surgeons. Safe, effective, and personalized joint replacement care.",
@@ -3817,10 +3817,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3836,8 +3836,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers advanced arthroplasty surgery in Vijayanagar, including knee, hip, and shoulder replacements with expert diagnosis and personalized care.",
           keywords: [
@@ -3895,7 +3895,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -3943,7 +3943,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
     title: "Best Knee Replacement Surgery in Vijayanagar | Brunda Clinic",
     description:
       "Get advanced Knee Replacement Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Expert orthopaedic care for pain relief, mobility, and faster recovery.",
@@ -3955,10 +3955,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3974,8 +3974,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced Knee Replacement Surgery in Vijayanagar with expert orthopaedic surgeons and comprehensive rehabilitation for better mobility.",
           keywords: [
@@ -4032,7 +4032,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -4080,7 +4080,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
     title: "Robotic Knee Replacement Surgeon in Vijayanagar | Dr.Nagaraj",
     description:
       "Consult an experienced Robotic Knee Replacement Surgeon in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for advanced knee replacement surgery with faster recovery.",
@@ -4092,10 +4092,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4111,8 +4111,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers advanced robotic knee replacement surgery with an experienced Robotic Knee Replacement Surgeon in Vijayanagar providing precise treatment and faster recovery.",
           keywords: [
@@ -4169,7 +4169,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -4217,7 +4217,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement",
     title: "Hip Replacement Surgery in Vijayanagar | Brunda Clinic",
     description:
       "Get advanced Hip Replacement Surgery in Vijayanagar at Brunda Clinic with expert orthopaedic surgeons,modern techniques and personalized recovery care.",
@@ -4229,10 +4229,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4248,8 +4248,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced Hip Replacement Surgery in Vijayanagar with expert orthopaedic surgeons, modern surgical techniques, and comprehensive rehabilitation care.",
           keywords: [
@@ -4306,7 +4306,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -4354,7 +4354,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
     title: "Best Shoulder Replacement Surgery in Vijayanagar-Dr. Nagaraj",
     description:
       "Get the Best Shoulder Replacement Surgery in Vijayanagar at Brunda Clinic with expert orthopaedic surgeons, advanced techniques, and personalized recovery care.",
@@ -4366,10 +4366,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4385,8 +4385,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers the Best Shoulder Replacement Surgery in Vijayanagar with expert orthopaedic surgeons, advanced surgical techniques, and comprehensive rehabilitation care.",
           keywords: [
@@ -4443,7 +4443,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -4491,7 +4491,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
     title: "Best Elbow Replacement Surgery in Vijayanagar | Expert Care",
     description:
       "Get the Best Elbow replacement surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with advanced orthopaedic care, experienced surgeons, and faster recovery.",
@@ -4503,10 +4503,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4522,8 +4522,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides the Best Elbow replacement surgery in Vijayanagar with experienced orthopaedic surgeons, advanced treatment, and personalized recovery care.",
           keywords: [
@@ -4580,7 +4580,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -4628,7 +4628,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
     title: "Pediatric Deformity Treatment in Vijayanagar | Expert Care",
     description:
       "Get expert Pediatric deformity treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre.Advanced care for congenital and developmental bone deformities in children.",
@@ -4640,10 +4640,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4659,8 +4659,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced Pediatric deformity treatment in Vijayanagar with expert orthopedic care for children with bone, joint, and limb deformities.",
           keywords: [
@@ -4717,7 +4717,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -4765,7 +4765,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/spine-surgeries",
     title: "Best Spine Surgery Doctor in Vijayanagar | Expert Spine Care",
     description:
       "Consult an experienced Spine Surgery Doctor in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for advanced treatment of back pain, disc problems, and spine disorders.",
@@ -4777,10 +4777,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4796,8 +4796,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/spine-surgeries#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/spine-surgeries",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers advanced spine treatment with an experienced Spine Surgery Doctor in Vijayanagar for back pain, disc problems, and spinal disorders.",
           keywords: [
@@ -4854,7 +4854,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/spine-surgeries#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -4902,7 +4902,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis",
     title: "Rheumatoid Arthritis Treatment in Vijayanagar | Expert Care",
     description:
       "Get advanced Rheumatoid Arthritis Treatment in Vijayanagar at Brunda Clinic with expert diagnosis, joint pain relief therapies, and personalized care.",
@@ -4914,10 +4914,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4933,8 +4933,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre offers advanced Rheumatoid Arthritis Treatment in Vijayanagar with expert diagnosis, joint pain management, and personalized arthritis care.",
           keywords: [
@@ -4991,7 +4991,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -5039,7 +5039,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
     title: "Tennis Elbow Treatment in Vijayanagar | Expert Care",
     description:
       "Get effective Tennis Elbow Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with expert diagnosis, pain relief therapies, and advanced orthopaedic care.",
@@ -5051,10 +5051,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -5070,8 +5070,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced Tennis Elbow Treatment in Vijayanagar with expert orthopaedic diagnosis, pain management therapies, and personalized treatment plans.",
           keywords: [
@@ -5128,7 +5128,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -5176,7 +5176,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
     title: "Plantar Fasciitis Treatment in Vijayanagar | Foot Pain Care",
     description:
       "Get expert Plantar Fasciitis Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced diagnosis and effective care for heel pain and foot inflammation.",
@@ -5188,10 +5188,10 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          logo: "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -5207,8 +5207,8 @@ export const metaData = [
             longitude: "77.5370",
           },
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment#clinic",
-          url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment#clinic",
+          url: "https://www.brundasclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
           description:
             "Brunda Advanced Orthopaedics & ENT Centre provides advanced Plantar Fasciitis Treatment in Vijayanagar with expert orthopaedic care, accurate diagnosis, and effective heel pain management.",
           keywords: [
@@ -5265,7 +5265,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment#faq",
+            "https://www.brundasclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -5313,7 +5313,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
     title: "Best Spine Doctor in Govindaraj Nagar – Expert Spine Care",
     description:
       "Consult an experienced spine doctor in Govindaraj Nagar for back pain, slip disc, sciatica, neck pain, and complete spine care.",
@@ -5324,9 +5324,9 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      image: "https://www.brundaspecialistclinic.com/logo.png",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
-      email: "brundaspecialistclinic@gmail.com",
+      image: "https://www.brundasclinic.com/logo.png",
+      url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
+      email: "brundaadvance@gmail.com",
       telephone: "+91-9632371211",
       address: {
         "@type": "PostalAddress",
@@ -5391,7 +5391,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
     title: "Advanced Spine Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced spine surgery in Govindaraj Nagar for disc problems, spinal stenosis, nerve compression, and long-term pain relief.",
@@ -5409,9 +5409,9 @@ export const metaData = [
       provider: {
         "@type": "MedicalClinic",
         name: "Brunda Advanced Orthopaedics & ENT Centre",
-        url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
+        url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
-        email: "brundaspecialistclinic@gmail.com",
+        email: "brundaadvance@gmail.com",
       },
       description:
         "Advanced spine surgery in Govindaraj Nagar for severe spinal disorders, herniated discs, and nerve compression.",
@@ -5460,7 +5460,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
     title: "Best Spine Surgeries in Govindaraj Nagar – Precision Treatment",
     description:
       "Explore advanced spine surgeries in Govindaraj Nagar for chronic back pain, disc disorders, stenosis, and spinal nerve compression.",
@@ -5476,7 +5476,7 @@ export const metaData = [
       provider: {
         "@type": "MedicalClinic",
         name: "Brunda Advanced Orthopaedics & ENT Centre",
-        url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
+        url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
       },
       description:
         "Comprehensive spine surgeries in Govindaraj Nagar for disc issues, spinal instability, deformities, and nerve problems.",
@@ -5525,7 +5525,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
     title: "Best Orthopaedic Surgeon in Govindaraj Nagar – Expert Care",
     description:
       "Consult an orthopaedic surgeon in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and surgical treatment.",
@@ -5540,7 +5540,7 @@ export const metaData = [
       worksFor: {
         "@type": "MedicalClinic",
         name: "Brunda Advanced Orthopaedics & ENT Centre",
-        url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
+        url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
       },
       description:
         "Expert orthopaedic surgical care in Govindaraj Nagar for fractures, arthritis, trauma, sports injuries, and joint disorders.",
@@ -5589,7 +5589,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-govindaraj-nagar",
     title: "Best Orthopaedic Doctor in Govindaraj Nagar – Bone Care",
     description:
       "Meet an experienced orthopaedic doctor in Govindaraj Nagar for bone pain, fractures, sports injuries, arthritis, and joint care.",
@@ -5652,7 +5652,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
     title: "Best Orthopaedic Clinic in Govindaraj Nagar – Joint Treatment",
     description:
       "Visit an orthopaedic clinic in Govindaraj Nagar for expert care in fractures, joint pain, sports injuries, arthritis, and rehabilitation.",
@@ -5663,9 +5663,9 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
       telephone: "+91-9632371211",
-      email: "brundaspecialistclinic@gmail.com",
+      email: "brundaadvance@gmail.com",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Orthopaedic clinic in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and post-treatment rehabilitation.",
@@ -5714,7 +5714,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-govindaraj-nagar",
     title: "Best Orthopaedic Specialist in Govindaraj Nagar – Bone Care",
     description:
       "Consult an orthopaedic specialist in Govindaraj Nagar for arthritis, fractures, sports injuries, ligament tears, and joint disorders.",
@@ -5777,7 +5777,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar",
     title: "Best Bone Specialist Doctor in Govindaraj Nagar – Expert Care",
     description:
       "Get expert consultation from a bone specialist doctor in Govindaraj Nagar for fractures, osteoporosis, bone pain, and joint problems.",
@@ -5840,7 +5840,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
     title: "Best Bone and Joint Clinic in Govindaraj Nagar – Advanced Care",
     description:
       "Visit a bone and joint clinic in Govindaraj Nagar for arthritis, fractures, ligament injuries, bone pain, and comprehensive joint care.",
@@ -5851,7 +5851,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
+      url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Bone and joint clinic in Govindaraj Nagar for arthritis, fractures, sports injuries, joint pain, and orthopedic treatment.",
@@ -5900,7 +5900,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-govindaraj-nagar",
     title: "Best Knee Replacement Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced knee replacement surgery in Govindaraj Nagar for severe arthritis, joint damage, chronic knee pain, and improved mobility.",
@@ -5964,7 +5964,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
     title: "Robotic Knee Replacement in Govindaraj Nagar – Precision Care",
     description:
       "Choose robotic knee replacement in Govindaraj Nagar for precision-guided surgery, improved implant alignment, and faster recovery.",
@@ -6028,7 +6028,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-govindaraj-nagar",
     title: "Best Hip Replacement Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced hip replacement surgery in Govindaraj Nagar for hip arthritis, severe pain, stiffness, and improved movement.",
@@ -6092,7 +6092,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-govindaraj-nagar",
     title: "Best Shoulder Replacement Surgery in Govindaraj Nagar",
     description:
       "Consult specialists for shoulder replacement surgery in Govindaraj Nagar for arthritis, severe pain, reduced mobility, and joint damage.",
@@ -6156,7 +6156,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar",
     title: "Best Joint Replacement Surgeon in Govindaraj Nagar",
     description:
       "Meet the best joint replacement surgeon in Govindaraj Nagar for knee, hip, and shoulder replacement with advanced surgical care.",
@@ -6219,7 +6219,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
     title: "Advanced Arthroplasty Surgeries in Govindaraj Nagar",
     description:
       "Get advanced arthroplasty surgeries in Govindaraj Nagar for knee, hip, and shoulder joint damage with expert orthopedic care.",
@@ -6283,7 +6283,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar",
     title: "Best Arthroscopic Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Choose arthroscopic surgery in Govindaraj Nagar for ligament tears, cartilage injuries, sports injuries, and minimally invasive joint care.",
@@ -6347,7 +6347,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
     title: "Best ACL Treatment in Govindaraj Nagar – Knee Ligament Care",
     description:
       "Get expert ACL treatment in Govindaraj Nagar for ligament tears, knee instability, sports injuries, and recovery-focused care.",
@@ -6411,7 +6411,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar",
     title: "Advanced ACL Repair in Govindaraj Nagar – Expert Knee Care",
     description:
       "Consult specialists for ACL repair in Govindaraj Nagar for ligament tears, knee instability, sports injuries, and active recovery.",
@@ -6475,7 +6475,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
     title: "Best PCL Repair in Govindaraj Nagar – Knee Ligament Care",
     description:
       "Get expert PCL repair in Govindaraj Nagar for posterior knee ligament injuries, instability, and advanced orthopedic treatment.",
@@ -6539,7 +6539,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar",
     title: "Best Meniscus Repair Surgery in Govindaraj Nagar",
     description:
       "Consult specialists for meniscus repair surgery in Govindaraj Nagar for cartilage tears, knee locking, sports injuries, and pain relief.",
@@ -6603,7 +6603,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-govindaraj-nagar",
     title: "Best Rotator Cuff Repair Surgery in Govindaraj Nagar",
     description:
       "Get expert rotator cuff repair surgery in Govindaraj Nagar for shoulder tears, pain, weakness, and improved arm movement.",
@@ -6667,7 +6667,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-govindaraj-nagar",
     title: "Best Shoulder Instability Surgery in Govindaraj Nagar",
     description:
       "Choose shoulder instability surgery in Govindaraj Nagar for repeated dislocations, instability, shoulder pain, and improved joint support.",
@@ -6731,7 +6731,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar",
     title: "Best Hip Arthroscopy Surgery in Govindaraj Nagar",
     description:
       "Get advanced hip arthroscopy surgery in Govindaraj Nagar for hip pain, labral tears, impingement, and minimally invasive care.",
@@ -6795,7 +6795,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar",
     title: "Best Spine Care in Govindaraj Nagar – Back & Neck Relief",
     description:
       "Get complete spine care in Govindaraj Nagar for back pain, neck pain, sciatica, disc problems, and long-term relief.",
@@ -6806,7 +6806,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
+      url: "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Complete spine care in Govindaraj Nagar for back pain, neck pain, sciatica, and disc-related conditions.",
@@ -6855,7 +6855,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar",
     title: "Best Trauma Surgery Treatment in Govindaraj Nagar",
     description:
       "Get trauma surgery treatment in Govindaraj Nagar for fractures, accident injuries, dislocations, and advanced orthopedic emergency care.",
@@ -6919,7 +6919,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-govindaraj-nagar",
     title: "Best ENT Specialist in Govindaraj Nagar – Expert ENT Care",
     description:
       "Consult an ENT specialist in Govindaraj Nagar for sinus, ear pain, throat issues, allergies, infections, and complete ENT treatment.",
@@ -6982,7 +6982,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar",
     title: "Best ENT Doctor in Govindaraj Nagar – Ear Nose Throat Care",
     description:
       "Meet the best ENT doctor in Govindaraj Nagar for sinusitis, ear pain, throat infections, vertigo, and allergy treatment.",
@@ -7045,7 +7045,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar",
     title: "Best Micro Ear Surgery in Govindaraj Nagar – Hearing Care",
     description:
       "Get expert micro ear surgery in Govindaraj Nagar for chronic ear infections, hearing problems, eardrum issues, and advanced treatment.",
@@ -7109,7 +7109,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
     title: "Best Vertigo Treatment in Govindaraj Nagar – Dizziness Relief",
     description:
       "Get effective vertigo treatment in Govindaraj Nagar for dizziness, balance problems, spinning sensation, and ENT-based evaluation.",
@@ -7172,7 +7172,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
     title: "Best Pediatric ENT Care in Govindaraj Nagar – Child ENT Care",
     description:
       "Consult specialists for pediatric ENT care in Govindaraj Nagar for ear infections, tonsils, sinus issues, hearing concerns, and child-friendly treatment.",
@@ -7183,7 +7183,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
+      url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
       medicalSpecialty: ["Otolaryngologic", "Pediatric"],
       description:
         "Pediatric ENT care in Govindaraj Nagar for ear infections, tonsils, sinusitis, allergies, hearing issues, and throat problems in children.",
@@ -7232,7 +7232,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
     title: "Advanced Spine Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced spine surgery in Govindaraj Nagar for disc problems, spinal stenosis, nerve compression, and long-term pain relief.",
@@ -7250,9 +7250,9 @@ export const metaData = [
       provider: {
         "@type": "MedicalClinic",
         name: "Brunda Advanced Orthopaedics & ENT Centre",
-        url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
+        url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
-        email: "brundaspecialistclinic@gmail.com",
+        email: "brundaadvance@gmail.com",
       },
       description:
         "Advanced spine surgery in Govindaraj Nagar for severe spinal disorders, herniated discs, and nerve compression.",
@@ -7301,7 +7301,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
     title: "Best Spine Surgeries in Govindaraj Nagar – Precision Treatment",
     description:
       "Explore advanced spine surgeries in Govindaraj Nagar for chronic back pain, disc disorders, stenosis, and spinal nerve compression.",
@@ -7317,7 +7317,7 @@ export const metaData = [
       provider: {
         "@type": "MedicalClinic",
         name: "Brunda Advanced Orthopaedics & ENT Centre",
-        url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
+        url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
       },
       description:
         "Comprehensive spine surgeries in Govindaraj Nagar for disc issues, spinal instability, deformities, and nerve problems.",
@@ -7407,7 +7407,7 @@ export const metaData = [
   },
 
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
     title: "Best Orthopaedic Surgeon in Govindaraj Nagar – Expert Care",
     description:
       "Consult an orthopaedic surgeon in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and surgical treatment.",
@@ -7420,13 +7420,13 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#physician",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#physician",
           name: "Orthopaedic Surgeon in Govindaraj Nagar",
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
+            url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
           },
           description:
             "Expert orthopaedic surgical care in Govindaraj Nagar for fractures, arthritis, trauma, sports injuries, and joint disorders.",
@@ -7434,7 +7434,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -7522,7 +7522,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-govindaraj-nagar",
     title: "Best Orthopaedic Doctor in Govindaraj Nagar – Bone Care",
     description:
       "Meet an experienced orthopaedic doctor in Govindaraj Nagar for bone pain, fractures, sports injuries, arthritis, and joint care.",
@@ -7625,7 +7625,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
     title: "Best Orthopaedic Clinic in Govindaraj Nagar – Joint Treatment",
     description:
       "Visit an orthopaedic clinic in Govindaraj Nagar for expert care in fractures, joint pain, sports injuries, arthritis, and rehabilitation.",
@@ -7638,11 +7638,11 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#clinic",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
           telephone: "+91-9632371211",
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
           medicalSpecialty: ["Orthopedic"],
           description:
             "Orthopaedic clinic in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and post-treatment rehabilitation.",
@@ -7650,7 +7650,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -7738,7 +7738,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-govindaraj-nagar",
     title: "Best Orthopaedic Specialist in Govindaraj Nagar – Bone Care",
     description:
       "Consult an orthopaedic specialist in Govindaraj Nagar for arthritis, fractures, sports injuries, ligament tears, and joint disorders.",
@@ -7801,7 +7801,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar",
     title: "Best Bone Specialist Doctor in Govindaraj Nagar – Expert Care",
     description:
       "Get expert consultation from a bone specialist doctor in Govindaraj Nagar for fractures, osteoporosis, bone pain, and joint problems.",
@@ -7814,7 +7814,7 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#doctor",
+            "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#doctor",
           name: "Bone Specialist Doctor in Govindaraj Nagar",
           medicalSpecialty: "Orthopedic",
           worksFor: {
@@ -7827,7 +7827,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -7915,7 +7915,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
     title: "Best Bone and Joint Clinic in Govindaraj Nagar – Advanced Care",
     description:
       "Visit a bone and joint clinic in Govindaraj Nagar for arthritis, fractures, ligament injuries, bone pain, and comprehensive joint care.",
@@ -7928,9 +7928,9 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#clinic",
+            "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic"],
           description:
             "Bone and joint clinic in Govindaraj Nagar for arthritis, fractures, sports injuries, joint pain, and orthopedic treatment.",
@@ -7938,7 +7938,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -8026,7 +8026,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-govindaraj-nagar",
     title: "Best Knee Replacement Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced knee replacement surgery in Govindaraj Nagar for severe arthritis, joint damage, chronic knee pain, and improved mobility.",
@@ -8130,7 +8130,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
     title: "Robotic Knee Replacement in Govindaraj Nagar – Precision Care",
     description:
       "Choose robotic knee replacement in Govindaraj Nagar for precision-guided surgery, improved implant alignment, and faster recovery.",
@@ -8143,19 +8143,19 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#procedure",
           name: "Robotic Knee Replacement in Govindaraj Nagar",
           procedureType: "Robotic Surgical",
           bodyLocation: "Knee",
-          url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
           description:
             "Robotic knee replacement in Govindaraj Nagar for precision-guided knee surgery, better implant positioning, and improved recovery outcomes.",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaspecialistclinic@gmail.com",
+            email: "brundaadvance@gmail.com",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -8169,7 +8169,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -8257,7 +8257,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-govindaraj-nagar",
     title: "Best Hip Replacement Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced hip replacement surgery in Govindaraj Nagar for hip arthritis, severe pain, stiffness, and improved movement.",
@@ -8361,7 +8361,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-govindaraj-nagar",
     title: "Best Shoulder Replacement Surgery in Govindaraj Nagar",
     description:
       "Consult specialists for shoulder replacement surgery in Govindaraj Nagar for arthritis, severe pain, reduced mobility, and joint damage.",
@@ -8465,7 +8465,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar",
     title: "Best Joint Replacement Surgeon in Govindaraj Nagar",
     description:
       "Meet the best joint replacement surgeon in Govindaraj Nagar for knee, hip, and shoulder replacement with advanced surgical care.",
@@ -8478,7 +8478,7 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#physician",
+            "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#physician",
           name: "Best Joint Replacement Surgeon in Govindaraj Nagar",
           medicalSpecialty: "Orthopedic",
           worksFor: {
@@ -8491,7 +8491,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -8579,7 +8579,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
     title: "Advanced Arthroplasty Surgeries in Govindaraj Nagar",
     description:
       "Get advanced arthroplasty surgeries in Govindaraj Nagar for knee, hip, and shoulder joint damage with expert orthopedic care.",
@@ -8592,7 +8592,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#procedure",
           name: "Arthroplasty Surgeries in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Joints",
@@ -8601,15 +8601,15 @@ export const metaData = [
           provider: {
             "@type": "MedicalClinic",
             "@id":
-              "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#clinic",
+              "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#clinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
+            url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
           },
         },
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -8697,7 +8697,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar",
     title: "Best Arthroscopic Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Choose arthroscopic surgery in Govindaraj Nagar for ligament tears, cartilage injuries, sports injuries, and minimally invasive joint care.",
@@ -8710,7 +8710,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#procedure",
           name: "Arthroscopic Surgery in Govindaraj Nagar",
           procedureType: "Minimally Invasive Surgical",
           bodyLocation: "Joints",
@@ -8724,7 +8724,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -8812,7 +8812,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
     title: "Best ACL Treatment in Govindaraj Nagar – Knee Ligament Care",
     description:
       "Get expert ACL treatment in Govindaraj Nagar for ligament tears, knee instability, sports injuries, and recovery-focused care.",
@@ -8825,19 +8825,19 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#procedure",
           name: "ACL Treatment in Govindaraj Nagar",
           procedureType: "Medical and Surgical",
           bodyLocation: "Knee",
-          url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
           description:
             "ACL treatment in Govindaraj Nagar for knee ligament injuries, instability, sports-related trauma, and recovery-focused care.",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaspecialistclinic@gmail.com",
+            email: "brundaadvance@gmail.com",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -8851,7 +8851,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -8939,7 +8939,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar",
     title: "Advanced ACL Repair in Govindaraj Nagar – Expert Knee Care",
     description:
       "Consult specialists for ACL repair in Govindaraj Nagar for ligament tears, knee instability, sports injuries, and active recovery.",
@@ -8952,7 +8952,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar#procedure",
           name: "ACL Repair in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Knee",
@@ -8966,7 +8966,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -9054,7 +9054,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
     title: "Best PCL Repair in Govindaraj Nagar – Knee Ligament Care",
     description:
       "Get expert PCL repair in Govindaraj Nagar for posterior knee ligament injuries, instability, and advanced orthopedic treatment.",
@@ -9067,14 +9067,14 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#procedure",
           name: "PCL Repair in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
+            url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
           },
           description:
             "PCL repair in Govindaraj Nagar for posterior cruciate ligament injuries causing instability and knee dysfunction.",
@@ -9082,7 +9082,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -9170,7 +9170,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar",
     title: "Best Meniscus Repair Surgery in Govindaraj Nagar",
     description:
       "Consult specialists for meniscus repair surgery in Govindaraj Nagar for cartilage tears, knee locking, sports injuries, and pain relief.",
@@ -9183,14 +9183,14 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#procedure",
           name: "Meniscus Repair Surgery in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
           },
           description:
             "Meniscus repair surgery in Govindaraj Nagar for knee cartilage tears, locking, swelling, and sports-related injury.",
@@ -9198,7 +9198,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -9286,7 +9286,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-govindaraj-nagar",
     title: "Best Rotator Cuff Repair Surgery in Govindaraj Nagar",
     description:
       "Get expert rotator cuff repair surgery in Govindaraj Nagar for shoulder tears, pain, weakness, and improved arm movement.",
@@ -9390,7 +9390,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-govindaraj-nagar",
     title: "Best Shoulder Instability Surgery in Govindaraj Nagar",
     description:
       "Choose shoulder instability surgery in Govindaraj Nagar for repeated dislocations, instability, shoulder pain, and improved joint support.",
@@ -9494,7 +9494,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar",
     title: "Best Hip Arthroscopy Surgery in Govindaraj Nagar",
     description:
       "Get advanced hip arthroscopy surgery in Govindaraj Nagar for hip pain, labral tears, impingement, and minimally invasive care.",
@@ -9507,7 +9507,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#procedure",
           name: "Hip Arthroscopy Surgery in Govindaraj Nagar",
           procedureType: "Minimally Invasive Surgical",
           bodyLocation: "Hip",
@@ -9521,7 +9521,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -9609,7 +9609,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar",
     title: "Best Spine Care in Govindaraj Nagar – Back & Neck Relief",
     description:
       "Get complete spine care in Govindaraj Nagar for back pain, neck pain, sciatica, disc problems, and long-term relief.",
@@ -9622,9 +9622,9 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar#clinic",
+            "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic", "Spine Care"],
           description:
             "Complete spine care in Govindaraj Nagar for back pain, neck pain, sciatica, and disc-related conditions.",
@@ -9632,7 +9632,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -9720,7 +9720,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar",
     title: "Best Trauma Surgery Treatment in Govindaraj Nagar",
     description:
       "Get trauma surgery treatment in Govindaraj Nagar for fractures, accident injuries, dislocations, and advanced orthopedic emergency care.",
@@ -9733,7 +9733,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#procedure",
           name: "Trauma Surgery Treatment in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Bones and Joints",
@@ -9747,7 +9747,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -9835,7 +9835,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-govindaraj-nagar",
     title: "Best ENT Specialist in Govindaraj Nagar – Expert ENT Care",
     description:
       "Consult an ENT specialist in Govindaraj Nagar for sinus, ear pain, throat issues, allergies, infections, and complete ENT treatment.",
@@ -9938,7 +9938,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar",
     title: "Best ENT Doctor in Govindaraj Nagar – Ear Nose Throat Care",
     description:
       "Meet the best ENT doctor in Govindaraj Nagar for sinusitis, ear pain, throat infections, vertigo, and allergy treatment.",
@@ -9951,7 +9951,7 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#doctor",
+            "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#doctor",
           name: "Best ENT Doctor in Govindaraj Nagar",
           medicalSpecialty: "Otolaryngologic",
           worksFor: {
@@ -9964,7 +9964,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -10052,7 +10052,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar",
     title: "Best Micro Ear Surgery in Govindaraj Nagar – Hearing Care",
     description:
       "Get expert micro ear surgery in Govindaraj Nagar for chronic ear infections, hearing problems, eardrum issues, and advanced treatment.",
@@ -10065,14 +10065,14 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#procedure",
           name: "Micro Ear Surgery in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Ear",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
           },
           description:
             "Micro ear surgery in Govindaraj Nagar for chronic ear disease, eardrum issues, hearing loss, and middle ear conditions.",
@@ -10080,7 +10080,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -10168,7 +10168,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
     title: "Best Vertigo Treatment in Govindaraj Nagar – Dizziness Relief",
     description:
       "Get effective vertigo treatment in Govindaraj Nagar for dizziness, balance problems, spinning sensation, and ENT-based evaluation.",
@@ -10181,9 +10181,9 @@ export const metaData = [
         {
           "@type": "MedicalTherapy",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#therapy",
+            "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#therapy",
           name: "Vertigo Treatment in Govindaraj Nagar",
-          url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
           relevantSpecialty: "Otolaryngologic",
           recognizingAuthority: {
             "@type": "MedicalClinic",
@@ -10195,7 +10195,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -10283,7 +10283,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
     title: "Best Pediatric ENT Care in Govindaraj Nagar – Child ENT Care",
     description:
       "Consult specialists for pediatric ENT care in Govindaraj Nagar for ear infections, tonsils, sinus issues, hearing concerns, and child-friendly treatment.",
@@ -10294,7 +10294,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
+      url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
       medicalSpecialty: ["Otolaryngologic", "Pediatric"],
       description:
         "Pediatric ENT care in Govindaraj Nagar for ear infections, tonsils, sinusitis, allergies, hearing issues, and throat problems in children.",
@@ -10383,7 +10383,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-nagarabhavi",
     title: "Best Spine Doctor in Nagarabhavi for Advanced Spine Care",
     description:
       "Consult an expert spine doctor in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, and spine-related conditions with personalized treatment plans.",
@@ -10394,7 +10394,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Pioneering spine care in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spinal disorders with personalized treatment.",
@@ -10483,7 +10483,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-nagarabhavi",
     title: "Best Spine Surgery in Nagarabhavi for Advanced Spine Treatment",
     description:
       "Consult an expert spine surgeon in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, and spine-related conditions with advanced surgical treatments.",
@@ -10494,7 +10494,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Pioneering spine surgery in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spinal disorders with advanced surgical techniques.",
@@ -10583,7 +10583,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
     title: "Best Spine Surgeries in Nagarabhavi for Advanced Spine Treatment",
     description:
       "Consult an expert spine surgeon in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, and spine-related conditions with advanced surgical treatments.",
@@ -10594,7 +10594,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Pioneering spine surgery in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spinal disorders with advanced surgical techniques.",
@@ -10683,7 +10683,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
     title:
       "Best Orthopaedic Surgeon in Nagarabhavi for Advanced Bone & Joint Care",
     description:
@@ -10695,7 +10695,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Expert orthopaedic care in Nagarabhavi for fractures, arthritis, joint pain, sports injuries, and spine conditions with advanced treatment options.",
@@ -10776,7 +10776,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
     title: "Best Orthopaedic Doctor in Nagarabhavi for Bone & Joint Care",
     description:
       "Consult the best orthopaedic doctor in Nagarabhavi for bone, joint, and muscle problems including fractures, arthritis, sports injuries, and advanced orthopaedic treatments.",
@@ -10787,7 +10787,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Expert orthopaedic care in Nagarabhavi for fractures, joint pain, arthritis, sports injuries, spine disorders, and musculoskeletal conditions with advanced treatment options.",
@@ -10876,7 +10876,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
     title:
       "Best Orthopaedic Clinic in Nagarabhavi for Advanced Bone & Joint Care",
     description:
@@ -10888,7 +10888,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Leading orthopaedic clinic in Nagarabhavi offering advanced treatment for fractures, arthritis, joint pain, sports injuries, spine problems, and musculoskeletal disorders.",
@@ -10977,7 +10977,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
     title: "Best Orthopaedic Specialist in Nagarabhavi for Bone & Joint Care",
     description:
       "Consult an experienced orthopaedic specialist in Nagarabhavi for bone, joint, ligament, and muscle conditions including fractures, arthritis, and sports injuries with advanced treatment options.",
@@ -10988,7 +10988,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Expert orthopaedic care in Nagarabhavi for fractures, arthritis, joint pain, sports injuries, ligament tears, and musculoskeletal disorders using advanced diagnostic and treatment techniques.",
@@ -11077,7 +11077,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
     title:
       "Best Bone and Joint Clinic in Nagarabhavi for Advanced Orthopedic Care",
     description:
@@ -11089,7 +11089,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Providing advanced orthopedic care in Nagarabhavi for bone fractures, joint pain, arthritis, sports injuries, and other musculoskeletal conditions with expert specialists.",
@@ -11178,7 +11178,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
     title:
       "Best Knee Replacement Surgery in Nagarabhavi for Advanced Joint Care",
     description:
@@ -11190,7 +11190,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced knee replacement surgery in Nagarabhavi for arthritis, knee pain, ligament damage, and joint degeneration using modern surgical techniques for improved mobility.",
@@ -11279,7 +11279,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
     title:
       "Best Robotic Knee Replacement in Nagarabhavi for Advanced Joint Care",
     description:
@@ -11291,7 +11291,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced robotic knee replacement in Nagarabhavi for knee arthritis, joint damage, and chronic knee pain with precision technology and expert care.",
@@ -11380,7 +11380,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
     title:
       "Best Hip Replacement Surgery in Nagarabhavi for Advanced Joint Care",
     description:
@@ -11392,7 +11392,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced hip replacement surgery in Nagarabhavi for hip pain, arthritis, joint damage, fractures, and mobility issues using modern surgical techniques.",
@@ -11481,7 +11481,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
     title:
       "Best Shoulder Replacement Surgery in Nagarabhavi for Advanced Joint Care",
     description:
@@ -11493,7 +11493,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced shoulder replacement surgery in Nagarabhavi for shoulder pain, arthritis, rotator cuff tears, fractures, and joint degeneration using modern surgical techniques.",
@@ -11582,7 +11582,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
     title:
       "Best Joint Replacement Surgeon in Nagarabhavi for Advanced Joint Care",
     description:
@@ -11594,7 +11594,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Expert joint replacement surgeon in Nagarabhavi providing advanced knee, hip, and shoulder replacement surgeries for arthritis, injury, and joint degeneration.",
@@ -11683,7 +11683,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
     title:
       "Best Arthroplasty Surgeries in Nagarabhavi for Joint Replacement Care",
     description:
@@ -11695,7 +11695,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced arthroplasty surgeries in Nagarabhavi for knee, hip, and shoulder joint conditions including arthritis, joint damage, and mobility issues using modern surgical techniques.",
@@ -11784,7 +11784,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
     title: "Best Arthroscopic Surgery in Nagarabhavi for Advanced Joint Care",
     description:
       "Consult an expert arthroscopic surgeon in Nagarabhavi for knee, shoulder, and joint problems with minimally invasive procedures and faster recovery.",
@@ -11795,7 +11795,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Arthroscopy"],
       description:
         "Advanced arthroscopic surgery in Nagarabhavi for knee pain, ligament injuries, shoulder problems, cartilage damage, and sports injuries using minimally invasive techniques.",
@@ -11884,7 +11884,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-nagarabhavi",
     title: "Best ACL Treatment in Nagarabhavi for Knee Injury Care",
     description:
       "Consult expert doctors for ACL treatment in Nagarabhavi. Get advanced care for ligament injuries, knee pain, sports injuries, and ACL reconstruction surgery.",
@@ -11895,7 +11895,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Injury"],
       description:
         "Advanced ACL treatment in Nagarabhavi for knee ligament injuries, sports injuries, ACL tears, instability, and pain with surgical and non-surgical options.",
@@ -11984,7 +11984,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/acl-repair-in-nagarabhavi",
     title: "Best ACL Repair in Nagarabhavi for Advanced Knee Treatment",
     description:
       "Consult an expert orthopedic surgeon in Nagarabhavi for ACL injury, knee ligament tears, sports injuries, and advanced ACL repair treatments with modern surgical techniques.",
@@ -11995,7 +11995,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/acl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Medicine"],
       description:
         "Advanced ACL repair in Nagarabhavi for knee ligament injuries, sports injuries, instability, and knee pain using minimally invasive arthroscopic techniques.",
@@ -12084,7 +12084,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-nagarabhavi",
     title:
       "Best PCL Repair in Nagarabhavi for Advanced Knee Ligament Treatment",
     description:
@@ -12096,7 +12096,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Ligament Surgery"],
       description:
         "Expert PCL repair in Nagarabhavi for posterior cruciate ligament injuries, knee instability, sports injuries, and advanced arthroscopic knee treatments.",
@@ -12185,7 +12185,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
     title:
       "Best Meniscus Repair Surgery in Nagarabhavi for Knee Pain Treatment",
     description:
@@ -12197,7 +12197,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Care"],
       description:
         "Advanced meniscus repair surgery in Nagarabhavi for knee pain, sports injuries, meniscus tears, ligament injuries, and other knee-related conditions using minimally invasive techniques.",
@@ -12286,7 +12286,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
     title:
       "Best Rotator Cuff Repair Surgery in Nagarabhavi for Shoulder Pain Relief",
     description:
@@ -12298,7 +12298,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
         "Advanced rotator cuff repair surgery in Nagarabhavi for treating shoulder pain, rotator cuff tears, sports injuries, and mobility issues using minimally invasive techniques.",
@@ -12387,7 +12387,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
     title:
       "Best Shoulder Instability Surgery in Nagarabhavi for Advanced Shoulder Care",
     description:
@@ -12399,7 +12399,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
         "Expert shoulder instability surgery in Nagarabhavi for recurrent shoulder dislocation, ligament injuries, labral tears, and shoulder joint instability using advanced surgical techniques.",
@@ -12488,7 +12488,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
     title: "Best Hip Arthroscopy Surgery in Nagarabhavi for Advanced Hip Care",
     description:
       "Consult an expert for hip arthroscopy surgery in Nagarabhavi to treat hip pain, labral tears, impingement, and joint issues with minimally invasive techniques.",
@@ -12499,7 +12499,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Hip Care"],
       description:
         "Advanced hip arthroscopy surgery in Nagarabhavi for treating hip pain, labral tears, femoroacetabular impingement (FAI), cartilage damage, and other hip joint conditions using minimally invasive techniques.",
@@ -12588,7 +12588,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-care-in-nagarabhavi",
     title: "Best Spine Care in Nagarabhavi for Back & Neck Pain Treatment",
     description:
       "Get expert spine care in Nagarabhavi for back pain, neck pain, slipped disc, and sciatica. Advanced diagnosis and non-surgical & surgical spine treatments available.",
@@ -12599,7 +12599,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-care-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Comprehensive spine care in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spine-related conditions with advanced treatments.",
@@ -12688,7 +12688,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
     title:
       "Best Trauma Surgery Treatment in Nagarabhavi for Emergency Orthopedic Care",
     description:
@@ -12700,7 +12700,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
         "Advanced trauma surgery treatment in Nagarabhavi for fractures, dislocations, accident injuries, ligament tears, and complex orthopedic trauma with modern surgical techniques.",
@@ -12789,7 +12789,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-nagarabhavi",
     title:
       "Best ENT Specialist in Nagarabhavi for Advanced Ear, Nose & Throat Care",
     description:
@@ -12801,7 +12801,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-nagarabhavi",
       medicalSpecialty: ["Otolaryngology", "ENT Care"],
       description:
         "Providing expert ENT care in Nagarabhavi for conditions like sinusitis, ear infections, hearing loss, throat infections, tonsillitis, nasal blockage, and allergies with advanced treatment options.",
@@ -12890,7 +12890,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
     title: "Best ENT Doctor in Nagarabhavi for Expert Ear, Nose & Throat Care",
     description:
       "Consult the best ENT doctor in Nagarabhavi for expert treatment of ear, nose, and throat conditions including sinusitis, hearing loss, throat infections, and allergies.",
@@ -12901,7 +12901,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
         "Providing advanced ENT care in Nagarabhavi for ear infections, sinus problems, throat disorders, hearing loss, allergies, and other ENT conditions with expert diagnosis and treatment.",
@@ -12990,7 +12990,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
     title: "Best Micro Ear Surgery in Nagarabhavi for Advanced ENT Care",
     description:
       "Consult expert ENT specialists for Micro Ear Surgery in Nagarabhavi to treat hearing loss, ear infections, eardrum perforation, and other ear conditions with advanced surgical techniques.",
@@ -13001,7 +13001,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
         "Advanced Micro Ear Surgery in Nagarabhavi for treating hearing loss, chronic ear infections, eardrum perforation, cholesteatoma, and other ear-related conditions with precision techniques.",
@@ -13090,7 +13090,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
     title:
       "Best Vertigo Treatment in Nagarabhavi for Dizziness & Balance Disorders",
     description:
@@ -13102,7 +13102,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Neurology"],
       description:
         "Advanced vertigo treatment in Nagarabhavi for dizziness, spinning sensation, BPPV, vestibular disorders, and inner ear problems with accurate diagnosis and effective care.",
@@ -13191,7 +13191,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
     title:
       "Best Pediatric ENT Care in Nagarabhavi for Children’s Ear, Nose & Throat Health",
     description:
@@ -13203,7 +13203,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
       medicalSpecialty: ["Pediatric ENT", "Otolaryngology"],
       description:
         "Expert pediatric ENT care in Nagarabhavi for children with ear infections, tonsillitis, adenoid issues, sinusitis, hearing loss, and other ENT conditions using advanced treatments.",
@@ -13292,7 +13292,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
     title: "Best Spine Doctor in Govindaraj Nagar – Expert Spine Care",
     description:
       "Consult an experienced spine doctor in Govindaraj Nagar for back pain, slip disc, sciatica, neck pain, and complete spine care.",
@@ -13303,10 +13303,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
+      url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -13385,7 +13385,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
     title: "Advanced Spine Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced spine surgery in Govindaraj Nagar for disc problems, spinal stenosis, nerve compression, and long-term pain relief.",
@@ -13403,9 +13403,9 @@ export const metaData = [
       provider: {
         "@type": "MedicalClinic",
         name: "Brunda Advanced Orthopaedics & ENT Centre",
-        url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
+        url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
-        email: "brundaspecialistclinic@gmail.com",
+        email: "brundaadvance@gmail.com",
       },
       description:
         "Advanced spine surgery in Govindaraj Nagar for severe spinal disorders, herniated discs, and nerve compression.",
@@ -13454,7 +13454,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
     title: "Best Spine Surgeries in Govindaraj Nagar – Precision Treatment",
     description:
       "Explore advanced spine surgeries in Govindaraj Nagar for chronic back pain, disc disorders, stenosis, and spinal nerve compression.",
@@ -13470,7 +13470,7 @@ export const metaData = [
       provider: {
         "@type": "MedicalClinic",
         name: "Brunda Advanced Orthopaedics & ENT Centre",
-        url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
+        url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
       },
       description:
         "Comprehensive spine surgeries in Govindaraj Nagar for disc issues, spinal instability, deformities, and nerve problems.",
@@ -13560,7 +13560,7 @@ export const metaData = [
   },
 
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
     title: "Best Orthopaedic Surgeon in Govindaraj Nagar – Expert Care",
     description:
       "Consult an orthopaedic surgeon in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and surgical treatment.",
@@ -13573,13 +13573,13 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#physician",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#physician",
           name: "Orthopaedic Surgeon in Govindaraj Nagar",
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
+            url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
           },
           description:
             "Expert orthopaedic surgical care in Govindaraj Nagar for fractures, arthritis, trauma, sports injuries, and joint disorders.",
@@ -13587,7 +13587,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -13675,7 +13675,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-govindaraj-nagar",
     title: "Best Orthopaedic Doctor in Govindaraj Nagar – Bone Care",
     description:
       "Meet an experienced orthopaedic doctor in Govindaraj Nagar for bone pain, fractures, sports injuries, arthritis, and joint care.",
@@ -13778,7 +13778,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
     title: "Best Orthopaedic Clinic in Govindaraj Nagar – Joint Treatment",
     description:
       "Visit an orthopaedic clinic in Govindaraj Nagar for expert care in fractures, joint pain, sports injuries, arthritis, and rehabilitation.",
@@ -13791,11 +13791,11 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#clinic",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
           telephone: "+91-9632371211",
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
           medicalSpecialty: ["Orthopedic"],
           description:
             "Orthopaedic clinic in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and post-treatment rehabilitation.",
@@ -13803,7 +13803,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -13891,7 +13891,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-govindaraj-nagar",
     title: "Best Orthopaedic Specialist in Govindaraj Nagar – Bone Care",
     description:
       "Consult an orthopaedic specialist in Govindaraj Nagar for arthritis, fractures, sports injuries, ligament tears, and joint disorders.",
@@ -13954,7 +13954,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar",
     title: "Best Bone Specialist Doctor in Govindaraj Nagar – Expert Care",
     description:
       "Get expert consultation from a bone specialist doctor in Govindaraj Nagar for fractures, osteoporosis, bone pain, and joint problems.",
@@ -13967,7 +13967,7 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#doctor",
+            "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#doctor",
           name: "Bone Specialist Doctor in Govindaraj Nagar",
           medicalSpecialty: "Orthopedic",
           worksFor: {
@@ -13980,7 +13980,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -14068,7 +14068,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
     title: "Best Bone and Joint Clinic in Govindaraj Nagar – Advanced Care",
     description:
       "Visit a bone and joint clinic in Govindaraj Nagar for arthritis, fractures, ligament injuries, bone pain, and comprehensive joint care.",
@@ -14081,9 +14081,9 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#clinic",
+            "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic"],
           description:
             "Bone and joint clinic in Govindaraj Nagar for arthritis, fractures, sports injuries, joint pain, and orthopedic treatment.",
@@ -14091,7 +14091,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -14179,7 +14179,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-govindaraj-nagar",
     title: "Best Knee Replacement Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced knee replacement surgery in Govindaraj Nagar for severe arthritis, joint damage, chronic knee pain, and improved mobility.",
@@ -14283,7 +14283,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
     title: "Robotic Knee Replacement in Govindaraj Nagar – Precision Care",
     description:
       "Choose robotic knee replacement in Govindaraj Nagar for precision-guided surgery, improved implant alignment, and faster recovery.",
@@ -14296,19 +14296,19 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#procedure",
           name: "Robotic Knee Replacement in Govindaraj Nagar",
           procedureType: "Robotic Surgical",
           bodyLocation: "Knee",
-          url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
           description:
             "Robotic knee replacement in Govindaraj Nagar for precision-guided knee surgery, better implant positioning, and improved recovery outcomes.",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaspecialistclinic@gmail.com",
+            email: "brundaadvance@gmail.com",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -14322,7 +14322,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -14410,7 +14410,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-govindaraj-nagar",
     title: "Best Hip Replacement Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced hip replacement surgery in Govindaraj Nagar for hip arthritis, severe pain, stiffness, and improved movement.",
@@ -14514,7 +14514,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-govindaraj-nagar",
     title: "Best Shoulder Replacement Surgery in Govindaraj Nagar",
     description:
       "Consult specialists for shoulder replacement surgery in Govindaraj Nagar for arthritis, severe pain, reduced mobility, and joint damage.",
@@ -14618,7 +14618,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar",
     title: "Best Joint Replacement Surgeon in Govindaraj Nagar",
     description:
       "Meet the best joint replacement surgeon in Govindaraj Nagar for knee, hip, and shoulder replacement with advanced surgical care.",
@@ -14631,7 +14631,7 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#physician",
+            "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#physician",
           name: "Best Joint Replacement Surgeon in Govindaraj Nagar",
           medicalSpecialty: "Orthopedic",
           worksFor: {
@@ -14644,7 +14644,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -14732,7 +14732,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
     title: "Advanced Arthroplasty Surgeries in Govindaraj Nagar",
     description:
       "Get advanced arthroplasty surgeries in Govindaraj Nagar for knee, hip, and shoulder joint damage with expert orthopedic care.",
@@ -14745,7 +14745,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#procedure",
           name: "Arthroplasty Surgeries in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Joints",
@@ -14754,15 +14754,15 @@ export const metaData = [
           provider: {
             "@type": "MedicalClinic",
             "@id":
-              "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#clinic",
+              "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#clinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
+            url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
           },
         },
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -14850,7 +14850,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar",
     title: "Best Arthroscopic Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Choose arthroscopic surgery in Govindaraj Nagar for ligament tears, cartilage injuries, sports injuries, and minimally invasive joint care.",
@@ -14863,7 +14863,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#procedure",
           name: "Arthroscopic Surgery in Govindaraj Nagar",
           procedureType: "Minimally Invasive Surgical",
           bodyLocation: "Joints",
@@ -14877,7 +14877,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -14965,7 +14965,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
     title: "Best ACL Treatment in Govindaraj Nagar – Knee Ligament Care",
     description:
       "Get expert ACL treatment in Govindaraj Nagar for ligament tears, knee instability, sports injuries, and recovery-focused care.",
@@ -14978,19 +14978,19 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#procedure",
           name: "ACL Treatment in Govindaraj Nagar",
           procedureType: "Medical and Surgical",
           bodyLocation: "Knee",
-          url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
           description:
             "ACL treatment in Govindaraj Nagar for knee ligament injuries, instability, sports-related trauma, and recovery-focused care.",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaspecialistclinic@gmail.com",
+            email: "brundaadvance@gmail.com",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -15004,7 +15004,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -15092,7 +15092,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar",
     title: "Advanced ACL Repair in Govindaraj Nagar – Expert Knee Care",
     description:
       "Consult specialists for ACL repair in Govindaraj Nagar for ligament tears, knee instability, sports injuries, and active recovery.",
@@ -15105,7 +15105,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar#procedure",
           name: "ACL Repair in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Knee",
@@ -15119,7 +15119,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -15207,7 +15207,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
     title: "Best PCL Repair in Govindaraj Nagar – Knee Ligament Care",
     description:
       "Get expert PCL repair in Govindaraj Nagar for posterior knee ligament injuries, instability, and advanced orthopedic treatment.",
@@ -15220,14 +15220,14 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#procedure",
           name: "PCL Repair in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
+            url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
           },
           description:
             "PCL repair in Govindaraj Nagar for posterior cruciate ligament injuries causing instability and knee dysfunction.",
@@ -15235,7 +15235,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -15323,7 +15323,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar",
     title: "Best Meniscus Repair Surgery in Govindaraj Nagar",
     description:
       "Consult specialists for meniscus repair surgery in Govindaraj Nagar for cartilage tears, knee locking, sports injuries, and pain relief.",
@@ -15336,14 +15336,14 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#procedure",
           name: "Meniscus Repair Surgery in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
           },
           description:
             "Meniscus repair surgery in Govindaraj Nagar for knee cartilage tears, locking, swelling, and sports-related injury.",
@@ -15351,7 +15351,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -15439,7 +15439,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-govindaraj-nagar",
     title: "Best Rotator Cuff Repair Surgery in Govindaraj Nagar",
     description:
       "Get expert rotator cuff repair surgery in Govindaraj Nagar for shoulder tears, pain, weakness, and improved arm movement.",
@@ -15543,7 +15543,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-govindaraj-nagar",
     title: "Best Shoulder Instability Surgery in Govindaraj Nagar",
     description:
       "Choose shoulder instability surgery in Govindaraj Nagar for repeated dislocations, instability, shoulder pain, and improved joint support.",
@@ -15647,7 +15647,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar",
     title: "Best Hip Arthroscopy Surgery in Govindaraj Nagar",
     description:
       "Get advanced hip arthroscopy surgery in Govindaraj Nagar for hip pain, labral tears, impingement, and minimally invasive care.",
@@ -15660,7 +15660,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#procedure",
           name: "Hip Arthroscopy Surgery in Govindaraj Nagar",
           procedureType: "Minimally Invasive Surgical",
           bodyLocation: "Hip",
@@ -15674,7 +15674,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -15762,7 +15762,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar",
     title: "Best Spine Care in Govindaraj Nagar – Back & Neck Relief",
     description:
       "Get complete spine care in Govindaraj Nagar for back pain, neck pain, sciatica, disc problems, and long-term relief.",
@@ -15775,9 +15775,9 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar#clinic",
+            "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic", "Spine Care"],
           description:
             "Complete spine care in Govindaraj Nagar for back pain, neck pain, sciatica, and disc-related conditions.",
@@ -15785,7 +15785,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -15873,7 +15873,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar",
     title: "Best Trauma Surgery Treatment in Govindaraj Nagar",
     description:
       "Get trauma surgery treatment in Govindaraj Nagar for fractures, accident injuries, dislocations, and advanced orthopedic emergency care.",
@@ -15886,7 +15886,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#procedure",
           name: "Trauma Surgery Treatment in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Bones and Joints",
@@ -15900,7 +15900,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -15988,7 +15988,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-govindaraj-nagar",
     title: "Best ENT Specialist in Govindaraj Nagar – Expert ENT Care",
     description:
       "Consult an ENT specialist in Govindaraj Nagar for sinus, ear pain, throat issues, allergies, infections, and complete ENT treatment.",
@@ -16091,7 +16091,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar",
     title: "Best ENT Doctor in Govindaraj Nagar – Ear Nose Throat Care",
     description:
       "Meet the best ENT doctor in Govindaraj Nagar for sinusitis, ear pain, throat infections, vertigo, and allergy treatment.",
@@ -16104,7 +16104,7 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#doctor",
+            "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#doctor",
           name: "Best ENT Doctor in Govindaraj Nagar",
           medicalSpecialty: "Otolaryngologic",
           worksFor: {
@@ -16117,7 +16117,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -16205,7 +16205,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar",
     title: "Best Micro Ear Surgery in Govindaraj Nagar – Hearing Care",
     description:
       "Get expert micro ear surgery in Govindaraj Nagar for chronic ear infections, hearing problems, eardrum issues, and advanced treatment.",
@@ -16218,14 +16218,14 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#procedure",
           name: "Micro Ear Surgery in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Ear",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
           },
           description:
             "Micro ear surgery in Govindaraj Nagar for chronic ear disease, eardrum issues, hearing loss, and middle ear conditions.",
@@ -16233,7 +16233,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -16321,7 +16321,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
     title: "Best Vertigo Treatment in Govindaraj Nagar – Dizziness Relief",
     description:
       "Get effective vertigo treatment in Govindaraj Nagar for dizziness, balance problems, spinning sensation, and ENT-based evaluation.",
@@ -16334,9 +16334,9 @@ export const metaData = [
         {
           "@type": "MedicalTherapy",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#therapy",
+            "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#therapy",
           name: "Vertigo Treatment in Govindaraj Nagar",
-          url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
           relevantSpecialty: "Otolaryngologic",
           recognizingAuthority: {
             "@type": "MedicalClinic",
@@ -16348,7 +16348,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -16436,7 +16436,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
     title: "Best Pediatric ENT Care in Govindaraj Nagar – Child ENT Care",
     description:
       "Consult specialists for pediatric ENT care in Govindaraj Nagar for ear infections, tonsils, sinus issues, hearing concerns, and child-friendly treatment.",
@@ -16447,7 +16447,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
+      url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
       medicalSpecialty: ["Otolaryngologic", "Pediatric"],
       description:
         "Pediatric ENT care in Govindaraj Nagar for ear infections, tonsils, sinusitis, allergies, hearing issues, and throat problems in children.",
@@ -16536,7 +16536,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-nagarabhavi",
     title: "Best Spine Doctor in Nagarabhavi for Advanced Spine Care",
     description:
       "Consult an expert spine doctor in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, and spine-related conditions with personalized treatment plans.",
@@ -16547,7 +16547,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Pioneering spine care in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spinal disorders with personalized treatment.",
@@ -16636,7 +16636,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-nagarabhavi",
     title: "Best Spine Surgery in Nagarabhavi for Advanced Spine Treatment",
     description:
       "Consult an expert spine surgeon in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, and spine-related conditions with advanced surgical treatments.",
@@ -16647,7 +16647,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Pioneering spine surgery in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spinal disorders with advanced surgical techniques.",
@@ -16736,7 +16736,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
     title: "Best Spine Surgeries in Nagarabhavi for Advanced Spine Treatment",
     description:
       "Consult an expert spine surgeon in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, and spine-related conditions with advanced surgical treatments.",
@@ -16747,7 +16747,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Pioneering spine surgery in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spinal disorders with advanced surgical techniques.",
@@ -16836,7 +16836,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
     title:
       "Best Orthopaedic Surgeon in Nagarabhavi for Advanced Bone & Joint Care",
     description:
@@ -16848,7 +16848,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Expert orthopaedic care in Nagarabhavi for fractures, arthritis, joint pain, sports injuries, and spine conditions with advanced treatment options.",
@@ -16929,7 +16929,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
     title: "Best Orthopaedic Doctor in Nagarabhavi for Bone & Joint Care",
     description:
       "Consult the best orthopaedic doctor in Nagarabhavi for bone, joint, and muscle problems including fractures, arthritis, sports injuries, and advanced orthopaedic treatments.",
@@ -16940,7 +16940,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Expert orthopaedic care in Nagarabhavi for fractures, joint pain, arthritis, sports injuries, spine disorders, and musculoskeletal conditions with advanced treatment options.",
@@ -17029,7 +17029,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
     title:
       "Best Orthopaedic Clinic in Nagarabhavi for Advanced Bone & Joint Care",
     description:
@@ -17041,7 +17041,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Leading orthopaedic clinic in Nagarabhavi offering advanced treatment for fractures, arthritis, joint pain, sports injuries, spine problems, and musculoskeletal disorders.",
@@ -17130,7 +17130,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
     title: "Best Orthopaedic Specialist in Nagarabhavi for Bone & Joint Care",
     description:
       "Consult an experienced orthopaedic specialist in Nagarabhavi for bone, joint, ligament, and muscle conditions including fractures, arthritis, and sports injuries with advanced treatment options.",
@@ -17141,7 +17141,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Expert orthopaedic care in Nagarabhavi for fractures, arthritis, joint pain, sports injuries, ligament tears, and musculoskeletal disorders using advanced diagnostic and treatment techniques.",
@@ -17230,7 +17230,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
     title:
       "Best Bone and Joint Clinic in Nagarabhavi for Advanced Orthopedic Care",
     description:
@@ -17242,7 +17242,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Providing advanced orthopedic care in Nagarabhavi for bone fractures, joint pain, arthritis, sports injuries, and other musculoskeletal conditions with expert specialists.",
@@ -17331,7 +17331,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
     title:
       "Best Knee Replacement Surgery in Nagarabhavi for Advanced Joint Care",
     description:
@@ -17343,7 +17343,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced knee replacement surgery in Nagarabhavi for arthritis, knee pain, ligament damage, and joint degeneration using modern surgical techniques for improved mobility.",
@@ -17432,7 +17432,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
     title:
       "Best Robotic Knee Replacement in Nagarabhavi for Advanced Joint Care",
     description:
@@ -17444,7 +17444,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced robotic knee replacement in Nagarabhavi for knee arthritis, joint damage, and chronic knee pain with precision technology and expert care.",
@@ -17533,7 +17533,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
     title:
       "Best Hip Replacement Surgery in Nagarabhavi for Advanced Joint Care",
     description:
@@ -17545,7 +17545,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced hip replacement surgery in Nagarabhavi for hip pain, arthritis, joint damage, fractures, and mobility issues using modern surgical techniques.",
@@ -17634,7 +17634,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
     title:
       "Best Shoulder Replacement Surgery in Nagarabhavi for Advanced Joint Care",
     description:
@@ -17646,7 +17646,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced shoulder replacement surgery in Nagarabhavi for shoulder pain, arthritis, rotator cuff tears, fractures, and joint degeneration using modern surgical techniques.",
@@ -17735,7 +17735,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
     title:
       "Best Joint Replacement Surgeon in Nagarabhavi for Advanced Joint Care",
     description:
@@ -17747,7 +17747,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Expert joint replacement surgeon in Nagarabhavi providing advanced knee, hip, and shoulder replacement surgeries for arthritis, injury, and joint degeneration.",
@@ -17836,7 +17836,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
     title:
       "Best Arthroplasty Surgeries in Nagarabhavi for Joint Replacement Care",
     description:
@@ -17848,7 +17848,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced arthroplasty surgeries in Nagarabhavi for knee, hip, and shoulder joint conditions including arthritis, joint damage, and mobility issues using modern surgical techniques.",
@@ -17937,7 +17937,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
     title: "Best Arthroscopic Surgery in Nagarabhavi for Advanced Joint Care",
     description:
       "Consult an expert arthroscopic surgeon in Nagarabhavi for knee, shoulder, and joint problems with minimally invasive procedures and faster recovery.",
@@ -17948,7 +17948,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Arthroscopy"],
       description:
         "Advanced arthroscopic surgery in Nagarabhavi for knee pain, ligament injuries, shoulder problems, cartilage damage, and sports injuries using minimally invasive techniques.",
@@ -18037,7 +18037,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-nagarabhavi",
     title: "Best ACL Treatment in Nagarabhavi for Knee Injury Care",
     description:
       "Consult expert doctors for ACL treatment in Nagarabhavi. Get advanced care for ligament injuries, knee pain, sports injuries, and ACL reconstruction surgery.",
@@ -18048,7 +18048,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Injury"],
       description:
         "Advanced ACL treatment in Nagarabhavi for knee ligament injuries, sports injuries, ACL tears, instability, and pain with surgical and non-surgical options.",
@@ -18137,7 +18137,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/acl-repair-in-nagarabhavi",
     title: "Best ACL Repair in Nagarabhavi for Advanced Knee Treatment",
     description:
       "Consult an expert orthopedic surgeon in Nagarabhavi for ACL injury, knee ligament tears, sports injuries, and advanced ACL repair treatments with modern surgical techniques.",
@@ -18148,7 +18148,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/acl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Medicine"],
       description:
         "Advanced ACL repair in Nagarabhavi for knee ligament injuries, sports injuries, instability, and knee pain using minimally invasive arthroscopic techniques.",
@@ -18237,7 +18237,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-nagarabhavi",
     title:
       "Best PCL Repair in Nagarabhavi for Advanced Knee Ligament Treatment",
     description:
@@ -18249,7 +18249,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Ligament Surgery"],
       description:
         "Expert PCL repair in Nagarabhavi for posterior cruciate ligament injuries, knee instability, sports injuries, and advanced arthroscopic knee treatments.",
@@ -18338,7 +18338,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
     title:
       "Best Meniscus Repair Surgery in Nagarabhavi for Knee Pain Treatment",
     description:
@@ -18350,7 +18350,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Care"],
       description:
         "Advanced meniscus repair surgery in Nagarabhavi for knee pain, sports injuries, meniscus tears, ligament injuries, and other knee-related conditions using minimally invasive techniques.",
@@ -18439,7 +18439,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
     title:
       "Best Rotator Cuff Repair Surgery in Nagarabhavi for Shoulder Pain Relief",
     description:
@@ -18451,7 +18451,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
         "Advanced rotator cuff repair surgery in Nagarabhavi for treating shoulder pain, rotator cuff tears, sports injuries, and mobility issues using minimally invasive techniques.",
@@ -18540,7 +18540,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
     title:
       "Best Shoulder Instability Surgery in Nagarabhavi for Advanced Shoulder Care",
     description:
@@ -18552,7 +18552,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
         "Expert shoulder instability surgery in Nagarabhavi for recurrent shoulder dislocation, ligament injuries, labral tears, and shoulder joint instability using advanced surgical techniques.",
@@ -18641,7 +18641,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
     title: "Best Hip Arthroscopy Surgery in Nagarabhavi for Advanced Hip Care",
     description:
       "Consult an expert for hip arthroscopy surgery in Nagarabhavi to treat hip pain, labral tears, impingement, and joint issues with minimally invasive techniques.",
@@ -18652,7 +18652,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Hip Care"],
       description:
         "Advanced hip arthroscopy surgery in Nagarabhavi for treating hip pain, labral tears, femoroacetabular impingement (FAI), cartilage damage, and other hip joint conditions using minimally invasive techniques.",
@@ -18741,7 +18741,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-care-in-nagarabhavi",
     title: "Best Spine Care in Nagarabhavi for Back & Neck Pain Treatment",
     description:
       "Get expert spine care in Nagarabhavi for back pain, neck pain, slipped disc, and sciatica. Advanced diagnosis and non-surgical & surgical spine treatments available.",
@@ -18752,7 +18752,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-care-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Comprehensive spine care in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spine-related conditions with advanced treatments.",
@@ -18841,7 +18841,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
     title:
       "Best Trauma Surgery Treatment in Nagarabhavi for Emergency Orthopedic Care",
     description:
@@ -18853,7 +18853,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
         "Advanced trauma surgery treatment in Nagarabhavi for fractures, dislocations, accident injuries, ligament tears, and complex orthopedic trauma with modern surgical techniques.",
@@ -18942,7 +18942,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-nagarabhavi",
     title:
       "Best ENT Specialist in Nagarabhavi for Advanced Ear, Nose & Throat Care",
     description:
@@ -18954,7 +18954,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-nagarabhavi",
       medicalSpecialty: ["Otolaryngology", "ENT Care"],
       description:
         "Providing expert ENT care in Nagarabhavi for conditions like sinusitis, ear infections, hearing loss, throat infections, tonsillitis, nasal blockage, and allergies with advanced treatment options.",
@@ -19043,7 +19043,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
     title: "Best ENT Doctor in Nagarabhavi for Expert Ear, Nose & Throat Care",
     description:
       "Consult the best ENT doctor in Nagarabhavi for expert treatment of ear, nose, and throat conditions including sinusitis, hearing loss, throat infections, and allergies.",
@@ -19054,7 +19054,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
         "Providing advanced ENT care in Nagarabhavi for ear infections, sinus problems, throat disorders, hearing loss, allergies, and other ENT conditions with expert diagnosis and treatment.",
@@ -19143,7 +19143,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
     title: "Best Micro Ear Surgery in Nagarabhavi for Advanced ENT Care",
     description:
       "Consult expert ENT specialists for Micro Ear Surgery in Nagarabhavi to treat hearing loss, ear infections, eardrum perforation, and other ear conditions with advanced surgical techniques.",
@@ -19154,7 +19154,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
         "Advanced Micro Ear Surgery in Nagarabhavi for treating hearing loss, chronic ear infections, eardrum perforation, cholesteatoma, and other ear-related conditions with precision techniques.",
@@ -19243,7 +19243,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
     title:
       "Best Vertigo Treatment in Nagarabhavi for Dizziness & Balance Disorders",
     description:
@@ -19255,7 +19255,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Neurology"],
       description:
         "Advanced vertigo treatment in Nagarabhavi for dizziness, spinning sensation, BPPV, vestibular disorders, and inner ear problems with accurate diagnosis and effective care.",
@@ -19344,7 +19344,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
     title:
       "Best Pediatric ENT Care in Nagarabhavi for Children’s Ear, Nose & Throat Health",
     description:
@@ -19356,7 +19356,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
       medicalSpecialty: ["Pediatric ENT", "Otolaryngology"],
       description:
         "Expert pediatric ENT care in Nagarabhavi for children with ear infections, tonsillitis, adenoid issues, sinusitis, hearing loss, and other ENT conditions using advanced treatments.",
@@ -19445,7 +19445,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-maruthi-mandir",
     title: "Best Spine Doctor in Maruthi Mandir for Advanced Spine Care",
     description:
       "Consult the best spine doctor in Maruthi Mandir for back pain, sciatica, slipped disc, and advanced non-surgical and surgical spine treatments.",
@@ -19456,7 +19456,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Expert spine care in Maruthi Mandir for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spine-related conditions with advanced diagnosis and treatment.",
@@ -19545,7 +19545,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-maruthi-mandir",
     title: "Best Spine Surgery in Maruthi Mandir for Advanced Spine Treatment",
     description:
       "Get advanced spine surgery in Maruthi Mandir for slipped disc, sciatica, nerve compression, and spinal disorders with minimally invasive techniques.",
@@ -19556,7 +19556,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Surgery"],
       description:
         "Advanced spine surgery in Maruthi Mandir for slipped disc, spinal stenosis, nerve compression, and degenerative spine conditions using modern minimally invasive techniques.",
@@ -19645,7 +19645,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-maruthi-mandir",
     title: "Advanced Spine Surgeries in Maruthi Mandir for Complete Spine Care",
     description:
       "Get advanced spine surgeries in Maruthi Mandir for slipped disc, spinal stenosis, fractures, and nerve compression with modern minimally invasive techniques.",
@@ -19656,7 +19656,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Surgery"],
       description:
         "Comprehensive spine surgeries in Maruthi Mandir for disc prolapse, spinal deformities, fractures, nerve compression, and other spinal conditions using advanced techniques.",
@@ -19745,7 +19745,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-maruthi-mandir",
     title:
       "Best Orthopaedic Surgeon in Maruthi Mandir for Advanced Bone & Joint Care",
     description:
@@ -19757,7 +19757,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Advanced orthopaedic care in Maruthi Mandir for fractures, arthritis, ligament injuries, spine problems, and sports injuries with modern treatments and surgeries.",
@@ -19846,7 +19846,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-maruthi-mandir",
     title: "Best Orthopaedic Doctor in Maruthi Mandir for Joint Pain Relief",
     description:
       "Consult the best orthopaedic doctor in Maruthi Mandir for joint pain, arthritis, fractures, back pain, and advanced non-surgical treatments.",
@@ -19857,7 +19857,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Comprehensive orthopaedic care in Maruthi Mandir for joint pain, fractures, arthritis, back pain, and muscle injuries with advanced diagnosis and treatment.",
@@ -19946,7 +19946,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-maruthi-mandir",
     title:
       "Best Orthopaedic Clinic in Maruthi Mandir for Complete Bone & Joint Care",
     description:
@@ -19958,7 +19958,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Comprehensive orthopaedic clinic in Maruthi Mandir offering diagnosis, treatment, physiotherapy, and advanced surgical care for bone, joint, and musculoskeletal conditions.",
@@ -20047,7 +20047,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
     title:
       "Best Orthopaedic Specialist in Maruthi Mandir for Bone & Joint Care",
     description:
@@ -20059,7 +20059,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Advanced orthopaedic care in Maruthi Mandir for arthritis, fractures, ligament injuries, back pain, and musculoskeletal conditions with personalized treatment plans.",
@@ -20148,7 +20148,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-maruthi-mandir",
     title:
       "Best Bone Specialist Doctor in Maruthi Mandir for Bone & Joint Care",
     description:
@@ -20160,7 +20160,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
         "Comprehensive bone care in Maruthi Mandir for fractures, osteoporosis, arthritis, joint pain, and other bone-related conditions with advanced diagnosis and treatment.",
@@ -20249,7 +20249,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-maruthi-mandir",
     title: "Best Bone and Joint Clinic in Maruthi Mandir for Complete Care",
     description:
       "Visit the best bone and joint clinic in Maruthi Mandir for arthritis, fractures, joint pain, sports injuries, and advanced orthopaedic treatments.",
@@ -20260,7 +20260,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Bone & Joint Care"],
       description:
         "Comprehensive bone and joint clinic in Maruthi Mandir offering diagnosis, treatment, physiotherapy, and advanced surgical care for bone, joint, and musculoskeletal conditions.",
@@ -20349,7 +20349,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/spine-care-in-maruthi-mandir",
     title: "Best Spine Care in Maruthi Mandir for Back Pain & Spine Health",
     description:
       "Get advanced spine care in Maruthi Mandir for back pain, neck pain, sciatica, slipped disc, and complete spine health with expert treatment.",
@@ -20360,7 +20360,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/spine-care-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Comprehensive spine care in Maruthi Mandir for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spine-related conditions with advanced diagnosis and treatment.",
@@ -20449,7 +20449,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-maruthi-mandir",
     title: "Best Trauma Surgery Treatment in Maruthi Mandir for Complete Care",
     description:
       "Get advanced trauma surgery treatment in Maruthi Mandir for fractures, dislocations, soft tissue injuries, and post-accident care with expert surgical intervention.",
@@ -20460,7 +20460,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
         "Comprehensive trauma surgery treatment in Maruthi Mandir for fractures, dislocations, soft tissue injuries, joint damage, and other trauma-related conditions with advanced diagnosis and surgical intervention.",
@@ -20549,7 +20549,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-maruthi-mandir",
     title:
       "Best Knee Replacement Surgery in Maruthi Mandir for Complete Pain Relief",
     description:
@@ -20561,7 +20561,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Get advanced knee replacement surgery treatment in Maruthi Mandir for knee arthritis, joint pain, and other knee-related conditions.",
@@ -20650,7 +20650,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-maruthi-mandir",
     title:
       "Best Robotic Knee Replacement in Maruthi Mandir for Advanced Joint Care",
     description:
@@ -20662,7 +20662,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced robotic knee replacement surgery in Maruthi Mandir for knee arthritis, joint pain, and other knee-related conditions, ensuring precision and a faster recovery.",
@@ -20751,7 +20751,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-maruthi-mandir",
     title:
       "Best Hip Replacement Surgery in Maruthi Mandir for Pain-Free Mobility",
     description:
@@ -20763,7 +20763,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced hip replacement surgery in Maruthi Mandir for hip arthritis, joint pain, and hip deformities, ensuring precision and a faster recovery.",
@@ -20852,7 +20852,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
     title:
       "Best Shoulder Replacement Surgery in Maruthi Mandir for Pain-Free Movement",
     description:
@@ -20864,7 +20864,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced shoulder replacement surgery in Maruthi Mandir for shoulder arthritis, joint pain, and shoulder deformities, ensuring precision and a faster recovery.",
@@ -20953,7 +20953,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
     title:
       "Best Shoulder Replacement Surgery in Maruthi Mandir for Pain-Free Movement",
     description:
@@ -20965,7 +20965,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced shoulder replacement surgery in Maruthi Mandir for shoulder arthritis, joint pain, and shoulder deformities, ensuring precision and a faster recovery.",
@@ -21054,7 +21054,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
     title: "Advanced Arthroplasty Surgeries in Maruthi Mandir for Joint Care",
     description:
       "Get advanced arthroplasty surgeries in Maruthi Mandir for hip, knee, and shoulder joint replacement with expert surgical care, faster recovery, and improved mobility.",
@@ -21065,7 +21065,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced arthroplasty surgeries in Maruthi Mandir for joint replacement, including hip, knee, and shoulder, ensuring effective pain relief, mobility restoration, and long-term results.",
@@ -21162,7 +21162,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
     title: "Advanced Arthroplasty Surgeries in Maruthi Mandir for Joint Care",
     description:
       "Get advanced arthroplasty surgeries in Maruthi Mandir for hip, knee, and shoulder joint replacement with expert surgical care, faster recovery, and improved mobility.",
@@ -21173,7 +21173,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced arthroplasty surgeries in Maruthi Mandir for joint replacement, including hip, knee, and shoulder, ensuring effective pain relief, mobility restoration, and long-term results.",
@@ -21270,7 +21270,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
     title: "Best ACL Treatment in Maruthi Mandir for Faster Recovery",
     description:
       "Get advanced ACL treatment in Maruthi Mandir for knee stability, pain relief, and quicker recovery. Trust our expert orthopaedic care for faster results and improved mobility.",
@@ -21281,7 +21281,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "ACL Treatment"],
       description:
         "Advanced ACL treatment in Maruthi Mandir, including non-surgical and surgical options for knee recovery and rehabilitation to help you regain stability and mobility.",
@@ -21378,7 +21378,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
     title: "Best ACL Treatment in Maruthi Mandir for Faster Recovery",
     description:
       "Get advanced ACL treatment in Maruthi Mandir for knee stability, pain relief, and quicker recovery. Trust our expert orthopaedic care for faster results and improved mobility.",
@@ -21389,7 +21389,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "ACL Treatment"],
       description:
         "Advanced ACL treatment in Maruthi Mandir, including non-surgical and surgical options for knee recovery and rehabilitation to help you regain stability and mobility.",
@@ -21486,7 +21486,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-maruthi-mandir",
     title: "Best PCL Repair in Maruthi Mandir for Knee Injury Recovery",
     description:
       "Get advanced PCL repair in Maruthi Mandir for knee stability, pain relief, and quicker recovery. Trust our expert orthopaedic care for faster results and improved mobility.",
@@ -21497,7 +21497,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "PCL Repair"],
       description:
         "Advanced PCL repair in Maruthi Mandir, including non-surgical and surgical options for knee recovery and rehabilitation to help you regain stability and mobility.",
@@ -21594,7 +21594,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-maruthi-mandir",
     title:
       "Best Meniscus Repair Surgery in Maruthi Mandir for Knee Pain Relief",
     description:
@@ -21606,7 +21606,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Meniscus Repair"],
       description:
         "Advanced Meniscus Repair Surgery in Maruthi Mandir, including non-surgical and surgical options for knee recovery and rehabilitation to help you regain stability and mobility.",
@@ -21695,7 +21695,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-maruthi-mandir",
     title:
       "Best Rotator Cuff Repair Surgery in Maruthi Mandir for Shoulder Pain Relief",
     description:
@@ -21707,7 +21707,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Rotator Cuff Repair"],
       description:
         "Advanced Rotator Cuff Repair Surgery in Maruthi Mandir, including non-surgical and surgical options for shoulder recovery and rehabilitation to help you regain stability and mobility.",
@@ -21796,7 +21796,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-maruthi-mandir",
     title:
       "Best Shoulder Instability Surgery in Maruthi Mandir for Shoulder Pain Relief",
     description:
@@ -21808,7 +21808,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-maruthi-mandir",
       medicalSpecialty: [
         "Orthopedic",
         "Shoulder Surgery",
@@ -21901,7 +21901,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-maruthi-mandir",
     title:
       "Best Hip Arthroscopy Surgery in Maruthi Mandir for Joint Pain Relief",
     description:
@@ -21913,7 +21913,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Hip Surgery", "Hip Arthroscopy"],
       description:
         "Advanced Hip Arthroscopy Surgery in Maruthi Mandir for treating hip joint pain, restoring mobility, and ensuring faster recovery with expert care.",
@@ -22002,7 +22002,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
     title:
       "Best Orthopaedic Specialist in Maruthi Mandir for Bone & Joint Care",
     description:
@@ -22014,7 +22014,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-maruthi-mandir",
       medicalSpecialty: [
         "Orthopedics",
         "Bone & Joint Care",
@@ -22091,7 +22091,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-maruthi-mandir",
     title:
       "Best ENT Doctor in Maruthi Mandir for Comprehensive Ear, Nose & Throat Care",
     description:
@@ -22103,7 +22103,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-maruthi-mandir",
       medicalSpecialty: [
         "ENT",
         "Ear, Nose & Throat Care",
@@ -22196,7 +22196,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-maruthi-mandir",
     title:
       "Best Micro Ear Surgery in Maruthi Mandir for Advanced Hearing Solutions",
     description:
@@ -22208,7 +22208,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-maruthi-mandir",
       medicalSpecialty: ["ENT", "Ear Care", "Micro Ear Surgery"],
       description:
         "Consult the Best Micro Ear Surgery Specialist in Maruthi Mandir for effective treatment of hearing loss, ear infections, and ear canal disorders.",
@@ -22297,7 +22297,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-maruthi-mandir",
     title: "Best Vertigo Treatment in Maruthi Mandir for Effective Relief",
     description:
       "Get expert vertigo treatment in Maruthi Mandir for dizziness, spinning sensation, balance problems, and inner ear-related disorders with accurate diagnosis and care.",
@@ -22309,7 +22309,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalTherapy",
       name: "Vertigo Treatment in Maruthi Mandir",
-      url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-maruthi-mandir",
       relevantSpecialty: "Otolaryngologic",
       description:
         "Vertigo treatment in Maruthi Mandir for dizziness, spinning sensation, imbalance, and inner ear-related balance disorders.",
@@ -22369,7 +22369,7 @@ export const metaData = [
     link: "/vertigo-treatment-in-maruthi-mandir",
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-maruthi-mandir",
     title:
       "Best Pediatric ENT Care in Maruthi Mandir for Children’s Ear, Nose & Throat Health",
     description:
@@ -22381,7 +22381,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-maruthi-mandir",
       medicalSpecialty: [
         "ENT",
         "Pediatric ENT",
@@ -22483,7 +22483,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
     title: "Best Spine Doctor in Govindaraj Nagar – Expert Spine Care",
     description:
       "Consult an experienced spine doctor in Govindaraj Nagar for back pain, slip disc, sciatica, neck pain, and complete spine care.",
@@ -22494,10 +22494,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
+      url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -22576,7 +22576,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
     title: "Advanced Spine Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced spine surgery in Govindaraj Nagar for disc problems, spinal stenosis, nerve compression, and long-term pain relief.",
@@ -22594,9 +22594,9 @@ export const metaData = [
       provider: {
         "@type": "MedicalClinic",
         name: "Brunda Advanced Orthopaedics & ENT Centre",
-        url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
+        url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
-        email: "brundaspecialistclinic@gmail.com",
+        email: "brundaadvance@gmail.com",
       },
       description:
         "Advanced spine surgery in Govindaraj Nagar for severe spinal disorders, herniated discs, and nerve compression.",
@@ -22645,7 +22645,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
     title: "Best Spine Surgeries in Govindaraj Nagar – Precision Treatment",
     description:
       "Explore advanced spine surgeries in Govindaraj Nagar for chronic back pain, disc disorders, stenosis, and spinal nerve compression.",
@@ -22661,7 +22661,7 @@ export const metaData = [
       provider: {
         "@type": "MedicalClinic",
         name: "Brunda Advanced Orthopaedics & ENT Centre",
-        url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
+        url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-govindaraj-nagar",
       },
       description:
         "Comprehensive spine surgeries in Govindaraj Nagar for disc issues, spinal instability, deformities, and nerve problems.",
@@ -22751,7 +22751,7 @@ export const metaData = [
   },
 
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
     title: "Best Orthopaedic Surgeon in Govindaraj Nagar – Expert Care",
     description:
       "Consult an orthopaedic surgeon in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and surgical treatment.",
@@ -22764,13 +22764,13 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#physician",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#physician",
           name: "Orthopaedic Surgeon in Govindaraj Nagar",
           medicalSpecialty: "Orthopedic",
           worksFor: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
+            url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar",
           },
           description:
             "Expert orthopaedic surgical care in Govindaraj Nagar for fractures, arthritis, trauma, sports injuries, and joint disorders.",
@@ -22778,7 +22778,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -22866,7 +22866,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-govindaraj-nagar",
     title: "Best Orthopaedic Doctor in Govindaraj Nagar – Bone Care",
     description:
       "Meet an experienced orthopaedic doctor in Govindaraj Nagar for bone pain, fractures, sports injuries, arthritis, and joint care.",
@@ -22969,7 +22969,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
     title: "Best Orthopaedic Clinic in Govindaraj Nagar – Joint Treatment",
     description:
       "Visit an orthopaedic clinic in Govindaraj Nagar for expert care in fractures, joint pain, sports injuries, arthritis, and rehabilitation.",
@@ -22982,11 +22982,11 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#clinic",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
           telephone: "+91-9632371211",
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
           medicalSpecialty: ["Orthopedic"],
           description:
             "Orthopaedic clinic in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and post-treatment rehabilitation.",
@@ -22994,7 +22994,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -23082,7 +23082,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-govindaraj-nagar",
     title: "Best Orthopaedic Specialist in Govindaraj Nagar – Bone Care",
     description:
       "Consult an orthopaedic specialist in Govindaraj Nagar for arthritis, fractures, sports injuries, ligament tears, and joint disorders.",
@@ -23145,7 +23145,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar",
     title: "Best Bone Specialist Doctor in Govindaraj Nagar – Expert Care",
     description:
       "Get expert consultation from a bone specialist doctor in Govindaraj Nagar for fractures, osteoporosis, bone pain, and joint problems.",
@@ -23158,7 +23158,7 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#doctor",
+            "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#doctor",
           name: "Bone Specialist Doctor in Govindaraj Nagar",
           medicalSpecialty: "Orthopedic",
           worksFor: {
@@ -23171,7 +23171,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -23259,7 +23259,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
     title: "Best Bone and Joint Clinic in Govindaraj Nagar – Advanced Care",
     description:
       "Visit a bone and joint clinic in Govindaraj Nagar for arthritis, fractures, ligament injuries, bone pain, and comprehensive joint care.",
@@ -23272,9 +23272,9 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#clinic",
+            "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic"],
           description:
             "Bone and joint clinic in Govindaraj Nagar for arthritis, fractures, sports injuries, joint pain, and orthopedic treatment.",
@@ -23282,7 +23282,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -23370,7 +23370,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-govindaraj-nagar",
     title: "Best Knee Replacement Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced knee replacement surgery in Govindaraj Nagar for severe arthritis, joint damage, chronic knee pain, and improved mobility.",
@@ -23474,7 +23474,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
     title: "Robotic Knee Replacement in Govindaraj Nagar – Precision Care",
     description:
       "Choose robotic knee replacement in Govindaraj Nagar for precision-guided surgery, improved implant alignment, and faster recovery.",
@@ -23487,19 +23487,19 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#procedure",
           name: "Robotic Knee Replacement in Govindaraj Nagar",
           procedureType: "Robotic Surgical",
           bodyLocation: "Knee",
-          url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar",
           description:
             "Robotic knee replacement in Govindaraj Nagar for precision-guided knee surgery, better implant positioning, and improved recovery outcomes.",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaspecialistclinic@gmail.com",
+            email: "brundaadvance@gmail.com",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -23513,7 +23513,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -23601,7 +23601,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-govindaraj-nagar",
     title: "Best Hip Replacement Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Get advanced hip replacement surgery in Govindaraj Nagar for hip arthritis, severe pain, stiffness, and improved movement.",
@@ -23705,7 +23705,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-govindaraj-nagar",
     title: "Best Shoulder Replacement Surgery in Govindaraj Nagar",
     description:
       "Consult specialists for shoulder replacement surgery in Govindaraj Nagar for arthritis, severe pain, reduced mobility, and joint damage.",
@@ -23809,7 +23809,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar",
     title: "Best Joint Replacement Surgeon in Govindaraj Nagar",
     description:
       "Meet the best joint replacement surgeon in Govindaraj Nagar for knee, hip, and shoulder replacement with advanced surgical care.",
@@ -23822,7 +23822,7 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#physician",
+            "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#physician",
           name: "Best Joint Replacement Surgeon in Govindaraj Nagar",
           medicalSpecialty: "Orthopedic",
           worksFor: {
@@ -23835,7 +23835,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -23923,7 +23923,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
     title: "Advanced Arthroplasty Surgeries in Govindaraj Nagar",
     description:
       "Get advanced arthroplasty surgeries in Govindaraj Nagar for knee, hip, and shoulder joint damage with expert orthopedic care.",
@@ -23936,7 +23936,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#procedure",
           name: "Arthroplasty Surgeries in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Joints",
@@ -23945,15 +23945,15 @@ export const metaData = [
           provider: {
             "@type": "MedicalClinic",
             "@id":
-              "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#clinic",
+              "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#clinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
+            url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar",
           },
         },
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -24041,7 +24041,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar",
     title: "Best Arthroscopic Surgery in Govindaraj Nagar – Expert Care",
     description:
       "Choose arthroscopic surgery in Govindaraj Nagar for ligament tears, cartilage injuries, sports injuries, and minimally invasive joint care.",
@@ -24054,7 +24054,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#procedure",
           name: "Arthroscopic Surgery in Govindaraj Nagar",
           procedureType: "Minimally Invasive Surgical",
           bodyLocation: "Joints",
@@ -24068,7 +24068,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -24156,7 +24156,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
     title: "Best ACL Treatment in Govindaraj Nagar – Knee Ligament Care",
     description:
       "Get expert ACL treatment in Govindaraj Nagar for ligament tears, knee instability, sports injuries, and recovery-focused care.",
@@ -24169,19 +24169,19 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#procedure",
           name: "ACL Treatment in Govindaraj Nagar",
           procedureType: "Medical and Surgical",
           bodyLocation: "Knee",
-          url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar",
           description:
             "ACL treatment in Govindaraj Nagar for knee ligament injuries, instability, sports-related trauma, and recovery-focused care.",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaspecialistclinic@gmail.com",
+            email: "brundaadvance@gmail.com",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -24195,7 +24195,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/acl-treatment-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -24283,7 +24283,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar",
     title: "Advanced ACL Repair in Govindaraj Nagar – Expert Knee Care",
     description:
       "Consult specialists for ACL repair in Govindaraj Nagar for ligament tears, knee instability, sports injuries, and active recovery.",
@@ -24296,7 +24296,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar#procedure",
           name: "ACL Repair in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Knee",
@@ -24310,7 +24310,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/acl-repair-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -24398,7 +24398,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
     title: "Best PCL Repair in Govindaraj Nagar – Knee Ligament Care",
     description:
       "Get expert PCL repair in Govindaraj Nagar for posterior knee ligament injuries, instability, and advanced orthopedic treatment.",
@@ -24411,14 +24411,14 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#procedure",
           name: "PCL Repair in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
+            url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar",
           },
           description:
             "PCL repair in Govindaraj Nagar for posterior cruciate ligament injuries causing instability and knee dysfunction.",
@@ -24426,7 +24426,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/pcl-repair-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -24514,7 +24514,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar",
     title: "Best Meniscus Repair Surgery in Govindaraj Nagar",
     description:
       "Consult specialists for meniscus repair surgery in Govindaraj Nagar for cartilage tears, knee locking, sports injuries, and pain relief.",
@@ -24527,14 +24527,14 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#procedure",
           name: "Meniscus Repair Surgery in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Knee",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
           },
           description:
             "Meniscus repair surgery in Govindaraj Nagar for knee cartilage tears, locking, swelling, and sports-related injury.",
@@ -24542,7 +24542,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -24630,7 +24630,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-govindaraj-nagar",
     title: "Best Rotator Cuff Repair Surgery in Govindaraj Nagar",
     description:
       "Get expert rotator cuff repair surgery in Govindaraj Nagar for shoulder tears, pain, weakness, and improved arm movement.",
@@ -24734,7 +24734,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-govindaraj-nagar",
     title: "Best Shoulder Instability Surgery in Govindaraj Nagar",
     description:
       "Choose shoulder instability surgery in Govindaraj Nagar for repeated dislocations, instability, shoulder pain, and improved joint support.",
@@ -24838,7 +24838,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar",
     title: "Best Hip Arthroscopy Surgery in Govindaraj Nagar",
     description:
       "Get advanced hip arthroscopy surgery in Govindaraj Nagar for hip pain, labral tears, impingement, and minimally invasive care.",
@@ -24851,7 +24851,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#procedure",
           name: "Hip Arthroscopy Surgery in Govindaraj Nagar",
           procedureType: "Minimally Invasive Surgical",
           bodyLocation: "Hip",
@@ -24865,7 +24865,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -24953,7 +24953,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar",
     title: "Best Spine Care in Govindaraj Nagar – Back & Neck Relief",
     description:
       "Get complete spine care in Govindaraj Nagar for back pain, neck pain, sciatica, disc problems, and long-term relief.",
@@ -24966,9 +24966,9 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar#clinic",
+            "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar",
           medicalSpecialty: ["Orthopedic", "Spine Care"],
           description:
             "Complete spine care in Govindaraj Nagar for back pain, neck pain, sciatica, and disc-related conditions.",
@@ -24976,7 +24976,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/spine-care-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -25064,7 +25064,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar",
     title: "Best Trauma Surgery Treatment in Govindaraj Nagar",
     description:
       "Get trauma surgery treatment in Govindaraj Nagar for fractures, accident injuries, dislocations, and advanced orthopedic emergency care.",
@@ -25077,7 +25077,7 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#procedure",
           name: "Trauma Surgery Treatment in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Bones and Joints",
@@ -25091,7 +25091,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -25179,7 +25179,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-govindaraj-nagar",
     title: "Best ENT Specialist in Govindaraj Nagar – Expert ENT Care",
     description:
       "Consult an ENT specialist in Govindaraj Nagar for sinus, ear pain, throat issues, allergies, infections, and complete ENT treatment.",
@@ -25282,7 +25282,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar",
     title: "Best ENT Doctor in Govindaraj Nagar – Ear Nose Throat Care",
     description:
       "Meet the best ENT doctor in Govindaraj Nagar for sinusitis, ear pain, throat infections, vertigo, and allergy treatment.",
@@ -25295,7 +25295,7 @@ export const metaData = [
         {
           "@type": "Physician",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#doctor",
+            "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#doctor",
           name: "Best ENT Doctor in Govindaraj Nagar",
           medicalSpecialty: "Otolaryngologic",
           worksFor: {
@@ -25308,7 +25308,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -25396,7 +25396,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar",
     title: "Best Micro Ear Surgery in Govindaraj Nagar – Hearing Care",
     description:
       "Get expert micro ear surgery in Govindaraj Nagar for chronic ear infections, hearing problems, eardrum issues, and advanced treatment.",
@@ -25409,14 +25409,14 @@ export const metaData = [
         {
           "@type": "MedicalProcedure",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#procedure",
+            "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#procedure",
           name: "Micro Ear Surgery in Govindaraj Nagar",
           procedureType: "Surgical",
           bodyLocation: "Ear",
           provider: {
             "@type": "MedicalClinic",
             name: "Brunda Advanced Orthopaedics & ENT Centre",
-            url: "https://www.brundaspecialistclinic.com/",
+            url: "https://www.brundasclinic.com/",
           },
           description:
             "Micro ear surgery in Govindaraj Nagar for chronic ear disease, eardrum issues, hearing loss, and middle ear conditions.",
@@ -25424,7 +25424,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -25512,7 +25512,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
     title: "Best Vertigo Treatment in Govindaraj Nagar – Dizziness Relief",
     description:
       "Get effective vertigo treatment in Govindaraj Nagar for dizziness, balance problems, spinning sensation, and ENT-based evaluation.",
@@ -25525,9 +25525,9 @@ export const metaData = [
         {
           "@type": "MedicalTherapy",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#therapy",
+            "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#therapy",
           name: "Vertigo Treatment in Govindaraj Nagar",
-          url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
+          url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar",
           relevantSpecialty: "Otolaryngologic",
           recognizingAuthority: {
             "@type": "MedicalClinic",
@@ -25539,7 +25539,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#faq",
+            "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-govindaraj-nagar#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -25627,7 +25627,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
+    url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
     title: "Best Pediatric ENT Care in Govindaraj Nagar – Child ENT Care",
     description:
       "Consult specialists for pediatric ENT care in Govindaraj Nagar for ear infections, tonsils, sinus issues, hearing concerns, and child-friendly treatment.",
@@ -25638,7 +25638,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
+      url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-govindaraj-nagar",
       medicalSpecialty: ["Otolaryngologic", "Pediatric"],
       description:
         "Pediatric ENT care in Govindaraj Nagar for ear infections, tonsils, sinusitis, allergies, hearing issues, and throat problems in children.",
@@ -25727,7 +25727,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-nagarabhavi",
     title: "Best Spine Doctor in Nagarabhavi for Advanced Spine Care",
     description:
       "Consult an expert spine doctor in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, and spine-related conditions with personalized treatment plans.",
@@ -25738,7 +25738,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Pioneering spine care in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spinal disorders with personalized treatment.",
@@ -25827,7 +25827,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-nagarabhavi",
     title: "Best Spine Surgery in Nagarabhavi for Advanced Spine Treatment",
     description:
       "Consult an expert spine surgeon in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, and spine-related conditions with advanced surgical treatments.",
@@ -25838,7 +25838,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Pioneering spine surgery in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spinal disorders with advanced surgical techniques.",
@@ -25927,7 +25927,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
     title: "Best Spine Surgeries in Nagarabhavi for Advanced Spine Treatment",
     description:
       "Consult an expert spine surgeon in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, and spine-related conditions with advanced surgical treatments.",
@@ -25938,7 +25938,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Pioneering spine surgery in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spinal disorders with advanced surgical techniques.",
@@ -26027,7 +26027,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
     title:
       "Best Orthopaedic Surgeon in Nagarabhavi for Advanced Bone & Joint Care",
     description:
@@ -26039,7 +26039,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Expert orthopaedic care in Nagarabhavi for fractures, arthritis, joint pain, sports injuries, and spine conditions with advanced treatment options.",
@@ -26120,7 +26120,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
     title: "Best Orthopaedic Doctor in Nagarabhavi for Bone & Joint Care",
     description:
       "Consult the best orthopaedic doctor in Nagarabhavi for bone, joint, and muscle problems including fractures, arthritis, sports injuries, and advanced orthopaedic treatments.",
@@ -26131,7 +26131,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Expert orthopaedic care in Nagarabhavi for fractures, joint pain, arthritis, sports injuries, spine disorders, and musculoskeletal conditions with advanced treatment options.",
@@ -26220,7 +26220,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
     title:
       "Best Orthopaedic Clinic in Nagarabhavi for Advanced Bone & Joint Care",
     description:
@@ -26232,7 +26232,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Leading orthopaedic clinic in Nagarabhavi offering advanced treatment for fractures, arthritis, joint pain, sports injuries, spine problems, and musculoskeletal disorders.",
@@ -26321,7 +26321,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
     title: "Best Orthopaedic Specialist in Nagarabhavi for Bone & Joint Care",
     description:
       "Consult an experienced orthopaedic specialist in Nagarabhavi for bone, joint, ligament, and muscle conditions including fractures, arthritis, and sports injuries with advanced treatment options.",
@@ -26332,7 +26332,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Expert orthopaedic care in Nagarabhavi for fractures, arthritis, joint pain, sports injuries, ligament tears, and musculoskeletal disorders using advanced diagnostic and treatment techniques.",
@@ -26421,7 +26421,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
     title:
       "Best Bone and Joint Clinic in Nagarabhavi for Advanced Orthopedic Care",
     description:
@@ -26433,7 +26433,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/bone-and-joint-clinic-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Providing advanced orthopedic care in Nagarabhavi for bone fractures, joint pain, arthritis, sports injuries, and other musculoskeletal conditions with expert specialists.",
@@ -26522,7 +26522,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
     title:
       "Best Knee Replacement Surgery in Nagarabhavi for Advanced Joint Care",
     description:
@@ -26534,7 +26534,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced knee replacement surgery in Nagarabhavi for arthritis, knee pain, ligament damage, and joint degeneration using modern surgical techniques for improved mobility.",
@@ -26623,7 +26623,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
     title:
       "Best Robotic Knee Replacement in Nagarabhavi for Advanced Joint Care",
     description:
@@ -26635,7 +26635,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced robotic knee replacement in Nagarabhavi for knee arthritis, joint damage, and chronic knee pain with precision technology and expert care.",
@@ -26724,7 +26724,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
     title:
       "Best Hip Replacement Surgery in Nagarabhavi for Advanced Joint Care",
     description:
@@ -26736,7 +26736,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced hip replacement surgery in Nagarabhavi for hip pain, arthritis, joint damage, fractures, and mobility issues using modern surgical techniques.",
@@ -26825,7 +26825,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
     title:
       "Best Shoulder Replacement Surgery in Nagarabhavi for Advanced Joint Care",
     description:
@@ -26837,7 +26837,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced shoulder replacement surgery in Nagarabhavi for shoulder pain, arthritis, rotator cuff tears, fractures, and joint degeneration using modern surgical techniques.",
@@ -26926,7 +26926,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
     title:
       "Best Joint Replacement Surgeon in Nagarabhavi for Advanced Joint Care",
     description:
@@ -26938,7 +26938,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Expert joint replacement surgeon in Nagarabhavi providing advanced knee, hip, and shoulder replacement surgeries for arthritis, injury, and joint degeneration.",
@@ -27027,7 +27027,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
     title:
       "Best Arthroplasty Surgeries in Nagarabhavi for Joint Replacement Care",
     description:
@@ -27039,7 +27039,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/arthroplasty-surgeries-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Joint Replacement"],
       description:
         "Advanced arthroplasty surgeries in Nagarabhavi for knee, hip, and shoulder joint conditions including arthritis, joint damage, and mobility issues using modern surgical techniques.",
@@ -27128,7 +27128,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
     title: "Best Arthroscopic Surgery in Nagarabhavi for Advanced Joint Care",
     description:
       "Consult an expert arthroscopic surgeon in Nagarabhavi for knee, shoulder, and joint problems with minimally invasive procedures and faster recovery.",
@@ -27139,7 +27139,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/arthroscopic-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Arthroscopy"],
       description:
         "Advanced arthroscopic surgery in Nagarabhavi for knee pain, ligament injuries, shoulder problems, cartilage damage, and sports injuries using minimally invasive techniques.",
@@ -27228,7 +27228,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-nagarabhavi",
     title: "Best ACL Treatment in Nagarabhavi for Knee Injury Care",
     description:
       "Consult expert doctors for ACL treatment in Nagarabhavi. Get advanced care for ligament injuries, knee pain, sports injuries, and ACL reconstruction surgery.",
@@ -27239,7 +27239,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/acl-treatment-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/acl-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Injury"],
       description:
         "Advanced ACL treatment in Nagarabhavi for knee ligament injuries, sports injuries, ACL tears, instability, and pain with surgical and non-surgical options.",
@@ -27328,7 +27328,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/acl-repair-in-nagarabhavi",
     title: "Best ACL Repair in Nagarabhavi for Advanced Knee Treatment",
     description:
       "Consult an expert orthopedic surgeon in Nagarabhavi for ACL injury, knee ligament tears, sports injuries, and advanced ACL repair treatments with modern surgical techniques.",
@@ -27339,7 +27339,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/acl-repair-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/acl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Sports Medicine"],
       description:
         "Advanced ACL repair in Nagarabhavi for knee ligament injuries, sports injuries, instability, and knee pain using minimally invasive arthroscopic techniques.",
@@ -27428,7 +27428,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-nagarabhavi",
     title:
       "Best PCL Repair in Nagarabhavi for Advanced Knee Ligament Treatment",
     description:
@@ -27440,7 +27440,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pcl-repair-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/pcl-repair-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Ligament Surgery"],
       description:
         "Expert PCL repair in Nagarabhavi for posterior cruciate ligament injuries, knee instability, sports injuries, and advanced arthroscopic knee treatments.",
@@ -27529,7 +27529,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
     title:
       "Best Meniscus Repair Surgery in Nagarabhavi for Knee Pain Treatment",
     description:
@@ -27541,7 +27541,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/meniscus-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Knee Care"],
       description:
         "Advanced meniscus repair surgery in Nagarabhavi for knee pain, sports injuries, meniscus tears, ligament injuries, and other knee-related conditions using minimally invasive techniques.",
@@ -27630,7 +27630,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
     title:
       "Best Rotator Cuff Repair Surgery in Nagarabhavi for Shoulder Pain Relief",
     description:
@@ -27642,7 +27642,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/rotator-cuff-repair-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
         "Advanced rotator cuff repair surgery in Nagarabhavi for treating shoulder pain, rotator cuff tears, sports injuries, and mobility issues using minimally invasive techniques.",
@@ -27731,7 +27731,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
     title:
       "Best Shoulder Instability Surgery in Nagarabhavi for Advanced Shoulder Care",
     description:
@@ -27743,7 +27743,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/shoulder-instability-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Shoulder Care"],
       description:
         "Expert shoulder instability surgery in Nagarabhavi for recurrent shoulder dislocation, ligament injuries, labral tears, and shoulder joint instability using advanced surgical techniques.",
@@ -27832,7 +27832,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
     title: "Best Hip Arthroscopy Surgery in Nagarabhavi for Advanced Hip Care",
     description:
       "Consult an expert for hip arthroscopy surgery in Nagarabhavi to treat hip pain, labral tears, impingement, and joint issues with minimally invasive techniques.",
@@ -27843,7 +27843,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/hip-arthroscopy-surgery-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Hip Care"],
       description:
         "Advanced hip arthroscopy surgery in Nagarabhavi for treating hip pain, labral tears, femoroacetabular impingement (FAI), cartilage damage, and other hip joint conditions using minimally invasive techniques.",
@@ -27932,7 +27932,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/spine-care-in-nagarabhavi",
     title: "Best Spine Care in Nagarabhavi for Back & Neck Pain Treatment",
     description:
       "Get expert spine care in Nagarabhavi for back pain, neck pain, slipped disc, and sciatica. Advanced diagnosis and non-surgical & surgical spine treatments available.",
@@ -27943,7 +27943,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/spine-care-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Comprehensive spine care in Nagarabhavi for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spine-related conditions with advanced treatments.",
@@ -28032,7 +28032,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
     title:
       "Best Trauma Surgery Treatment in Nagarabhavi for Emergency Orthopedic Care",
     description:
@@ -28044,7 +28044,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
         "Advanced trauma surgery treatment in Nagarabhavi for fractures, dislocations, accident injuries, ligament tears, and complex orthopedic trauma with modern surgical techniques.",
@@ -28133,7 +28133,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-nagarabhavi",
     title:
       "Best ENT Specialist in Nagarabhavi for Advanced Ear, Nose & Throat Care",
     description:
@@ -28145,7 +28145,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/ent-specialist-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/ent-specialist-in-nagarabhavi",
       medicalSpecialty: ["Otolaryngology", "ENT Care"],
       description:
         "Providing expert ENT care in Nagarabhavi for conditions like sinusitis, ear infections, hearing loss, throat infections, tonsillitis, nasal blockage, and allergies with advanced treatment options.",
@@ -28234,7 +28234,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
     title: "Best ENT Doctor in Nagarabhavi for Expert Ear, Nose & Throat Care",
     description:
       "Consult the best ENT doctor in Nagarabhavi for expert treatment of ear, nose, and throat conditions including sinusitis, hearing loss, throat infections, and allergies.",
@@ -28245,7 +28245,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/best-ent-doctor-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
         "Providing advanced ENT care in Nagarabhavi for ear infections, sinus problems, throat disorders, hearing loss, allergies, and other ENT conditions with expert diagnosis and treatment.",
@@ -28334,7 +28334,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
     title: "Best Micro Ear Surgery in Nagarabhavi for Advanced ENT Care",
     description:
       "Consult expert ENT specialists for Micro Ear Surgery in Nagarabhavi to treat hearing loss, ear infections, eardrum perforation, and other ear conditions with advanced surgical techniques.",
@@ -28345,7 +28345,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/micro-ear-surgery-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Otolaryngology"],
       description:
         "Advanced Micro Ear Surgery in Nagarabhavi for treating hearing loss, chronic ear infections, eardrum perforation, cholesteatoma, and other ear-related conditions with precision techniques.",
@@ -28434,7 +28434,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
     title:
       "Best Vertigo Treatment in Nagarabhavi for Dizziness & Balance Disorders",
     description:
@@ -28446,7 +28446,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/vertigo-treatment-in-nagarabhavi",
       medicalSpecialty: ["ENT", "Neurology"],
       description:
         "Advanced vertigo treatment in Nagarabhavi for dizziness, spinning sensation, BPPV, vestibular disorders, and inner ear problems with accurate diagnosis and effective care.",
@@ -28535,7 +28535,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
     title:
       "Best Pediatric ENT Care in Nagarabhavi for Children’s Ear, Nose & Throat Health",
     description:
@@ -28547,7 +28547,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/pediatric-ent-care-in-nagarabhavi",
       medicalSpecialty: ["Pediatric ENT", "Otolaryngology"],
       description:
         "Expert pediatric ENT care in Nagarabhavi for children with ear infections, tonsillitis, adenoid issues, sinusitis, hearing loss, and other ENT conditions using advanced treatments.",
@@ -28636,7 +28636,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/spine-doctor-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/spine-doctor-in-maruthi-mandir",
     title: "Best Spine Doctor in Maruthi Mandir for Advanced Spine Care",
     description:
       "Consult the best spine doctor in Maruthi Mandir for back pain, sciatica, slipped disc, and advanced non-surgical and surgical spine treatments.",
@@ -28647,7 +28647,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/spine-doctor-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/spine-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Expert spine care in Maruthi Mandir for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spine-related conditions with advanced diagnosis and treatment.",
@@ -28736,7 +28736,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/spine-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/spine-surgery-in-maruthi-mandir",
     title: "Best Spine Surgery in Maruthi Mandir for Advanced Spine Treatment",
     description:
       "Get advanced spine surgery in Maruthi Mandir for slipped disc, sciatica, nerve compression, and spinal disorders with minimally invasive techniques.",
@@ -28747,7 +28747,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/spine-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/spine-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Surgery"],
       description:
         "Advanced spine surgery in Maruthi Mandir for slipped disc, spinal stenosis, nerve compression, and degenerative spine conditions using modern minimally invasive techniques.",
@@ -28836,7 +28836,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/spine-surgeries-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/spine-surgeries-in-maruthi-mandir",
     title: "Advanced Spine Surgeries in Maruthi Mandir for Complete Spine Care",
     description:
       "Get advanced spine surgeries in Maruthi Mandir for slipped disc, spinal stenosis, fractures, and nerve compression with modern minimally invasive techniques.",
@@ -28847,7 +28847,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/spine-surgeries-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/spine-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Surgery"],
       description:
         "Comprehensive spine surgeries in Maruthi Mandir for disc prolapse, spinal deformities, fractures, nerve compression, and other spinal conditions using advanced techniques.",
@@ -28936,7 +28936,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/orthopaedic-surgeon-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/orthopaedic-surgeon-in-maruthi-mandir",
     title:
       "Best Orthopaedic Surgeon in Maruthi Mandir for Advanced Bone & Joint Care",
     description:
@@ -28948,7 +28948,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/orthopaedic-surgeon-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/orthopaedic-surgeon-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Advanced orthopaedic care in Maruthi Mandir for fractures, arthritis, ligament injuries, spine problems, and sports injuries with modern treatments and surgeries.",
@@ -29037,7 +29037,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/orthopaedic-doctor-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/orthopaedic-doctor-in-maruthi-mandir",
     title: "Best Orthopaedic Doctor in Maruthi Mandir for Joint Pain Relief",
     description:
       "Consult the best orthopaedic doctor in Maruthi Mandir for joint pain, arthritis, fractures, back pain, and advanced non-surgical treatments.",
@@ -29048,7 +29048,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/orthopaedic-doctor-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/orthopaedic-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Comprehensive orthopaedic care in Maruthi Mandir for joint pain, fractures, arthritis, back pain, and muscle injuries with advanced diagnosis and treatment.",
@@ -29137,7 +29137,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/orthopaedic-clinic-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/orthopaedic-clinic-in-maruthi-mandir",
     title:
       "Best Orthopaedic Clinic in Maruthi Mandir for Complete Bone & Joint Care",
     description:
@@ -29149,7 +29149,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/orthopaedic-clinic-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/orthopaedic-clinic-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Comprehensive orthopaedic clinic in Maruthi Mandir offering diagnosis, treatment, physiotherapy, and advanced surgical care for bone, joint, and musculoskeletal conditions.",
@@ -29238,7 +29238,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/orthopaedic-specialist-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/orthopaedic-specialist-in-maruthi-mandir",
     title:
       "Best Orthopaedic Specialist in Maruthi Mandir for Bone & Joint Care",
     description:
@@ -29250,7 +29250,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/orthopaedic-specialist-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/orthopaedic-specialist-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Care"],
       description:
         "Advanced orthopaedic care in Maruthi Mandir for arthritis, fractures, ligament injuries, back pain, and musculoskeletal conditions with personalized treatment plans.",
@@ -29339,7 +29339,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/bone-specialist-doctor-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/bone-specialist-doctor-in-maruthi-mandir",
     title:
       "Best Bone Specialist Doctor in Maruthi Mandir for Bone & Joint Care",
     description:
@@ -29351,7 +29351,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/bone-specialist-doctor-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/bone-specialist-doctor-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
         "Comprehensive bone care in Maruthi Mandir for fractures, osteoporosis, arthritis, joint pain, and other bone-related conditions with advanced diagnosis and treatment.",
@@ -29440,7 +29440,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/bone-and-joint-clinic-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/bone-and-joint-clinic-in-maruthi-mandir",
     title: "Best Bone and Joint Clinic in Maruthi Mandir for Complete Care",
     description:
       "Visit the best bone and joint clinic in Maruthi Mandir for arthritis, fractures, joint pain, sports injuries, and advanced orthopaedic treatments.",
@@ -29451,7 +29451,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/bone-and-joint-clinic-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/bone-and-joint-clinic-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Bone & Joint Care"],
       description:
         "Comprehensive bone and joint clinic in Maruthi Mandir offering diagnosis, treatment, physiotherapy, and advanced surgical care for bone, joint, and musculoskeletal conditions.",
@@ -29540,7 +29540,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/spine-care-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/spine-care-in-maruthi-mandir",
     title: "Best Spine Care in Maruthi Mandir for Back Pain & Spine Health",
     description:
       "Get advanced spine care in Maruthi Mandir for back pain, neck pain, sciatica, slipped disc, and complete spine health with expert treatment.",
@@ -29551,7 +29551,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/spine-care-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/spine-care-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Spine Care"],
       description:
         "Comprehensive spine care in Maruthi Mandir for back pain, neck pain, slipped disc, sciatica, spinal stenosis, and other spine-related conditions with advanced diagnosis and treatment.",
@@ -29640,7 +29640,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/trauma-surgery-treatment-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/trauma-surgery-treatment-in-maruthi-mandir",
     title: "Best Trauma Surgery Treatment in Maruthi Mandir for Complete Care",
     description:
       "Get advanced trauma surgery treatment in Maruthi Mandir for fractures, dislocations, soft tissue injuries, and post-accident care with expert surgical intervention.",
@@ -29651,7 +29651,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/trauma-surgery-treatment-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/trauma-surgery-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Trauma Surgery"],
       description:
         "Comprehensive trauma surgery treatment in Maruthi Mandir for fractures, dislocations, soft tissue injuries, joint damage, and other trauma-related conditions with advanced diagnosis and surgical intervention.",
@@ -29740,7 +29740,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/knee-replacement-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/knee-replacement-surgery-in-maruthi-mandir",
     title:
       "Best Knee Replacement Surgery in Maruthi Mandir for Complete Pain Relief",
     description:
@@ -29752,7 +29752,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/knee-replacement-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/knee-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Get advanced knee replacement surgery treatment in Maruthi Mandir for knee arthritis, joint pain, and other knee-related conditions.",
@@ -29841,7 +29841,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/robotic-knee-replacement-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/robotic-knee-replacement-in-maruthi-mandir",
     title:
       "Best Robotic Knee Replacement in Maruthi Mandir for Advanced Joint Care",
     description:
@@ -29853,7 +29853,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/robotic-knee-replacement-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/robotic-knee-replacement-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced robotic knee replacement surgery in Maruthi Mandir for knee arthritis, joint pain, and other knee-related conditions, ensuring precision and a faster recovery.",
@@ -29942,7 +29942,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/hip-replacement-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/hip-replacement-surgery-in-maruthi-mandir",
     title:
       "Best Hip Replacement Surgery in Maruthi Mandir for Pain-Free Mobility",
     description:
@@ -29954,7 +29954,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/hip-replacement-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/hip-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced hip replacement surgery in Maruthi Mandir for hip arthritis, joint pain, and hip deformities, ensuring precision and a faster recovery.",
@@ -30043,7 +30043,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
     title:
       "Best Shoulder Replacement Surgery in Maruthi Mandir for Pain-Free Movement",
     description:
@@ -30055,7 +30055,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced shoulder replacement surgery in Maruthi Mandir for shoulder arthritis, joint pain, and shoulder deformities, ensuring precision and a faster recovery.",
@@ -30144,7 +30144,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
     title:
       "Best Shoulder Replacement Surgery in Maruthi Mandir for Pain-Free Movement",
     description:
@@ -30156,7 +30156,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/shoulder-replacement-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced shoulder replacement surgery in Maruthi Mandir for shoulder arthritis, joint pain, and shoulder deformities, ensuring precision and a faster recovery.",
@@ -30245,7 +30245,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
     title: "Advanced Arthroplasty Surgeries in Maruthi Mandir for Joint Care",
     description:
       "Get advanced arthroplasty surgeries in Maruthi Mandir for hip, knee, and shoulder joint replacement with expert surgical care, faster recovery, and improved mobility.",
@@ -30256,7 +30256,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced arthroplasty surgeries in Maruthi Mandir for joint replacement, including hip, knee, and shoulder, ensuring effective pain relief, mobility restoration, and long-term results.",
@@ -30353,7 +30353,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
     title: "Advanced Arthroplasty Surgeries in Maruthi Mandir for Joint Care",
     description:
       "Get advanced arthroplasty surgeries in Maruthi Mandir for hip, knee, and shoulder joint replacement with expert surgical care, faster recovery, and improved mobility.",
@@ -30364,7 +30364,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced arthroplasty surgeries in Maruthi Mandir for joint replacement, including hip, knee, and shoulder, ensuring effective pain relief, mobility restoration, and long-term results.",
@@ -30461,7 +30461,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/acl-treatment-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/acl-treatment-in-maruthi-mandir",
     title: "Best ACL Treatment in Maruthi Mandir for Faster Recovery",
     description:
       "Get advanced ACL treatment in Maruthi Mandir for knee stability, pain relief, and quicker recovery. Trust our expert orthopaedic care for faster results and improved mobility.",
@@ -30472,7 +30472,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/acl-treatment-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/acl-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "ACL Treatment"],
       description:
         "Advanced ACL treatment in Maruthi Mandir, including non-surgical and surgical options for knee recovery and rehabilitation to help you regain stability and mobility.",
@@ -30569,7 +30569,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/acl-treatment-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/acl-treatment-in-maruthi-mandir",
     title: "Best ACL Treatment in Maruthi Mandir for Faster Recovery",
     description:
       "Get advanced ACL treatment in Maruthi Mandir for knee stability, pain relief, and quicker recovery. Trust our expert orthopaedic care for faster results and improved mobility.",
@@ -30580,7 +30580,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/acl-treatment-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/acl-treatment-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "ACL Treatment"],
       description:
         "Advanced ACL treatment in Maruthi Mandir, including non-surgical and surgical options for knee recovery and rehabilitation to help you regain stability and mobility.",
@@ -30677,7 +30677,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/pcl-repair-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/pcl-repair-in-maruthi-mandir",
     title: "Best PCL Repair in Maruthi Mandir for Knee Injury Recovery",
     description:
       "Get advanced PCL repair in Maruthi Mandir for knee stability, pain relief, and quicker recovery. Trust our expert orthopaedic care for faster results and improved mobility.",
@@ -30688,7 +30688,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/pcl-repair-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/pcl-repair-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "PCL Repair"],
       description:
         "Advanced PCL repair in Maruthi Mandir, including non-surgical and surgical options for knee recovery and rehabilitation to help you regain stability and mobility.",
@@ -30785,7 +30785,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/meniscus-repair-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/meniscus-repair-surgery-in-maruthi-mandir",
     title:
       "Best Meniscus Repair Surgery in Maruthi Mandir for Knee Pain Relief",
     description:
@@ -30797,7 +30797,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/meniscus-repair-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/meniscus-repair-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Meniscus Repair"],
       description:
         "Advanced Meniscus Repair Surgery in Maruthi Mandir, including non-surgical and surgical options for knee recovery and rehabilitation to help you regain stability and mobility.",
@@ -30886,7 +30886,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/rotator-cuff-repair-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/rotator-cuff-repair-surgery-in-maruthi-mandir",
     title:
       "Best Rotator Cuff Repair Surgery in Maruthi Mandir for Shoulder Pain Relief",
     description:
@@ -30898,7 +30898,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/rotator-cuff-repair-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/rotator-cuff-repair-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Rotator Cuff Repair"],
       description:
         "Advanced Rotator Cuff Repair Surgery in Maruthi Mandir, including non-surgical and surgical options for shoulder recovery and rehabilitation to help you regain stability and mobility.",
@@ -30987,7 +30987,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/shoulder-instability-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/shoulder-instability-surgery-in-maruthi-mandir",
     title:
       "Best Shoulder Instability Surgery in Maruthi Mandir for Shoulder Pain Relief",
     description:
@@ -30999,7 +30999,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/shoulder-instability-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/shoulder-instability-surgery-in-maruthi-mandir",
       medicalSpecialty: [
         "Orthopedic",
         "Shoulder Surgery",
@@ -31092,7 +31092,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/hip-arthroscopy-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/hip-arthroscopy-surgery-in-maruthi-mandir",
     title:
       "Best Hip Arthroscopy Surgery in Maruthi Mandir for Joint Pain Relief",
     description:
@@ -31104,7 +31104,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/hip-arthroscopy-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/hip-arthroscopy-surgery-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Hip Surgery", "Hip Arthroscopy"],
       description:
         "Advanced Hip Arthroscopy Surgery in Maruthi Mandir for treating hip joint pain, restoring mobility, and ensuring faster recovery with expert care.",
@@ -31193,7 +31193,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/orthopaedic-specialist-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/orthopaedic-specialist-in-maruthi-mandir",
     title:
       "Best Orthopaedic Specialist in Maruthi Mandir for Bone & Joint Care",
     description:
@@ -31205,7 +31205,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/orthopaedic-specialist-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/orthopaedic-specialist-in-maruthi-mandir",
       medicalSpecialty: [
         "Orthopedics",
         "Bone & Joint Care",
@@ -31282,7 +31282,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/best-ent-doctor-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/best-ent-doctor-in-maruthi-mandir",
     title:
       "Best ENT Doctor in Maruthi Mandir for Comprehensive Ear, Nose & Throat Care",
     description:
@@ -31294,7 +31294,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/best-ent-doctor-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/best-ent-doctor-in-maruthi-mandir",
       medicalSpecialty: [
         "ENT",
         "Ear, Nose & Throat Care",
@@ -31387,7 +31387,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/micro-ear-surgery-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/micro-ear-surgery-in-maruthi-mandir",
     title:
       "Best Micro Ear Surgery in Maruthi Mandir for Advanced Hearing Solutions",
     description:
@@ -31399,7 +31399,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/micro-ear-surgery-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/micro-ear-surgery-in-maruthi-mandir",
       medicalSpecialty: ["ENT", "Ear Care", "Micro Ear Surgery"],
       description:
         "Consult the Best Micro Ear Surgery Specialist in Maruthi Mandir for effective treatment of hearing loss, ear infections, and ear canal disorders.",
@@ -31568,7 +31568,7 @@ export const metaData = [
     link: "/vertigo-treatment-in-maruthi-mandir",
   },
   {
-    url: "https://www.brundaspecialistclinic.com/pediatric-ent-care-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/pediatric-ent-care-in-maruthi-mandir",
     title:
       "Best Pediatric ENT Care in Maruthi Mandir for Children’s Ear, Nose & Throat Health",
     description:
@@ -31580,7 +31580,7 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/pediatric-ent-care-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/pediatric-ent-care-in-maruthi-mandir",
       medicalSpecialty: [
         "ENT",
         "Pediatric ENT",
@@ -31682,7 +31682,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-moodalapalya",
     title: "Best Spine Doctor in Moodalapalya – Expert Spine Care",
     description:
       "Consult an experienced spine doctor in Moodalapalya for back pain, slip disc, sciatica, neck pain, and complete spine care.",
@@ -31693,10 +31693,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-doctor-in-moodalapalya",
+      url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-moodalapalya",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -31775,7 +31775,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-moodalapalya",
     title: "Best Spine Surgery in Moodalapalya – Advanced Spine Treatment",
     description:
       "Consult an experienced specialist for spine surgery in Moodalapalya for slip disc, sciatica, spinal stenosis, back pain, and advanced spine care.",
@@ -31786,10 +31786,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgery-in-moodalapalya",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-moodalapalya",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -31868,7 +31868,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-moodalapalya",
     title: "Best Spine Surgeries in Moodalapalya – Advanced Spine Care",
     description:
       "Consult an experienced specialist for spine surgeries in Moodalapalya for slip disc, sciatica, spinal stenosis, back pain, and advanced spine treatment.",
@@ -31879,10 +31879,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/spine-surgeries-in-moodalapalya",
+      url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-moodalapalya",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -31961,7 +31961,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-moodalapalya",
     title:
       "Best Orthopaedic Surgeon in Moodalapalya – Advanced Bone & Joint Care",
     description:
@@ -31973,10 +31973,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-surgeon-in-moodalapalya",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-moodalapalya",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32055,7 +32055,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-moodalapalya",
     title: "Best Orthopaedic Doctor in Moodalapalya – Joint Pain & Injury Care",
     description:
       "Consult an experienced orthopaedic doctor in Moodalapalya for joint pain, fractures, arthritis, ligament injuries, back pain, and complete bone and joint care.",
@@ -32066,10 +32066,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-doctor-in-moodalapalya",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-moodalapalya",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32148,7 +32148,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-moodalapalya",
     title:
       "Best Orthopaedic Clinic in Moodalapalya – Complete Bone & Joint Care",
     description:
@@ -32160,10 +32160,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-clinic-in-moodalapalya",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-moodalapalya",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32242,7 +32242,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-moodalapalya",
     title: "Best Orthopaedic Specialist in Moodalapalya – Bone & Joint Care",
     description:
       "Consult the best orthopaedic specialist in Moodalapalya for joint pain, arthritis, fractures, ligament injuries, back pain, and complete orthopaedic care.",
@@ -32253,10 +32253,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/orthopaedic-specialist-in-moodalapalya",
+      url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-moodalapalya",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32375,7 +32375,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
     title: "Best Bone Specialist Doctor in Moodalapalya – Bone & Joint Care",
     description:
       "Consult the best bone specialist doctor in Moodalapalya for fractures, osteoporosis, arthritis, joint pain, bone injuries, and complete bone care.",
@@ -32386,10 +32386,10 @@ export const metaData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
+      url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
       image:
-        "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaspecialistclinic@gmail.com",
+        "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
+      email: "brundaadvance@gmail.com",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32508,7 +32508,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
     title: "Best Bone Specialist Doctor in Moodalapalya – Bone & Joint Care",
     description:
       "Consult the best bone specialist doctor in Moodalapalya for fractures, osteoporosis, arthritis, joint pain, bone injuries, and complete bone care.",
@@ -32522,12 +32522,12 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya#clinic",
+            "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
+          url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
 
           address: {
@@ -32601,7 +32601,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya#faq",
+            "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -32698,7 +32698,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/spine-care-in-moodalapalya",
     title: "Best Spine Care in Moodalapalya – Back & Neck Pain Treatment",
     description:
       "Get the best spine care in Moodalapalya for back pain, neck pain, slip disc, sciatica, spinal stenosis, and complete spine treatment.",
@@ -32712,12 +32712,12 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-moodalapalya#clinic",
+            "https://www.brundasclinic.com/sitemap/spine-care-in-moodalapalya#clinic",
           name: "Brunda Advanced Orthopaedics & ENT Centre",
-          url: "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-moodalapalya",
+          url: "https://www.brundasclinic.com/sitemap/spine-care-in-moodalapalya",
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
-          email: "brundaspecialistclinic@gmail.com",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
+          email: "brundaadvance@gmail.com",
           telephone: "+91 96323 71211",
 
           address: {
@@ -32791,7 +32791,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/spine-care-in-moodalapalya#faq",
+            "https://www.brundasclinic.com/sitemap/spine-care-in-moodalapalya#faq",
           mainEntity: [
             {
               "@type": "Question",
@@ -32888,7 +32888,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya",
 
     title: "Best Trauma Surgery Treatment in Moodalapalya – Emergency Care",
 
@@ -32906,16 +32906,16 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya#clinic",
+            "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya#clinic",
 
           name: "Brunda Advanced Orthopaedics & ENT Centre",
 
-          url: "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya",
+          url: "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya",
 
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
 
           telephone: "+91 96323 71211",
 
@@ -32992,7 +32992,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya#faq",
+            "https://www.brundasclinic.com/sitemap/trauma-surgery-treatment-in-moodalapalya#faq",
 
           mainEntity: [
             {
@@ -33090,7 +33090,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya",
 
     title: "Best Knee Replacement Surgery in Moodalapalya – Pain Relief Care",
 
@@ -33108,16 +33108,16 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya#clinic",
+            "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya#clinic",
 
           name: "Brunda Advanced Orthopaedics & ENT Centre",
 
-          url: "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya",
+          url: "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya",
 
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
 
           telephone: "+91 96323 71211",
 
@@ -33194,7 +33194,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya#faq",
+            "https://www.brundasclinic.com/sitemap/knee-replacement-surgery-in-moodalapalya#faq",
 
           mainEntity: [
             {
@@ -33292,7 +33292,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya",
 
     title:
       "Best Robotic Knee Replacement in Moodalapalya – Advanced Precision Surgery",
@@ -33311,16 +33311,16 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya#clinic",
+            "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya#clinic",
 
           name: "Brunda Advanced Orthopaedics & ENT Centre",
 
-          url: "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya",
+          url: "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya",
 
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
 
           telephone: "+91 96323 71211",
 
@@ -33397,7 +33397,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya#faq",
+            "https://www.brundasclinic.com/sitemap/robotic-knee-replacement-in-moodalapalya#faq",
 
           mainEntity: [
             {
@@ -33495,7 +33495,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya",
 
     title: "Best Hip Replacement Surgery in Moodalapalya – Advanced Joint Care",
 
@@ -33513,16 +33513,16 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya#clinic",
+            "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya#clinic",
 
           name: "Brunda Advanced Orthopaedics & ENT Centre",
 
-          url: "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya",
+          url: "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya",
 
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
 
           telephone: "+91 96323 71211",
 
@@ -33599,7 +33599,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya#faq",
+            "https://www.brundasclinic.com/sitemap/hip-replacement-surgery-in-moodalapalya#faq",
 
           mainEntity: [
             {
@@ -33697,7 +33697,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya",
 
     title:
       "Best Shoulder Replacement Surgery in Moodalapalya – Advanced Joint Care",
@@ -33716,16 +33716,16 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya#clinic",
+            "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya#clinic",
 
           name: "Brunda Advanced Orthopaedics & ENT Centre",
 
-          url: "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya",
+          url: "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya",
 
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
 
           telephone: "+91 96323 71211",
 
@@ -33802,7 +33802,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya#faq",
+            "https://www.brundasclinic.com/sitemap/shoulder-replacement-surgery-in-moodalapalya#faq",
 
           mainEntity: [
             {
@@ -33900,7 +33900,7 @@ export const metaData = [
     },
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya",
+    url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya",
 
     title:
       "Best Joint Replacement Surgeon in Moodalapalya – Advanced Joint Care",
@@ -33919,16 +33919,16 @@ export const metaData = [
         {
           "@type": "MedicalClinic",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya#clinic",
+            "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya#clinic",
 
           name: "Brunda Advanced Orthopaedics & ENT Centre",
 
-          url: "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya",
+          url: "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya",
 
           image:
-            "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png",
+            "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaspecialistclinic@gmail.com",
+          email: "brundaadvance@gmail.com",
 
           telephone: "+91 96323 71211",
 
@@ -34005,7 +34005,7 @@ export const metaData = [
         {
           "@type": "FAQPage",
           "@id":
-            "https://www.brundaspecialistclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya#faq",
+            "https://www.brundasclinic.com/sitemap/best-joint-replacement-surgeon-in-moodalapalya#faq",
 
           mainEntity: [
             {

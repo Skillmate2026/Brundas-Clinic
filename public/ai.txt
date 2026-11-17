@@ -2,7 +2,7 @@
 # Version: 1.2
 # Last-Updated: 2026-03-04
 
-site: https://www.brundaspecialistclinic.com/
+site: https://www.brundasclinic.com/
 
 bots_allowed:
  name: GPTBot
@@ -24,11 +24,11 @@ rate_limits:
  requests_per_minute: 60
  burst: 120
 
-contact: brundaspecialistclinic@gmail.com
+contact: brundaadvance@gmail.com
 
 ai_crawling_priority_standards:
  sitemaps:
-  - https://www.brundaspecialistclinic.com/sitemap.xml
+  - https://www.brundasclinic.com/sitemap.xml
 
  priority_pages:
   - /
@@ -111,5 +111,5 @@ media_use:
  site-hosted images only; no redistribution allowed unless written permission granted.
 
 crawler_contact:
- Email: brundaspecialistclinic@gmail.com
+ Email: brundaadvance@gmail.com
 

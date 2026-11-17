@@ -429,7 +429,7 @@ export default function Specialties({
                 </span>
                 <span className="sp-doctor-btn">
                   <Link
-                    href="https://wa.link/sxr517"
+                    href="https://wa.me/919632371211"
                     style={{ color: "white" }}
                   >
                     {" "}
@@ -449,7 +449,7 @@ export default function Specialties({
               <p className="text-justify">
                 <strong>Dr. Meghana Janardhan</strong>, MS ENT, is a highly
                 experienced ENT surgeon known as one of the{" "}
-                <a href="https://www.brundaspecialistclinic.com/our-services/ent-services">
+                <a href="https://www.brundasclinic.com/our-services/ent-services">
                   Best ENT Specialists in Vijayanagar
                 </a>
                 . She provides expert diagnosis and treatment for a wide range
@@ -460,7 +460,7 @@ export default function Specialties({
               </p>
               <p className="text-justify">
                 As an experienced ENT surgeon,{" "}
-                <a href="https://www.brundaspecialistclinic.com/our-doctors/dr-meghana-janardhan">
+                <a href="https://www.brundasclinic.com/our-doctors/dr-meghana-janardhan">
                   Dr. Meghana Janardhan
                 </a>{" "}
                 is committed to delivering comprehensive Ear, Nose, and Throat
@@ -476,7 +476,7 @@ export default function Specialties({
               </h2>
               <p className="text-justify">
                 If you are looking for an experienced{" "}
-                <a href="https://www.brundaspecialistclinic.com/our-services/orthopaedic-services">
+                <a href="https://www.brundasclinic.com/our-services/orthopaedic-services">
                   Orthopaedic Surgeon in Vijayanagar
                 </a>
                 , <strong>Dr. Nagaraj M</strong> offers expert care for bone,
@@ -494,7 +494,7 @@ export default function Specialties({
               <p className="text-justify">
                 At <strong>Brunda Advanced Orthopaedics & ENT Centre</strong>, provides
                 comprehensive orthopaedic care using modern techniques{" "}
-                <a href="https://www.brundaspecialistclinic.com/our-doctors/dr-nagaraj-m">
+                <a href="https://www.brundasclinic.com/our-doctors/dr-nagaraj-m">
                   Dr. Nagaraj M
                 </a>
                 and patient-focused treatment plans. His expertise in{" "}

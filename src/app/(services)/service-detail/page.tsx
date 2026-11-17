@@ -189,8 +189,8 @@ function ServiceDetail() {
                         <Link href="tel:+11234567890">+1 123 456 7890</Link>
                       </div>
                       <div className="email">
-                        <Link href="mailto:brundaspecialistclinic@gmail.com">
-                          brundaspecialistclinic@gmail.com
+                        <Link href="mailto:brundaadvance@gmail.com">
+                          brundaadvance@gmail.com
                         </Link>
                       </div>
                       <div className="link-btn">

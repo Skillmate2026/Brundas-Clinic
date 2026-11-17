@@ -629,7 +629,7 @@ function Header() {
                   <ul className="header-right">
                     <li className="nav-item">
                       <Link
-                        href="https://wa.link/sxr517"
+                        href="https://wa.me/919632371211"
                         className="btn btn-primary btn-hover1"
                       >
                         Appointment

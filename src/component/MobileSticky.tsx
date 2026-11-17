@@ -125,7 +125,7 @@ const MobileSticky = () => {
 
         <div style={{ width: "25%" }}>
           <Link
-            href="https://wa.link/sxr517"
+            href="https://wa.me/919632371211"
             style={{
               display: "flex",
               alignItems: "center",

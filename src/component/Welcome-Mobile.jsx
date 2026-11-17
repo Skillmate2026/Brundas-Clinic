@@ -23,7 +23,7 @@ const WelcomeMobile = () => {
           data-wow-duration="0.8s"
         >
           <Link
-            href="https://wa.link/sxr517"
+            href="https://wa.me/919632371211"
             className="btn btn-lg btn-icon btn-secondary btn-shadow m-r30 mb-3 mb-sm-0"
           >
             Appointment
@@ -143,7 +143,7 @@ const WelcomeMobile = () => {
           data-wow-duration="0.8s"
         >
           At <strong>Brunda Advanced Orthopaedics & ENT Centre</strong>, known as the{" "}
-          <a href="https://www.brundaspecialistclinic.com/our-doctors/dr-nagaraj-m">
+          <a href="https://www.brundasclinic.com/our-doctors/dr-nagaraj-m">
             Best Orthopaedic Clinic in Vijayanagar
           </a>
           , we provide advanced ENT and orthopaedic care for patients of all

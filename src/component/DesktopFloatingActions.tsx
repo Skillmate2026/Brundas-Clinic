@@ -43,7 +43,7 @@ const DesktopFloatingActions = () => {
 
         {/* WhatsApp */}
         <a
-          href="https://wa.link/sxr517"
+          href="https://wa.me/919632371211"
           target="_blank"
           rel="noopener noreferrer"
           className="float-item bg-yellow"
@@ -69,7 +69,7 @@ const DesktopFloatingActions = () => {
         </a>
 
         {/* Appointment */}
-        <Link href="https://wa.link/sxr517" className="float-item bg-yellow">
+        <Link href="https://wa.me/919632371211" className="float-item bg-yellow">
           <Image
             src="/assets/flat-icons/appointment.png"
             alt="Appointment"

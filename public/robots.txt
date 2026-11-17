@@ -25,6 +25,6 @@ User-agent: CCBot
 Allow: /
 
 # --- Sitemap ---
-Sitemap: https://www.brundaspecialistclinic.com/sitemap.xml
+Sitemap: https://www.brundasclinic.com/sitemap.xml
 
 

@@ -3,7 +3,7 @@ import { usePathname } from "next/navigation";
 import { metaData } from "../utils/seoMetaData/metaData";
 import { serviceMetaData } from "../utils/seoMetaData/serviceMetaData";
 
-const SITE_URL = "https://www.brundaspecialistclinic.com";
+const SITE_URL = "https://www.brundasclinic.com";
 const seoEntries = [...metaData, ...serviceMetaData];
 
 const normalizeUrl = (url = "") => {

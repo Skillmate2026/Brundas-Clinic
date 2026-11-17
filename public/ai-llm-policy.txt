@@ -1,7 +1,7 @@
 # AI + LLM Unified Content Policy
 # Version: 2.0
 # Last Updated: 2026-03-05
-site: https://www.brundaspecialistclinic.com/
+site: https://www.brundasclinic.com/
 
 organization:
  name: Brunda Advanced Orthopaedics & ENT Centre
@@ -44,7 +44,7 @@ content_types:
 ai_citation_guidelines:
  preferred_name: Brunda Advanced Orthopaedics & ENT Centre
  preferred_reference: "Brunda Advanced Orthopaedics & ENT Centre — brundaspecialistclinic.com"
- citation_link: https://www.brundaspecialistclinic.com/
+ citation_link: https://www.brundasclinic.com/
 
 content_use_policy:
  allowed: short summaries with attribution
@@ -62,9 +62,9 @@ medical_compliance:
 
 crawl_priority:
  high:
-  - https://www.brundaspecialistclinic.com/
-  - https://www.brundaspecialistclinic.com/about
-  - https://www.brundaspecialistclinic.com/contact
+  - https://www.brundasclinic.com/
+  - https://www.brundasclinic.com/about
+  - https://www.brundasclinic.com/contact
 
  medium:
   - service pages
@@ -77,5 +77,5 @@ crawl_priority:
   - private directories
 
 contact:
- email: brundaspecialistclinic@gmail.com
+ email: brundaadvance@gmail.com
 

@@ -19,10 +19,10 @@ export const headerinfo = [
     title: "Email Supports",
     paragraph: (
       <Link
-        href="mailto:brundaspecialistclinic@gmail.com"
+        href="mailto:brundaadvance@gmail.com"
         className="text-white"
       >
-        brundaspecialistclinic@gmail.com
+        brundaadvance@gmail.com
       </Link>
     ),
   },
@@ -31,7 +31,7 @@ export const headerinfo = [
   //   title: "Online Appointment",
   //   paragraph: (
   //     <span>
-  //       <Link href="https://wa.link/sxr517" className="text-white">
+  //       <Link href="https://wa.me/919632371211" className="text-white">
   //         Book Now
   //       </Link>
   //       <i className="feather icon-arrow-right" />
@@ -44,7 +44,7 @@ export const headerinfo = [
     paragraph: (
       <span>
         <span className="text-white">Mon - Sat : 6:00 PM - 9:00 PM &ensp;</span>
-        <span className="text-white">Sun : Holiday</span>
+        <span className="text-white">Sun : 11:00 AM - 2:00 PM</span>
       </span>
     ),
   },
@@ -315,10 +315,10 @@ export const footerdata1 = [
     title: "Send us a Mail",
     paragraph: (
       <Link
-        href="mailto:brundaspecialistclinic@gmail.com"
+        href="mailto:brundaadvance@gmail.com"
         className="text-body"
       >
-        brundaspecialistclinic@gmail.com
+        brundaadvance@gmail.com
       </Link>
     ),
   },
@@ -326,7 +326,7 @@ export const footerdata1 = [
     delay: "0.8s",
     icon: <i className="feather icon-clock" />,
     title: "Opening Time",
-    paragraph: "Mon -Sat: 7:00 - 17:00",
+    paragraph: "Mon - Sat: 6:00 PM - 9:00 PM",
   },
 ];
 export const footerdata2 = [
@@ -2451,9 +2451,9 @@ export const mapdata = [
       <p>
         <Link
           className="text-white"
-          href="mailto:brundaspecialistclinic@gmail.com"
+          href="mailto:brundaadvance@gmail.com"
         >
-          brundaspecialistclinic@gmail.com
+          brundaadvance@gmail.com
         </Link>
       </p>
     ),
@@ -2466,7 +2466,7 @@ export const mapdata = [
     para: (
       <>
         <span className="text-white">Mon - Sat : 6:00 PM - 9:00 PM</span> <br />
-        <span className="text-white">Sunday : Holiday</span>
+        <span className="text-white">Sun : 11:00 AM - 2:00 PM</span>
       </>
     ),
   },

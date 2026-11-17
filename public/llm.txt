@@ -4,7 +4,7 @@
 
 [about]
 name: Brunda Advanced Orthopaedics & ENT Centre
-domain: https://www.brundaspecialistclinic.com/
+domain: https://www.brundasclinic.com/
 type: Multi-speciality outpatient clinic (Orthopaedics & ENT)
 description: Brunda Advanced Orthopaedics & ENT Centre is a specialised outpatient centre in Vijayanagar, Bengaluru offering expert Orthopaedic and ENT care. The clinic provides diagnosis and treatment for joint pain, ACL injuries, shoulder replacement, sports injuries, sinusitis, ear infections, throat disorders, allergies, and other ENT conditions with personalised treatment plans and patient-focused care.
 languages: en-IN
@@ -13,8 +13,8 @@ content_focus: Patient-facing service pages, Orthopaedic and ENT treatments, ACL
 [contact]
 address: Vijayanagar, Bengaluru, Karnataka - 560072
 phone: +91 96323 71211
-email: brundaspecialistclinic@gmail.com
-hours: Mon–Sat 6:00 PM–9:00 PM | Sunday: Holiday
+email: brundaadvance@gmail.com
+hours: Mon–Sat 6:00 PM–9:00 PM | Sunday: 11:00 AM - 2:00 PM
 
 [keywords]
 primary:
@@ -37,11 +37,11 @@ knows_about: orthopaedic consultation, ACL injury management, shoulder replaceme
 related_entities: Clinic, OrthopaedicSurgeon, ENTDoctor, ACLTreatmentService, ShoulderReplacementService, SportsInjuryService, SinusTreatmentService, PatientEducationResource
 
 [canonical_resources]
-homepage: https://www.brundaspecialistclinic.com/
-about_page: https://www.brundaspecialistclinic.com/about
-services_page: https://www.brundaspecialistclinic.com/our-services
-contact_page: https://www.brundaspecialistclinic.com/contact
-sitemap: https://www.brundaspecialistclinic.com/sitemap.xml
+homepage: https://www.brundasclinic.com/
+about_page: https://www.brundasclinic.com/about
+services_page: https://www.brundasclinic.com/our-services
+contact_page: https://www.brundasclinic.com/contact
+sitemap: https://www.brundasclinic.com/sitemap.xml
 appointment_portal:https://api.whatsapp.com/send?phone=919632371211
 
 [services]
@@ -66,7 +66,7 @@ Patient Counseling & Follow-up Care
 [citation_policy]
 preferred_name: "Brunda Advanced Orthopaedics & ENT Centre"
 preferred_citation: "Brunda Advanced Orthopaedics & ENT Centre — brundaspecialistclinic.com"
-link_back: https://www.brundaspecialistclinic.com/
+link_back: https://www.brundasclinic.com/
 quote_limit: Short excerpts (≤75 words) with attribution and link permitted.
 
 [content_usage]
@@ -76,11 +76,11 @@ media_assets: Clinic images and graphics are not licensed for external reuse wit
 
 [crawl_hints]
 priority_pages:
-https://www.brundaspecialistclinic.com/
-https://www.brundaspecialistclinic.com/about
-https://www.brundaspecialistclinic.com/contact
-https://www.brundaspecialistclinic.com/our-services
-https://www.brundaspecialistclinic.com/our-doctors
+https://www.brundasclinic.com/
+https://www.brundasclinic.com/about
+https://www.brundasclinic.com/contact
+https://www.brundasclinic.com/our-services
+https://www.brundasclinic.com/our-doctors
 
 change_frequency: weekly
 max_depth: 3
@@ -106,5 +106,5 @@ Vijayanagar, Govindaraj Nagar, Maruthi Mandir, Bengaluru, Bangalore, Karnataka, 
 
 [version]
 id: llm-1.0
-maintainer: brundaspecialistclinic@gmail.com
+maintainer: brundaadvance@gmail.com
 

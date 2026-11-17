@@ -269,7 +269,7 @@ function Footer() {
             </div>
             <div className="widget-content">
               <h6 className="title">Have a Question?</h6>
-              <Link href="mailto:brundaspecialistclinic@gmail.com">brundaspecialistclinic@gmail.com</Link>
+              <Link href="mailto:brundaadvance@gmail.com">brundaadvance@gmail.com</Link>
               <span className="text">John Cane</span>
             </div>
           </div>

@@ -3143,7 +3143,7 @@ export const sitemapData = [
     link: "/bone-specialist-doctor-in-nagarabhavi",
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
     title: "Best Bone Specialist Doctor in Nagarabhavi for Orthopedic Care",
     description:
       "Consult the best bone specialist doctor in Nagarabhavi for fractures, joint pain, arthritis, osteoporosis, and advanced orthopedic treatments.",
@@ -3154,7 +3154,7 @@ export const sitemapData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
         "Expert bone specialist doctor in Nagarabhavi providing treatment for fractures, arthritis, joint pain, osteoporosis, sports injuries, and other orthopedic conditions with advanced care.",
@@ -8256,7 +8256,7 @@ export const sitemapData = [
     link: "/bone-specialist-doctor-in-nagarabhavi",
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
     title: "Best Bone Specialist Doctor in Nagarabhavi for Orthopedic Care",
     description:
       "Consult the best bone specialist doctor in Nagarabhavi for fractures, joint pain, arthritis, osteoporosis, and advanced orthopedic treatments.",
@@ -8267,7 +8267,7 @@ export const sitemapData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
         "Expert bone specialist doctor in Nagarabhavi providing treatment for fractures, arthritis, joint pain, osteoporosis, sports injuries, and other orthopedic conditions with advanced care.",
@@ -11661,7 +11661,7 @@ export const sitemapData = [
     link: "/arthroscopic-surgery-in-maruthi-mandir",
   },
   {
-    url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
     title: "Advanced Arthroplasty Surgeries in Maruthi Mandir for Joint Care",
     description:
       "Get advanced arthroplasty surgeries in Maruthi Mandir for hip, knee, and shoulder joint replacement with expert surgical care, faster recovery, and improved mobility.",
@@ -11672,7 +11672,7 @@ export const sitemapData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced arthroplasty surgeries in Maruthi Mandir for joint replacement, including hip, knee, and shoulder, ensuring effective pain relief, mobility restoration, and long-term results.",
@@ -15879,7 +15879,7 @@ export const sitemapData = [
     link: "/bone-specialist-doctor-in-nagarabhavi",
   },
   {
-    url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
+    url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
     title: "Best Bone Specialist Doctor in Nagarabhavi for Orthopedic Care",
     description:
       "Consult the best bone specialist doctor in Nagarabhavi for fractures, joint pain, arthritis, osteoporosis, and advanced orthopedic treatments.",
@@ -15890,7 +15890,7 @@ export const sitemapData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
+      url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-nagarabhavi",
       medicalSpecialty: ["Orthopedic", "Bone Care"],
       description:
         "Expert bone specialist doctor in Nagarabhavi providing treatment for fractures, arthritis, joint pain, osteoporosis, sports injuries, and other orthopedic conditions with advanced care.",
@@ -19286,7 +19286,7 @@ export const sitemapData = [
     link: "/arthroscopic-surgery-in-maruthi-mandir",
   },
   {
-    url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
+    url: "https://www.brundasclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
     title: "Advanced Arthroplasty Surgeries in Maruthi Mandir for Joint Care",
     description:
       "Get advanced arthroplasty surgeries in Maruthi Mandir for hip, knee, and shoulder joint replacement with expert surgical care, faster recovery, and improved mobility.",
@@ -19297,7 +19297,7 @@ export const sitemapData = [
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       name: "Brunda Advanced Orthopaedics & ENT Centre",
-      url: "https://www.brundaspecialistclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
+      url: "https://www.brundasclinic.com/arthroplasty-surgeries-in-maruthi-mandir",
       medicalSpecialty: ["Orthopedic", "Joint Replacement Surgery"],
       description:
         "Advanced arthroplasty surgeries in Maruthi Mandir for joint replacement, including hip, knee, and shoulder, ensuring effective pain relief, mobility restoration, and long-term results.",

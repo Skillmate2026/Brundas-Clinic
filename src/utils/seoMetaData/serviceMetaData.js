@@ -1,11 +1,11 @@
 const clinicAsset =
-  "https://www.brundaspecialistclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS";
+  "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS";
 
 const clinicBase = {
   name: "Brunda Advanced Orthopaedics & ENT Centre",
   logo: clinicAsset,
   image: clinicAsset,
-  email: "brundaspecialistclinic@gmail.com",
+  email: "brundaadvance@gmail.com",
   telephone: "+91 96323 71211",
   address: {
     "@type": "PostalAddress",
@@ -109,15 +109,15 @@ const serviceEntry = ({
 export const serviceMetaData = [
   // Route-specific service metadata
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/sinus-allergy-treatment",
+    url: "https://www.brundasclinic.com/our-services/ent-services/sinus-allergy-treatment",
     title: "Best Sinus Specialist in Vijayanagar | Sinus Treatment",
     description:
       "Consult the best sinus specialist in Vijayanagar for advanced sinus and allergy treatment. Get expert ENT care and effective relief from sinus problems.",
     keywords: keywordsWith("ACL Treatment in Maruthi Mandir"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/ent-services/sinus-allergy-treatment#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/ent-services/sinus-allergy-treatment",
+        "https://www.brundasclinic.com/our-services/ent-services/sinus-allergy-treatment#clinic",
+      url: "https://www.brundasclinic.com/our-services/ent-services/sinus-allergy-treatment",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar offers expert ENT care including advanced sinus and allergy treatment by the best sinus specialist in Vijayanagar.",
       keywords: [
@@ -176,15 +176,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery",
+    url: "https://www.brundasclinic.com/our-services/ent-services/micro-ear-surgery",
     title: "Expert Micro Ear Surgery in Vijaynagar | Advanced ENT Care",
     description:
       "Get advanced Micro Ear Surgery in Vijaynagar at Brunda Advanced Orthopaedics & ENT Centre.Expert ENT care for ear infections, hearing issues and precise microsurgical treatment.",
     keywords: keywordsWith("ACL Treatment in Maruthi Mandir"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/ent-services/micro-ear-surgery",
+        "https://www.brundasclinic.com/our-services/ent-services/micro-ear-surgery#clinic",
+      url: "https://www.brundasclinic.com/our-services/ent-services/micro-ear-surgery",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar offers advanced Micro Ear Surgery in Vijaynagar for treating ear infections, hearing problems, and eardrum damage with precision ENT care.",
       keywords: [
@@ -243,15 +243,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment",
+    url: "https://www.brundasclinic.com/our-services/ent-services/vertigo-treatment",
     title: "Best Vertigo Treatment in Vijayanagar | Expert ENT Care",
     description:
       "Get expert Vertigo Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Accurate diagnosis and effective care for dizziness and inner ear problems.",
     keywords: keywordsWith("ACL Treatment in Maruthi Mandir"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/ent-services/vertigo-treatment",
+        "https://www.brundasclinic.com/our-services/ent-services/vertigo-treatment#clinic",
+      url: "https://www.brundasclinic.com/our-services/ent-services/vertigo-treatment",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert ENT care including vertigo diagnosis, dizziness treatment, balance disorder management, and advanced ENT treatments.",
       keywords: [
@@ -322,15 +322,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent",
+    url: "https://www.brundasclinic.com/our-services/ent-services/foreign-body-removal-ent",
     title: "Foreign Body Removal from Ear in Vijayanagar | ENT Care",
     description:
       "Safe and quick Foreign Body Removal from Ear in Vijayanagar by experienced ENT specialists at Brunda Advanced Orthopaedics & ENT Centre with advanced tools and gentle care.",
     keywords: keywordsWith("Foreign Body Removal from Ear in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/ent-services/foreign-body-removal-ent",
+        "https://www.brundasclinic.com/our-services/ent-services/foreign-body-removal-ent#clinic",
+      url: "https://www.brundasclinic.com/our-services/ent-services/foreign-body-removal-ent",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides expert ENT treatment including Foreign Body Removal from Ear in Vijayanagar with safe and advanced medical techniques.",
       openingHoursSpecification: openingHours,
@@ -382,15 +382,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/head-neck-disorders",
+    url: "https://www.brundasclinic.com/our-services/ent-services/head-neck-disorders",
     title: "Head & Neck Disorders Treatment in Vijayanagar | ENT Care",
     description:
       "Get expert Head & Neck Disorders Treatment in Vijayanagar at Brunda Clinic with advanced ENT diagnosis and personalized care for throat and neck conditions.",
     keywords: keywordsWith("Head & Neck Disorders Treatment in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/ent-services/head-neck-disorders#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/ent-services/head-neck-disorders",
+        "https://www.brundasclinic.com/our-services/ent-services/head-neck-disorders#clinic",
+      url: "https://www.brundasclinic.com/our-services/ent-services/head-neck-disorders",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers advanced Head & Neck Disorders Treatment in Vijayanagar with expert ENT diagnosis and personalized care for throat, glands, and neck conditions.",
       keywords: [
@@ -445,15 +445,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/ent-endoscopy",
+    url: "https://www.brundasclinic.com/our-services/ent-services/ent-endoscopy",
     title: "ENT Endoscopy Specialist in Vijayanagar | Expert ENT Care",
     description:
       "Consult an experienced ENT endoscopy Specialist in Vijayanagar for accurate diagnosis of sinus, nasal, and throat problems using advanced endoscopic technology.",
     keywords: keywordsWith("ENT endoscopy Specialist in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/ent-services/ent-endoscopy#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/ent-services/ent-endoscopy",
+        "https://www.brundasclinic.com/our-services/ent-services/ent-endoscopy#clinic",
+      url: "https://www.brundasclinic.com/our-services/ent-services/ent-endoscopy",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers consultation with an ENT endoscopy Specialist in Vijayanagar for advanced diagnosis and treatment of sinus, nasal, and throat disorders using modern endoscopic technology.",
       keywords: [
@@ -507,15 +507,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/adenotonsillectomy",
+    url: "https://www.brundasclinic.com/our-services/ent-services/adenotonsillectomy",
     title: "Adenotonsillectomy Treatment in Vijayanagar | ENT Care",
     description:
       "Expert Adenotonsillectomy Treatment in Vijayanagar at Brunda Clinic.Safe tonsil and adenoid removal surgery for children and adults by ENT specialists.",
     keywords: keywordsWith("Adenotonsillectomy Treatment in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/ent-services/adenotonsillectomy#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/ent-services/adenotonsillectomy",
+        "https://www.brundasclinic.com/our-services/ent-services/adenotonsillectomy#clinic",
+      url: "https://www.brundasclinic.com/our-services/ent-services/adenotonsillectomy",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar, Bengaluru provides expert ENT treatments including Adenotonsillectomy surgery, sinus care, ear infections, and throat disorder treatments.",
       keywords: [
@@ -567,15 +567,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/pediatric-ent-care",
+    url: "https://www.brundasclinic.com/our-services/ent-services/pediatric-ent-care",
     title: "Pediatric ENT Care in Vijayanagar | Child ENT Specialist",
     description:
       "Expert Pediatric ENT Care in Vijayanagar for children with ear infections, sinus problems, tonsillitis, and breathing issues. Safe and gentle treatment.",
     keywords: keywordsWith("Pediatric ENT Care in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/ent-services/pediatric-ent-care#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/ent-services/pediatric-ent-care",
+        "https://www.brundasclinic.com/our-services/ent-services/pediatric-ent-care#clinic",
+      url: "https://www.brundasclinic.com/our-services/ent-services/pediatric-ent-care",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides Pediatric ENT Care in Vijayanagar including treatment for ear infections, sinus problems, tonsillitis, allergies and breathing issues in children.",
       keywords: [
@@ -628,15 +628,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment",
+    url: "https://www.brundasclinic.com/our-services/ent-services/voice-disorders-treatment",
     title: "Voice Disorders Treatment in Vijayanagar | Dr. Meghana",
     description:
       "Get expert Voice Disorders Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced ENT care for hoarseness,vocal strain,throat issues and voice problems.",
     keywords: keywordsWith("Voice Disorders Treatment in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/ent-services/voice-disorders-treatment",
+        "https://www.brundasclinic.com/our-services/ent-services/voice-disorders-treatment#clinic",
+      url: "https://www.brundasclinic.com/our-services/ent-services/voice-disorders-treatment",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides expert Voice Disorders Treatment in Vijayanagar with advanced ENT care for hoarseness, vocal cord problems, throat infections, and voice changes.",
       openingHoursSpecification: openingHours,
@@ -684,15 +684,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
     title: "General Orthopaedic Clinic in Vijayanagar | Dr. Nagaraj M",
     description:
       "Visit the General Orthopaedic Clinic in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for expert diagnosis and treatment of joint pain, fractures and bone conditions.",
     keywords: keywordsWith("Voice Disorders Treatment in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/trauma-general-ortho#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/trauma-general-ortho",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre is a trusted General Orthopaedic Clinic in Vijayanagar offering expert care for fractures, joint pain, sports injuries, arthritis, and bone disorders.",
       keywords: [
@@ -751,15 +751,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
     title: "Orthopaedic Trauma Care in Vijayanagar | Dr. Nagaraj M",
     description:
       "Get advanced Orthopaedic Trauma Care in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Expert treatment for fractures, injuries, and accident-related bone trauma.",
     keywords: keywordsWith("Orthopaedic Trauma Care in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/orthopaedic-trauma#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/orthopaedic-trauma",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre in Vijayanagar offers advanced Orthopaedic Trauma Care for fractures, sports injuries, ligament damage and accident related bone injuries.",
       aggregateRating: {
@@ -807,15 +807,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/poly-trauma-management",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/poly-trauma-management",
     title: "Best Clinic for Polytrauma Treatment in Vijayanagar",
     description:
       "Get expert care at the Best Clinic for polytrauma treatment in Vijayanagar with advanced orthopaedic trauma managementand specialized recovery care.",
     keywords: keywordsWith("Best Clinic for Polytrauma Treatment in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/poly-trauma-management#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/poly-trauma-management",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/poly-trauma-management#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/poly-trauma-management",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers advanced orthopaedic trauma care and is recognized as the Best Clinic for polytrauma treatment in Vijayanagar with expert diagnosis and injury management.",
       keywords: [
@@ -872,15 +872,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
     title: "Advanced Arthroscopic Surgery in Vijayanagar | Brunda Clinic",
     description:
       "Get expert Arthroscopic Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced minimally invasive treatment for knee, shoulder, and joint injuries.",
     keywords: keywordsWith("Arthroscopic Surgery in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers advanced Arthroscopic Surgery in Vijayanagar with minimally invasive treatment for knee, shoulder, and joint injuries by experienced orthopaedic specialists.",
       keywords: [
@@ -937,15 +937,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
     title: "ACL Reconstruction Surgery in Vijayanagar | Dr. Nagaraj M",
     description:
       "Get advanced ACL Reconstruction Surgery in Vijayanagar at Brunda Clinic. Expert orthopaedic care for ligament injuries, faster recovery, and knee stability.",
     keywords: keywordsWith("acl reconstruction surgery in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/acl-repair-reconstruction",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced ACL Reconstruction Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee ligament treatment.",
       keywords: [
@@ -1002,15 +1002,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
     title: "PCL Repair Surgery in Vijayanagar | Knee Ligament Care",
     description:
       "Get advanced PCL Repair Surgery in Vijayanagar .Expert orthopaedic care for knee ligament injuries with accurate diagnosis and effective treatment.",
     keywords: keywordsWith("PCL Repair Surgery in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/pcl-repair-reconstruction",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced PCL Repair Surgery in Vijayanagar with expert orthopaedic surgeons and modern arthroscopic techniques for knee ligament injuries.",
       keywords: [
@@ -1067,15 +1067,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
     title: "Advanced Ligament Reconstruction in Vijayanagar|Dr.Nagaraj M",
     description:
       "Get expert Ligament Reconstruction in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with advanced arthroscopic surgery, accurate diagnosis, and faster recovery care.",
     keywords: keywordsWith("ligament reconstruction in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/artificial-graft-cruciate-ligament",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced ligament reconstruction in Vijayanagar using modern arthroscopic surgery techniques to restore knee stability and improve mobility.",
       keywords: [
@@ -1132,15 +1132,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
     title: "Meniscus Repair Surgery in Vijayanagar | Knee Specialist",
     description:
       "Get advanced Meniscus Repair Surgery in Vijayanagar at Brunda Clinic. Expert orthopaedic care for knee injuries, faster recovery, and improved joint mobility.",
     keywords: keywordsWith("Meniscus Repair Surgery in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-repair",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced Meniscus Repair Surgery in Vijayanagar with expert orthopaedic specialists and modern arthroscopic treatment for knee injuries.",
       keywords: [
@@ -1197,7 +1197,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
     title: "Meniscal Root Repair Surgery in Vijayanagar | Knee Care",
     description:
       "Get advanced Meniscal Root Repair Surgery in Vijayanagar at Brunda Clinic with expert orthopaedic care for knee pain, sports injuries, and faster recovery.",
@@ -1206,8 +1206,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscal-root-repair",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers advanced Meniscal Root Repair Surgery in Vijayanagar with experienced orthopaedic surgeons and modern arthroscopic knee treatment.",
       keywords: [
@@ -1264,7 +1264,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
     title: "Meniscus Transplant Surgery in Vijayanagar | Expert Care",
     description:
       "Get advanced meniscus transplant surgery in Vijayanagar at Brunda Clinic with expert orthopaedic care, modern arthroscopy techniques, and faster recovery.",
@@ -1273,8 +1273,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/meniscus-transplant",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced meniscus transplant surgery in Vijayanagar with experienced orthopaedic specialists, modern arthroscopic procedures, and comprehensive knee care.",
       keywords: [
@@ -1331,7 +1331,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
     title: "Rotator Cuff Repair Surgery in Vijayanagar | Shoulder Care",
     description:
       "Get advanced Rotator Cuff Repair Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with expert orthopaedic care,precise diagnosis and faster shoulder recovery.",
@@ -1340,8 +1340,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/rotator-cuff-repair",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced Rotator Cuff Repair Surgery in Vijayanagar with expert orthopaedic surgeons, modern arthroscopic technology, and personalized rehabilitation care for shoulder injuries.",
       keywords: [
@@ -1398,7 +1398,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
     title: "Bankart Repair Surgery in Vijayanagar | Shoulder Care",
     description:
       "Get expert Bankart Repair Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced arthroscopic treatment for shoulder dislocation with faster recovery.",
@@ -1407,8 +1407,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/bankart-repair",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced Bankart Repair Surgery in Vijayanagar using arthroscopic techniques to treat shoulder instability and recurrent shoulder dislocation.",
       keywords: [
@@ -1465,7 +1465,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
     title: "Shoulder Instability Surgery in Vijayanagar | Dr.Nagaraj M",
     description:
       "Get advanced Shoulder Instability Surgery in Vijayanagar at Brunda Clinic with expert orthopaedic care and effective treatment for shoulder dislocation.",
@@ -1474,8 +1474,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/shoulder-instability-treatment",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers advanced Shoulder Instability Surgery in Vijayanagar with expert orthopaedic surgeons, modern arthroscopic techniques, and comprehensive rehabilitation care.",
       keywords: [
@@ -1532,7 +1532,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
     title: "Hip Arthroscopy Surgery in Vijayanagar | Dr Nagaraj M",
     description:
       "Get advanced Hip Arthroscopy Surgery in Vijayanagar at Brunda Clinic with expert orthopedic care for hip pain and femoroacetabular impingement treatment.",
@@ -1541,8 +1541,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroscopic-surgeries/hip-arthroscopy-fai",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced Hip Arthroscopy Surgery in Vijayanagar with expert orthopedic care for hip pain, labral tears, and femoroacetabular impingement treatment.",
       keywords: [
@@ -1599,15 +1599,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty",
     title: "Best Arthroplasty Surgery in Vijayanagar - Dr.Nagaraj M",
     description:
       "Get advanced arthroplasty surgery in Vijayanagar with experienced orthopaedic surgeons. Safe, effective, and personalized joint replacement care.",
     keywords: keywordsWith("Meniscus Repair Surgery in Vijayanagar, Arthroplasty surgery in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers advanced arthroplasty surgery in Vijayanagar, including knee, hip, and shoulder replacements with expert diagnosis and personalized care.",
       keywords: [
@@ -1665,15 +1665,15 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
     title: "Best Knee Replacement Surgery in Vijayanagar | Brunda Clinic",
     description:
       "Get advanced Knee Replacement Surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Expert orthopaedic care for pain relief, mobility, and faster recovery.",
     keywords: keywordsWith("Meniscus Repair Surgery in Vijayanagar, Knee Replacement Surgery in Vijayanagar"),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/knee-replacement",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced Knee Replacement Surgery in Vijayanagar with expert orthopaedic surgeons and comprehensive rehabilitation for better mobility.",
       keywords: [
@@ -1730,7 +1730,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
     title: "Robotic Knee Replacement Surgeon in Vijayanagar | Dr.Nagaraj",
     description:
       "Consult an experienced Robotic Knee Replacement Surgeon in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for advanced knee replacement surgery with faster recovery.",
@@ -1739,8 +1739,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-knee-replacement",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers advanced robotic knee replacement surgery with an experienced Robotic Knee Replacement Surgeon in Vijayanagar providing precise treatment and faster recovery.",
       keywords: [
@@ -1797,7 +1797,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement",
     title: "Hip Replacement Surgery in Vijayanagar | Brunda Clinic",
     description:
       "Get advanced Hip Replacement Surgery in Vijayanagar at Brunda Clinic with expert orthopaedic surgeons,modern techniques and personalized recovery care.",
@@ -1806,8 +1806,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/hip-replacement",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced Hip Replacement Surgery in Vijayanagar with expert orthopaedic surgeons, modern surgical techniques, and comprehensive rehabilitation care.",
       keywords: [
@@ -1864,7 +1864,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-hip-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-hip-replacement",
     title: "Robotic Hip Replacement in Vijayanagar | Brunda Clinic",
     description:
       "Consult Brunda Advanced Orthopaedics & ENT Centre for robotic hip replacement in Vijayanagar with precision-guided planning, accurate implant positioning, and structured recovery care.",
@@ -1873,8 +1873,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-hip-replacement#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-hip-replacement",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-hip-replacement#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/robotic-hip-replacement",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers robotic hip replacement in Vijayanagar with advanced surgical planning, accurate implant positioning, and personalized arthroplasty recovery support.",
       keywords: [
@@ -1931,7 +1931,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-hip-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-hip-replacement",
     title: "Computer-Assisted Hip Replacement in Vijayanagar",
     description:
       "Get computer-assisted hip replacement in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with navigation-guided planning, accurate implant orientation, and rehabilitation-focused care.",
@@ -1940,8 +1940,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-hip-replacement#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-hip-replacement",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-hip-replacement#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-hip-replacement",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides computer-assisted hip replacement in Vijayanagar using navigation-guided surgical planning, accurate implant orientation, and comprehensive recovery support.",
       keywords: [
@@ -1998,7 +1998,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-total-knee-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-total-knee-replacement",
     title: "Computer-Assisted Total Knee Replacement in Vijayanagar",
     description:
       "Consult Brunda Advanced Orthopaedics & ENT Centre for computer-assisted total knee replacement in Vijayanagar with navigation-guided implant alignment, balanced knee mechanics, and structured recovery care.",
@@ -2007,8 +2007,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-total-knee-replacement#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-total-knee-replacement",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-total-knee-replacement#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/computer-assisted-total-knee-replacement",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers computer-assisted total knee replacement in Vijayanagar using digital navigation for accurate implant alignment, soft-tissue balancing, and dependable rehabilitation support.",
       keywords: [
@@ -2065,7 +2065,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
     title: "Best Shoulder Replacement Surgery in Vijayanagar-Dr. Nagaraj",
     description:
       "Get the Best Shoulder Replacement Surgery in Vijayanagar at Brunda Clinic with expert orthopaedic surgeons, advanced techniques, and personalized recovery care.",
@@ -2074,8 +2074,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/shoulder-replacement",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers the Best Shoulder Replacement Surgery in Vijayanagar with expert orthopaedic surgeons, advanced surgical techniques, and comprehensive rehabilitation care.",
       keywords: [
@@ -2132,7 +2132,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
     title: "Best Elbow Replacement Surgery in Vijayanagar | Expert Care",
     description:
       "Get the Best Elbow replacement surgery in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with advanced orthopaedic care, experienced surgeons, and faster recovery.",
@@ -2141,8 +2141,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/arthroplasty/elbow-replacement",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides the Best Elbow replacement surgery in Vijayanagar with experienced orthopaedic surgeons, advanced treatment, and personalized recovery care.",
       keywords: [
@@ -2199,7 +2199,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
     title: "Pediatric Deformity Treatment in Vijayanagar | Expert Care",
     description:
       "Get expert Pediatric deformity treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre.Advanced care for congenital and developmental bone deformities in children.",
@@ -2208,8 +2208,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/pediatric-deformity-surgeries",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced Pediatric deformity treatment in Vijayanagar with expert orthopedic care for children with bone, joint, and limb deformities.",
       keywords: [
@@ -2266,7 +2266,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/spine-surgeries",
     title: "Best Spine Surgery Doctor in Vijayanagar | Expert Spine Care",
     description:
       "Consult an experienced Spine Surgery Doctor in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre for advanced treatment of back pain, disc problems, and spine disorders.",
@@ -2275,8 +2275,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/spine-surgeries",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/spine-surgeries#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/spine-surgeries",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers advanced spine treatment with an experienced Spine Surgery Doctor in Vijayanagar for back pain, disc problems, and spinal disorders.",
       keywords: [
@@ -2333,7 +2333,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis",
     title: "Rheumatoid Arthritis Treatment in Vijayanagar | Expert Care",
     description:
       "Get advanced Rheumatoid Arthritis Treatment in Vijayanagar at Brunda Clinic with expert diagnosis, joint pain relief therapies, and personalized care.",
@@ -2342,8 +2342,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/rheumatoid-arthritis",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre offers advanced Rheumatoid Arthritis Treatment in Vijayanagar with expert diagnosis, joint pain management, and personalized arthritis care.",
       keywords: [
@@ -2400,7 +2400,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
     title: "Tennis Elbow Treatment in Vijayanagar | Expert Care",
     description:
       "Get effective Tennis Elbow Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre with expert diagnosis, pain relief therapies, and advanced orthopaedic care.",
@@ -2409,8 +2409,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/tennis-elbow-treatment",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced Tennis Elbow Treatment in Vijayanagar with expert orthopaedic diagnosis, pain management therapies, and personalized treatment plans.",
       keywords: [
@@ -2467,7 +2467,7 @@ export const serviceMetaData = [
     ],
   }),
   serviceEntry({
-    url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
+    url: "https://www.brundasclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
     title: "Plantar Fasciitis Treatment in Vijayanagar | Foot Pain Care",
     description:
       "Get expert Plantar Fasciitis Treatment in Vijayanagar at Brunda Advanced Orthopaedics & ENT Centre. Advanced diagnosis and effective care for heel pain and foot inflammation.",
@@ -2476,8 +2476,8 @@ export const serviceMetaData = [
     ),
     clinic: {
       "@id":
-        "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment#clinic",
-      url: "https://www.brundaspecialistclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
+        "https://www.brundasclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment#clinic",
+      url: "https://www.brundasclinic.com/our-services/orthopaedic-services/plantar-fasciitis-treatment",
       description:
         "Brunda Advanced Orthopaedics & ENT Centre provides advanced Plantar Fasciitis Treatment in Vijayanagar with expert orthopaedic care, accurate diagnosis, and effective heel pain management.",
       keywords: [

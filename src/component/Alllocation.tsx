@@ -29,7 +29,7 @@ function Alllocation() {
                                             </div>
                                             <div className="m-b15">
                                                 <h4 className="m-b5 font-16">Service Time:</h4>
-                                                <p>Mon -Sat: 7:00 - 17:00</p>
+                                                <p>Mon - Sat: 6:00 PM - 9:00 PM</p>
                                             </div>
                                         </div>
                                         <div className="dz-footer">

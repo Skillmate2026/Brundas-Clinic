@@ -111,7 +111,7 @@ function Frequently() {
                     </div>
                   </div>
                   <Link
-                    href="https://wa.link/sxr517"
+                    href="https://wa.me/919632371211"
                     className="btn btn-lg btn-icon btn-primary btn-shadow"
                   >
                     <span className="w-100">Appointment</span>{" "}

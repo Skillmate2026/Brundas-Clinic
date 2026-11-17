@@ -1,5 +1,5 @@
 # Healthcare Expertise Declaration
-site: https://www.brundaspecialistclinic.com/
+site: https://www.brundasclinic.com/
 
 expertise_fields:
  Orthopaedics

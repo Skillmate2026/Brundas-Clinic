@@ -57,7 +57,7 @@ function TeamDetail() {
                       <tbody>
                         <tr>
                           <th>Sunday</th>
-                          <td className="text-end">Holiday</td>
+                          <td className="text-end">11:00 AM - 2:00 PM</td>
                         </tr>
                       </tbody>
                     </Table>

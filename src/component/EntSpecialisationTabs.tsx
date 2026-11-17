@@ -249,7 +249,7 @@ const EntSpecialisationTabs: React.FC = () => {
         </div>
         <p>
           If you are searching for the{" "}
-          <a href="https://www.brundaspecialistclinic.com">
+          <a href="https://www.brundasclinic.com">
             ENT Specialist Doctor in Vijayanagar
           </a>
           , Dr Meghana Janardhan at Brunda Advanced Orthopaedics & ENT Centre provides expert
