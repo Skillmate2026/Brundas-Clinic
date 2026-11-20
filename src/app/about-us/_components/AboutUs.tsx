@@ -23,36 +23,26 @@ import Frequently from "@/component/Frequently";
 
 function AboutUs() {
   const [selectCat, setSelectCat] = useState("Angioplasty");
-  const form = useRef<HTMLFormElement | null>(null);
+  const formRef = useRef<HTMLFormElement | null>(null);
   const { sendEmail } = useEmailService();
+  const [isSending, setIsSending] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    if (!formRef.current) return;
 
-    const form = e.currentTarget;
-    const formData = new FormData(form);
+    setIsSending(true);
 
-    const name = formData.get("dzName") as string;
-    const email = formData.get("dzEmail") as string;
-    const phone = formData.get("dzPhoneNumber") as string;
-    const message = formData.get("dzMessage") as string;
+    const result = await sendEmail(formRef.current);
 
-    const whatsappNumber = "919632371211"; // Replace with your WhatsApp number
+    if (result.success) {
+      alert("Success! Your appointment request has been sent to our team.");
+      formRef.current.reset();
+    } else {
+      alert("Failed to send message. Please try again or contact us directly.");
+    }
 
-    const whatsappMessage = `
-    Hello, I would like to book an appointment.
-
-    Name: ${name}
-    Email: ${email}
-    Phone: ${phone}
-    Message: ${message}
-   `.trim();
-
-    const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
-      whatsappMessage,
-    )}`;
-
-    window.open(whatsappURL, "_blank");
+    setIsSending(false);
   };
 
   return (
@@ -100,55 +90,19 @@ function AboutUs() {
         </section>
         <Inspirational />
         {/* <MeetDr /> */}
-        {/* <section className="content-inner">
-          <div className="container">
-            <div className="section-head style-1 m-b30 row align-items-end">
-              <div
-                className="col-sm-7 wow fadeInUp"
-                data-wow-delay="0.2s"
-                data-wow-duration="0.8s"
-              >
-                <h2 className="title m-b0">
-                  We Employ only <br /> Specialists{" "}
-                </h2>
-              </div>
-              <div
-                className="col-sm-5 text-sm-end d-sm-block d-none wow fadeInUp"
-                data-wow-delay="0.4s"
-                data-wow-duration="0.8s"
-              >
-                <Link
-                  href="/team"
-                  className="btn btn-icon btn-primary btn-shadow"
-                >
-                  {" "}
-                  View All
-                  <span className="right-icon">
-                    <i className="feather icon-arrow-right" />
-                  </span>
-                </Link>
-              </div>
-            </div>
-            <Empoly />
-          </div>
-        </section> */}
+        {/* <section className="content-inner"> ... </section> */}
         <section
           className="clearfix p-t50 overlay-secondary-dark bg-primary background-blend-multiply overflow-hidden"
-          // style={{
-          //   backgroundImage: `url(${IMAGES.bg3.src})`,
-          //   backgroundRepeat: "no-repeat",
-          //   backgroundPosition: "right center",
-          //   backgroundSize: "cover",
-          // }}
         >
           <RealPatient />
         </section>
         <section
-          className="clearfix   background-blend-multiply overflow-hidden"
+          className="clearfix background-blend-multiply overflow-hidden"
           style={{ backgroundColor: "#f3f8fb" }}
         >
           <Frequently />
         </section>
+        
         <section className="content-inner">
           <div className="container">
             <div className="row g-xl-4 align-items-center">
@@ -157,17 +111,23 @@ function AboutUs() {
                 className="col-xl-5 m-b30"
                 data-bottom-top="transform: translateY(50px)"
                 data-top-bottom="transform: translateY(-50px)"
-                style={{ background: "#3365a7" }}
+                /* REMOVED: The hardcoded background that caused sharp borders */
               >
-                <div className="form-wrapper style-1">
-                  <div className="form-body bg-primary background-blend-burn">
-                    <div className="title-head">
-                      <h2 className="form-title m-b0">
-                        Make An <span>Appointment</span> <br /> Apply For
-                        Treatments
+                {/* ADDED: Smooth rounded corners and shadow for premium look */}
+                <div 
+                  className="form-wrapper style-1" 
+                  style={{ borderRadius: "20px", overflow: "hidden", boxShadow: "0 15px 35px rgba(0,0,0,0.1)" }}
+                >
+                  <div className="form-body bg-primary background-blend-burn" style={{ padding: "40px" }}>
+                    
+                    <div className="title-head m-b30">
+                      <h2 className="form-title m-b0 text-white" style={{ lineHeight: "1.3" }}>
+                        Make An <span style={{ color: "#EA8D21" }}>Appointment</span> <br /> 
+                        Apply For Treatments
                       </h2>
                     </div>
-                    <form ref={form} onSubmit={handleSubmit} className="dzForm">
+
+                    <form ref={formRef} onSubmit={handleSubmit} className="dzForm">
                       <input
                         type="hidden"
                         className="form-control"
@@ -190,6 +150,7 @@ function AboutUs() {
                               className="form-control"
                               id="inputYourName"
                               placeholder="Your Name"
+                              required
                             />
                             <label htmlFor="inputYourName">Your Name</label>
                           </div>
@@ -202,6 +163,7 @@ function AboutUs() {
                               className="form-control"
                               id="inputYourEmail"
                               placeholder="Your Email"
+                              required
                             />
                             <label htmlFor="inputYourEmail">Your Email</label>
                           </div>
@@ -214,6 +176,7 @@ function AboutUs() {
                               className="form-control dz-number"
                               id="inputPhoneNumber"
                               placeholder="Phone Number"
+                              required
                             />
                             <label htmlFor="inputPhoneNumber">
                               Phone Number
@@ -227,7 +190,8 @@ function AboutUs() {
                               className="form-control"
                               id="inputMessage"
                               rows={3}
-                              placeholder="Select Service"
+                              placeholder="Message"
+                              required
                             ></textarea>
                             <label htmlFor="inputMessage">Message</label>
                           </div>
@@ -238,8 +202,9 @@ function AboutUs() {
                             name="submit"
                             value="submit"
                             className="btn btn-lg btn-icon btn-white hover-secondary btn-shadow"
+                            disabled={isSending}
                           >
-                            Appointment{" "}
+                            {isSending ? "Sending..." : "Appointment"}{" "}
                             <span className="right-icon">
                               <i className="feather icon-arrow-right" />
                             </span>
@@ -247,6 +212,7 @@ function AboutUs() {
                         </div>
                       </div>
                     </form>
+
                   </div>
                 </div>
               </div>

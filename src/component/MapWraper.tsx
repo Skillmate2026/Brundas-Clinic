@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { mapdata } from "../constant/alldata";
 
@@ -25,7 +27,7 @@ function MapWraper() {
                   data-wow-duration="0.8s"
                 >
                   <h2 className="title m-b0 text-white">
-                    Get in Touch with us
+                    Get In Touch With Us
                   </h2>
                 </div>
                 {mapdata.map((data, i) => (
@@ -44,6 +46,63 @@ function MapWraper() {
                     </div>
                   </div>
                 ))}
+
+                {/* --- ADDED SOCIAL MEDIA LINKS --- */}
+                <div 
+                  className="dz-social-icon style-1 m-t30 wow fadeInUp" 
+                  data-wow-delay="1.0s" 
+                  data-wow-duration="0.8s"
+                >
+                  <style jsx>{`
+                    .map-social-list li a {
+                      width: 45px !important; 
+                      height: 45px !important;
+                      display: inline-flex !important;
+                      align-items: center !important;
+                      justify-content: center !important;
+                      background-color: rgba(255, 255, 255, 0.1) !important;
+                      border-radius: 50%;
+                      transition: all 0.3s ease;
+                    }
+                    .map-social-list li a:hover {
+                      background-color: #EA8D21 !important;
+                    }
+                    .map-social-list li i {
+                      font-size: 20px !important; 
+                      color: white !important; 
+                    }
+                  `}</style>
+                  
+                  <ul className="map-social-list d-flex" style={{ padding: 0, gap: "12px", listStyle: "none", marginBottom: 0 }}>
+                    <li>
+                      <a href="https://wa.me/919632371211" target="_blank" rel="noopener noreferrer">
+                        <i className="fa-brands fa-whatsapp" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.linkedin.com/company/brunda-advanced-orthopaedics-ent-centre/home/" target="_blank" rel="noopener noreferrer">
+                        <i className="fa-brands fa-linkedin" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.instagram.com/brundas_clinic/" target="_blank" rel="noopener noreferrer">
+                        <i className="fa-brands fa-instagram" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.facebook.com/people/Brundas-Clinic/61593364482305/" target="_blank" rel="noopener noreferrer">
+                        <i className="fa-brands fa-facebook-f" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.youtube.com/channel/UCDq6PD0fRUgP1s-YyEVwqPw" target="_blank" rel="noopener noreferrer">
+                        <i className="fa-brands fa-youtube" />
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                {/* --- END SOCIAL MEDIA LINKS --- */}
+
               </div>
             </div>
           </div>

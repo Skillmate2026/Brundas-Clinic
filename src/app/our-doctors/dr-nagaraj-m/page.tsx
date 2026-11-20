@@ -147,7 +147,7 @@ function TeamDetail() {
                   </thead>
                   <tbody className="border-top-0">
                     <tr>
-                      <th>Degrees</th> <td>MBBS, MS (Orthopaedics)</td>
+                      <th>Degrees</th> <td>MBBS, MS (ORTHOPAEDICS) AIIMS | FIKS (UK) FIJR (Australia)</td>
                     </tr>
                     <tr>
                       <th>Education</th>

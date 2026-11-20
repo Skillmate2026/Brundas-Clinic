@@ -164,106 +164,9 @@ function SitemapWrapper({ children }: any) {
             <span className="visually-hidden">Next</span>
           </button>
         </div>
-        {/* <section
-            className="content-inner desk-view"
-            style={{
-              backgroundImage: `url(${IMAGES.bg1png.src})`,
-              backgroundRepeat: "no-repeat",
-              backgroundPosition: "right bottom",
-            }}
-          >
-            <div className="container">
-              <WorldClass />
-            </div>
-          </section>
-          <section
-            className="content-inner mobile-view"
-            style={{
-              backgroundImage: `url(${IMAGES.bg1png.src})`,
-              backgroundRepeat: "no-repeat",
-              backgroundPosition: "right bottom",
-            }}
-          >
-            <div className="container">
-              <WelcomeMobile />
-            </div>
-          </section> */}
-        {/* <Counter /> */}
-        {/* <section className="content-inner-2 bg-light">
-            <div className="container">
-              <div className="section-head style-1 m-b30 row align-items-end">
-                <div
-                  className="col-xl-12 col-md-9 wow fadeInUp text-center"
-                  data-wow-delay="0.2s"
-                  data-wow-duration="0.8s"
-                >
-                  <span className="main-title">What We Treat</span>
-                  <h2 className="title m-b0">Advanced ENT Solutions</h2>
-                </div>
-              </div>
-              {selectedDept === "ENT" ? (
-                <ServiceBox department={"ENT"} />
-              ) : (
-                <ServiceBox department={"ENT"} count={count} number={8} />
-              )}
-              <div
-                className=" text-lg-center d-md-block wow fadeInUp text-center"
-                data-wow-delay="0.4s"
-                data-wow-duration="0.8s"
-              >
-                <button
-                  onClick={() => toggleDept("ENT")}
-                  className="btn btn-icon btn-secondary"
-                >
-                  {selectedDept === "ENT" ? "Show Less" : "View All"}
-                  <span className="right-icon">
-                    <i className="feather icon-arrow-right" />
-                  </span>
-                </button>
-              </div>
-            </div>
-          </section>
-          <section className="content-inner-2 bg-light">
-            <div className="container">
-              <div className="section-head style-1 m-b30 row align-items-end">
-                <div
-                  className="col-xl-12 col-md-9 wow fadeInUp text-center"
-                  data-wow-delay="0.2s"
-                  data-wow-duration="0.8s"
-                >
-                  <h2 className="title m-b0">Advanced Orthopaedic Solutions</h2>
-                </div>
-              </div>
-              {selectedDept === "Orthopaedics" ? (
-                <ServiceBox department={"Orthopaedics"} />
-              ) : (
-                <ServiceBox
-                  department={"Orthopaedics"}
-                  count={count}
-                  number={8}
-                />
-              )}
-              <div
-                className="text-lg-center d-md-block wow fadeInUp text-center"
-                data-wow-delay="0.4s"
-                data-wow-duration="0.8s"
-                style={{ paddingBottom: "40px" }}
-              >
-                <button
-                  onClick={() => toggleDept("Orthopaedics")}
-                  className="btn btn-icon btn-secondary"
-                >
-                  {selectedDept === "Orthopaedics" ? "Show Less" : "View All"}
-                  <span className="right-icon">
-                    <i className="feather icon-arrow-right" />
-                  </span>
-                </button>
-              </div>
-            </div>
-          </section> */}
+        
         <Specialties />
-        {/* <Doctor /> */}
-        {/* <AppointmentData /> */}
+
         <section
           className="content-inner overlay-secondary-dark background-blend-luminosity bg-img-fix overflow-hidden"
           style={{
@@ -274,7 +177,6 @@ function SitemapWrapper({ children }: any) {
           }}
         >
           <div className="container">
-            {/* <WhyChoose /> */}
             {children}
           </div>
         </section>
@@ -283,52 +185,52 @@ function SitemapWrapper({ children }: any) {
             <AffiliatedHospitals />
           </div>
         </section>
-        {/* <div className="desk-view">
-          <Howitwork />
-        </div>
-        <div className="mobile-view">
-          <MobileHowitwork />
-        </div> */}
-        {/* <section className="content-inner">
-            <div className="container">
-              <div className="section-head style-1 m-b30 row align-items-end">
-                <div
-                  className="col-sm-7 wow fadeInUp"
-                  data-wow-delay="0.2s"
-                  data-wow-duration="0.8s"
-                >
-                  <h2 className="title m-b0">
-                    We Employ only <br /> Specialists{" "}
-                  </h2>
-                </div>
-                <div
-                  className="col-sm-5 text-sm-end d-sm-block d-none wow fadeInUp"
-                  data-wow-delay="0.4s"
-                  data-wow-duration="0.8s"
-                >
-                  <Link
-                    href="/team"
-                    className="btn btn-icon btn-primary btn-shadow"
-                  >
-                    {" "}
-                    View All
-                    <span className="right-icon">
-                      <i className="feather icon-arrow-right" />
-                    </span>
-                  </Link>
-                </div>
-              </div>
-              <EmpolyBlog />
-            </div>
-          </section> */}
+        
         <Frequently />
         <section className="clearfix p-t50 overlay-secondary-dark bg-primary background-blend-multiply overflow-hidden">
           <RealPatient />
         </section>
 
-        {/* <MeetDr /> */}
-        {/* <Awards />
-          <StayInformed /> */}
+        {/* --- DEDICATED SOCIAL MEDIA SECTION --- */}
+        <section className="content-inner-2 text-center bg-light">
+          <div className="container">
+            <div className="section-head style-1 m-b30">
+              <h2 className="title m-b0">Get in Touch</h2>
+              <p className="fw-medium text-primary">Follow us on our social networks</p>
+            </div>
+            
+            <div className="dz-social-icon style-1 d-flex justify-content-center">
+              <ul className="d-flex" style={{ gap: "20px", padding: 0 }}>
+                <li>
+                  <a href="https://wa.me/919632371211" target="_blank" rel="noopener noreferrer">
+                    <i className="fa-brands fa-whatsapp fa-2x" />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.linkedin.com/company/brunda-advanced-orthopaedics-ent-centre/home/" target="_blank" rel="noopener noreferrer">
+                    <i className="fa-brands fa-linkedin fa-2x" />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.instagram.com/brundas_clinic/" target="_blank" rel="noopener noreferrer">
+                    <i className="fa-brands fa-instagram fa-2x" />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.facebook.com/people/Brundas-Clinic/61593364482305/" target="_blank" rel="noopener noreferrer">
+                    <i className="fa-brands fa-facebook-f fa-2x" />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.youtube.com/channel/UCDq6PD0fRUgP1s-YyEVwqPw" target="_blank" rel="noopener noreferrer">
+                    <i className="fa-brands fa-youtube fa-2x" />
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
         <MapWraper />
       </main>
       <Footer />

@@ -61,34 +61,6 @@ function Connect() {
               dangerouslySetInnerHTML={{ __html: SVGICONS.uparrow }}
             />
           </div>
-
-          {/* <div
-            className="widget-rating3 wow fadeInUp"
-            data-wow-delay="0.8s"
-            data-wow-duration="0.8s"
-          >
-            <ul className="star-list">
-              <li>
-                <i className="fa fa-star" />
-              </li>
-              <li>
-                <i className="fa fa-star" />
-              </li>
-              <li>
-                <i className="fa fa-star" />
-              </li>
-              <li>
-                <i className="fa fa-star" />
-              </li>
-              <li>
-                <i className="fa fa-star" />
-              </li>
-            </ul>
-            <span className="rating">(4.8)</span>
-            <span className="text">
-              Highly rated by patients on Google Reviews
-            </span>
-          </div> */}
         </div>
 
         <div className="row">
@@ -119,6 +91,61 @@ function Connect() {
             </div>
           ))}
         </div>
+
+        {/* --- ADDED SOCIAL MEDIA LINKS --- */}
+        <div 
+          className="dz-social-icon style-1 m-t30 wow fadeInUp" 
+          data-wow-delay="0.8s" 
+          data-wow-duration="0.8s"
+        >
+          <style jsx>{`
+            .custom-social-list li:hover i {
+              color: white !important;
+            }
+            /* This controls the size of the hover circle and perfectly centers the icon */
+            .custom-social-list li a {
+              width: 45px !important; 
+              height: 45px !important;
+              display: inline-flex !important;
+              align-items: center !important;
+              justify-content: center !important;
+            }
+            /* This controls the actual size of the icon */
+            .custom-social-list li i {
+              font-size: 22px !important; 
+            }
+          `}</style>
+          
+          <ul className="custom-social-list">
+            <li>
+              <a href="https://wa.me/919632371211" target="_blank" rel="noopener noreferrer">
+                <i className="fa-brands fa-whatsapp text-primary" />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/company/brunda-advanced-orthopaedics-ent-centre/home/" target="_blank" rel="noopener noreferrer">
+                <i className="fa-brands fa-linkedin text-primary" />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/brundas_clinic/" target="_blank" rel="noopener noreferrer">
+                <i className="fa-brands fa-instagram text-primary" />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.facebook.com/people/Brundas-Clinic/61593364482305/" target="_blank" rel="noopener noreferrer">
+                <i className="fa-brands fa-facebook-f text-primary" />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/channel/UCDq6PD0fRUgP1s-YyEVwqPw" target="_blank" rel="noopener noreferrer">
+                <i className="fa-brands fa-youtube text-primary" />
+              </a>
+            </li>
+          </ul>
+        </div>
+        {/* --- END SOCIAL MEDIA LINKS --- */}
+
       </div>
     </>
   );
