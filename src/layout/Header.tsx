@@ -697,10 +697,10 @@ function Header() {
               <li>4, 17th Cross Rd, Govindaraja Nagar Ward, MC Layout, Vijayanagar, Bengaluru, Karnataka 560040</li>
               <li>
                 <Link
-                  href="mailto:brundaadvance@gmail.com"
+                  href="mailto:brundasclinic@gmail.com "
                   className="text-body"
                 >
-                  brundaadvance@gmail.com
+                  brundasclinic@gmail.com 
                 </Link>
               </li>
               <li>

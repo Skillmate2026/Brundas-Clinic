@@ -19,10 +19,10 @@ export const headerinfo = [
     title: "Email Supports",
     paragraph: (
       <Link
-        href="mailto:brundaadvance@gmail.com"
+        href="mailto:brundasclinic@gmail.com "
         className="text-white"
       >
-        brundaadvance@gmail.com
+        brundasclinic@gmail.com 
       </Link>
     ),
   },
@@ -315,10 +315,10 @@ export const footerdata1 = [
     title: "Send us a Mail",
     paragraph: (
       <Link
-        href="mailto:brundaadvance@gmail.com"
+        href="mailto:brundasclinic@gmail.com "
         className="text-body"
       >
-        brundaadvance@gmail.com
+        brundasclinic@gmail.com 
       </Link>
     ),
   },
@@ -2451,9 +2451,9 @@ export const mapdata = [
       <p>
         <Link
           className="text-white"
-          href="mailto:brundaadvance@gmail.com"
+          href="mailto:brundasclinic@gmail.com "
         >
-          brundaadvance@gmail.com
+          brundasclinic@gmail.com 
         </Link>
       </p>
     ),

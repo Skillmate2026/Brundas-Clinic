@@ -5,7 +5,7 @@ const clinicBase = {
   name: "Brunda Advanced Orthopaedics & ENT Centre",
   logo: clinicAsset,
   image: clinicAsset,
-  email: "brundaadvance@gmail.com",
+  email: "brundasclinic@gmail.com ",
   telephone: "+91 96323 71211",
   address: {
     "@type": "PostalAddress",

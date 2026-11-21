@@ -13,7 +13,7 @@ content_focus: Patient-facing service pages, Orthopaedic and ENT treatments, ACL
 [contact]
 address: Vijayanagar, Bengaluru, Karnataka - 560072
 phone: +91 96323 71211
-email: brundaadvance@gmail.com
+email: brundasclinic@gmail.com 
 hours: Mon–Sat 6:00 PM–9:00 PM | Sunday: 11:00 AM - 2:00 PM
 
 [keywords]
@@ -106,5 +106,5 @@ Vijayanagar, Govindaraj Nagar, Maruthi Mandir, Bengaluru, Bangalore, Karnataka, 
 
 [version]
 id: llm-1.0
-maintainer: brundaadvance@gmail.com
+maintainer: brundasclinic@gmail.com 
 

@@ -24,7 +24,7 @@ rate_limits:
  requests_per_minute: 60
  burst: 120
 
-contact: brundaadvance@gmail.com
+contact: brundasclinic@gmail.com 
 
 ai_crawling_priority_standards:
  sitemaps:
@@ -111,5 +111,5 @@ media_use:
  site-hosted images only; no redistribution allowed unless written permission granted.
 
 crawler_contact:
- Email: brundaadvance@gmail.com
+ Email: brundasclinic@gmail.com 
 

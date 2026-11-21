@@ -26,7 +26,7 @@ export const metaData = [
             "ACL Treatment in Govindaraj Nagar",
             "Shoulder Replacement Surgery in Maruthi Mandir",
           ],
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -175,7 +175,7 @@ export const metaData = [
             "ACL Treatment in Govindaraj Nagar",
             "Shoulder Replacement Surgery in Maruthi Mandir",
           ],
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -293,7 +293,7 @@ export const metaData = [
             "ACL Treatment in Govindaraj Nagar",
             "Shoulder Replacement Surgery in Maruthi Mandir",
           ],
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -458,7 +458,7 @@ export const metaData = [
             "ACL Treatment in Govindaraj Nagar",
             "Shoulder Replacement Surgery in Maruthi Mandir",
           ],
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -606,7 +606,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -757,7 +757,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -908,7 +908,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1083,7 +1083,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1227,7 +1227,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1362,7 +1362,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1495,7 +1495,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1626,7 +1626,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1758,7 +1758,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -1897,7 +1897,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2048,7 +2048,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2176,7 +2176,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2313,7 +2313,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2450,7 +2450,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2587,7 +2587,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2724,7 +2724,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2861,7 +2861,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -2998,7 +2998,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3135,7 +3135,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3272,7 +3272,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3409,7 +3409,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3546,7 +3546,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3683,7 +3683,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3820,7 +3820,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -3958,7 +3958,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4095,7 +4095,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4232,7 +4232,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4369,7 +4369,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4506,7 +4506,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4643,7 +4643,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4780,7 +4780,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -4917,7 +4917,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -5054,7 +5054,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -5191,7 +5191,7 @@ export const metaData = [
           logo: "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
           address: {
             "@type": "PostalAddress",
@@ -5326,7 +5326,7 @@ export const metaData = [
       name: "Brunda Advanced Orthopaedics & ENT Centre",
       image: "https://www.brundasclinic.com/logo.png",
       url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91-9632371211",
       address: {
         "@type": "PostalAddress",
@@ -5411,7 +5411,7 @@ export const metaData = [
         name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
-        email: "brundaadvance@gmail.com",
+        email: "brundasclinic@gmail.com ",
       },
       description:
         "Advanced spine surgery in Govindaraj Nagar for severe spinal disorders, herniated discs, and nerve compression.",
@@ -5665,7 +5665,7 @@ export const metaData = [
       name: "Brunda Advanced Orthopaedics & ENT Centre",
       url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
       telephone: "+91-9632371211",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       medicalSpecialty: ["Orthopedic"],
       description:
         "Orthopaedic clinic in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and post-treatment rehabilitation.",
@@ -7252,7 +7252,7 @@ export const metaData = [
         name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
-        email: "brundaadvance@gmail.com",
+        email: "brundasclinic@gmail.com ",
       },
       description:
         "Advanced spine surgery in Govindaraj Nagar for severe spinal disorders, herniated discs, and nerve compression.",
@@ -7642,7 +7642,7 @@ export const metaData = [
           name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
           telephone: "+91-9632371211",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           medicalSpecialty: ["Orthopedic"],
           description:
             "Orthopaedic clinic in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and post-treatment rehabilitation.",
@@ -8155,7 +8155,7 @@ export const metaData = [
             name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaadvance@gmail.com",
+            email: "brundasclinic@gmail.com ",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -8837,7 +8837,7 @@ export const metaData = [
             name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaadvance@gmail.com",
+            email: "brundasclinic@gmail.com ",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -13306,7 +13306,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -13405,7 +13405,7 @@ export const metaData = [
         name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
-        email: "brundaadvance@gmail.com",
+        email: "brundasclinic@gmail.com ",
       },
       description:
         "Advanced spine surgery in Govindaraj Nagar for severe spinal disorders, herniated discs, and nerve compression.",
@@ -13795,7 +13795,7 @@ export const metaData = [
           name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
           telephone: "+91-9632371211",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           medicalSpecialty: ["Orthopedic"],
           description:
             "Orthopaedic clinic in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and post-treatment rehabilitation.",
@@ -14308,7 +14308,7 @@ export const metaData = [
             name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaadvance@gmail.com",
+            email: "brundasclinic@gmail.com ",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -14990,7 +14990,7 @@ export const metaData = [
             name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaadvance@gmail.com",
+            email: "brundasclinic@gmail.com ",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -22497,7 +22497,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-govindaraj-nagar",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -22596,7 +22596,7 @@ export const metaData = [
         name: "Brunda Advanced Orthopaedics & ENT Centre",
         url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-govindaraj-nagar",
         telephone: "+91-9632371211",
-        email: "brundaadvance@gmail.com",
+        email: "brundasclinic@gmail.com ",
       },
       description:
         "Advanced spine surgery in Govindaraj Nagar for severe spinal disorders, herniated discs, and nerve compression.",
@@ -22986,7 +22986,7 @@ export const metaData = [
           name: "Brunda Advanced Orthopaedics & ENT Centre",
           url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-govindaraj-nagar",
           telephone: "+91-9632371211",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           medicalSpecialty: ["Orthopedic"],
           description:
             "Orthopaedic clinic in Govindaraj Nagar for fractures, arthritis, joint pain, sports injuries, and post-treatment rehabilitation.",
@@ -23499,7 +23499,7 @@ export const metaData = [
             name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaadvance@gmail.com",
+            email: "brundasclinic@gmail.com ",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -24181,7 +24181,7 @@ export const metaData = [
             name: "Brunda Advanced Orthopaedics & ENT Centre",
             url: "https://www.brundasclinic.com/",
             telephone: "+91-9632371211",
-            email: "brundaadvance@gmail.com",
+            email: "brundasclinic@gmail.com ",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Shivananda Nagar Main Road, Vijayanagar",
@@ -31696,7 +31696,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/spine-doctor-in-moodalapalya",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -31789,7 +31789,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/spine-surgery-in-moodalapalya",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -31882,7 +31882,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/spine-surgeries-in-moodalapalya",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -31976,7 +31976,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/orthopaedic-surgeon-in-moodalapalya",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32069,7 +32069,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/orthopaedic-doctor-in-moodalapalya",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32163,7 +32163,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/orthopaedic-clinic-in-moodalapalya",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32256,7 +32256,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/orthopaedic-specialist-in-moodalapalya",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32389,7 +32389,7 @@ export const metaData = [
       url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
       image:
         "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png?dpl=dpl_3ZJb4nnHksi3y6CyeK2WBYFT1HCS",
-      email: "brundaadvance@gmail.com",
+      email: "brundasclinic@gmail.com ",
       telephone: "+91 96323 71211",
       contactPoint: [
         {
@@ -32527,7 +32527,7 @@ export const metaData = [
           url: "https://www.brundasclinic.com/sitemap/bone-specialist-doctor-in-moodalapalya",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
 
           address: {
@@ -32717,7 +32717,7 @@ export const metaData = [
           url: "https://www.brundasclinic.com/sitemap/spine-care-in-moodalapalya",
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
           telephone: "+91 96323 71211",
 
           address: {
@@ -32915,7 +32915,7 @@ export const metaData = [
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
 
           telephone: "+91 96323 71211",
 
@@ -33117,7 +33117,7 @@ export const metaData = [
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
 
           telephone: "+91 96323 71211",
 
@@ -33320,7 +33320,7 @@ export const metaData = [
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
 
           telephone: "+91 96323 71211",
 
@@ -33522,7 +33522,7 @@ export const metaData = [
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
 
           telephone: "+91 96323 71211",
 
@@ -33725,7 +33725,7 @@ export const metaData = [
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
 
           telephone: "+91 96323 71211",
 
@@ -33928,7 +33928,7 @@ export const metaData = [
           image:
             "https://www.brundasclinic.com/assets/banners/Brunda%20Logo.png",
 
-          email: "brundaadvance@gmail.com",
+          email: "brundasclinic@gmail.com ",
 
           telephone: "+91 96323 71211",
 
